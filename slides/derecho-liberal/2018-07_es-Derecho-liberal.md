@@ -30,11 +30,14 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ![¿porque el mundo no es injusto en mi favor?](calvin-hobbes-fair-unfair.png)
 
+¿porque el mundo no es injusto en mi favor?
 
 ---
 
 
 ![para todos, yo excepto](calvin-hobbes-ethics.png)
+
+¡porsupuesto, no para mi!
 
 
 ---
@@ -42,31 +45,49 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ### 1.2. Robespierre
 
-[](robespierre.jpg)
 
-Robespierre, el que primer puso en la ley el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide? por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... pero como acabo?
+![Robespierre](robespierre.jpg)
+
+Maximilien de Robespierre (1758-1794)
+
 
 ---Texto---
 
-Al día siguiente, Robespierre fue conducido a la plaza de la Revolución (hoy plaza de la Concordia), en la que cientos de personas habían muerto durante los meses anteriores, y fue guillotinado junto a veintiún colaboradores, entre los que se encontraban Saint-Just, Couthon y el general Hanriot.
+Robespierre, uno de los lideres de la Revolucion frances, especialmente durante la Teror, guillotinando a miles de personas.
+
+Robespierre introduzco en la ley frances el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide? por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... pero como acabo? La definicion era por supuesto muy mal definida, y las pruevas neceserias lijeras.
+
+Y como acabo? guillotinado en plaza de la Revolución.
 
 
 ---
 
 
-
 ## 1.3. La troika de la NKVD
 
-Robespierre ha sido una inspiracion para los comunistas rusos mas de un siglo despues: [una estatue en el honor de Robespierre](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un proto-bolcheviquo
+![estatua de Robespierre](robespierre-estatua.jpg)
 
-Los comunistas soviéticos también tenían comités arbitrarios, las troikas, y también llamaban "enemigos del pueblo" a los que querían eliminar. Por supuesto, Robespierre ha sido un precursor del comunismo, en las propias palabras de Lenin. La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
-[Генрих Ягода - Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda) (1934-1936)
+---Texto---
 
-[](yagoda.jpg)
+Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo despues: [una estatue en el honor de Robespierre](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo.
 
-Nikolái Yezhov (1936-1938)
-[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria) (1938-1953)
+Los comunistas soviéticos también tenían comités arbitrarios, las troikas, y también llamaban "enemigos del pueblo" a los que querían eliminar, y tambien tenian leyes mal definidas, arbitrarias, grande poder a las troikas, pocos derechos a los acusados.
+
+La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
+
+
+---
+
+
+|Генрих Ягода|||
+|---|---|---|
+|![Yagoda](yagoda.jpg)|![Yezhov](yezhov.jpg)|![Beria](Beria.jpg)|
+|[Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda)|Nikolái Yezhov|[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria)|
+|(1934-1936)|(1936-1938)|(1938-1953)|
+
+
+---Texto---
 
 Tienen dos cosas en común:
 
@@ -80,11 +101,16 @@ https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas
 
 Fue encerrado en la lóbrega85​ prisión especial del NKVD de Sujánovka, reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú.85​ Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía.86​ Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones.86​
 
-Lavrenti Beria (1938-1953)
+
 
 https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB
 
 y tambien, todos acabaron exactamente de la misma menera. y tambien no eran los unicos,
+
+
+---
+
+
 
 ## 2. El derecho asimétrico es nihilismo
 
@@ -355,8 +381,11 @@ Interpersonal Power: A Review, Critique, and Research Agenda
 
 https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 
+---
 
 ## 5. Conclusión
+
+---Texto---
 
 Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demas.
 
@@ -375,6 +404,7 @@ El Derecho liberal es el unico marco que ofrece una sociedad civilizada, pacific
 Historicamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aun, ya seriamos sido libres de hacer muchissimo mas (tema de mi proxima charla)
 
 
+---
 
 
 ¡Muchas gracias!
