@@ -111,7 +111,7 @@ Fue encerrado en la lóbrega85​ prisión especial del NKVD de Sujánovka, rese
 
 https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB
 
-y tambien, todos acabaron exactamente de la misma manera. y tambien no eran los unicos,
+y también, todos acabaron exactamente de la misma manera. y también no eran los únicos,
 
 
 ---
