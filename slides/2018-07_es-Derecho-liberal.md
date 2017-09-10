@@ -22,17 +22,28 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ## 1. El problema: la voluntad de derecho asimétrico
 
+
+---
+
+
 ### 1.1. Calvin y Hobbes
 
 - [¿porque el mundo no es injusto en mi favor?](calvin-hobbes-fair-unfair.png)
 
 - [para todos, yo excepto](calvin-hobbes-ethics.png)
 
+
+---
+
+
 ### 1.2. Robespierre
 
 [](robespierre.jpg)
 
 Robespierre, el que primer puso en la ley el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide? por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... pero como acabo?
+
+---Texto---
+
 
 Al día siguiente, Robespierre fue conducido a la plaza de la Revolución (hoy plaza de la Concordia), en la que cientos de personas habían muerto durante los meses anteriores, y fue guillotinado junto a veintiún colaboradores, entre los que se encontraban Saint-Just, Couthon y el general Hanriot.
 
