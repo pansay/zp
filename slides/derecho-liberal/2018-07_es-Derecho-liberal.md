@@ -28,16 +28,22 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ### 1.1. Calvin y Hobbes
 
-![¿porque el mundo no es injusto en mi favor?](calvin-hobbes-fair-unfair.png)
+![¿ porque el mundo no es injusto en mi favor?](calvin-hobbes-fair-unfair.png)
 
-¿porque el mundo no es injusto en mi favor?
+
+---Texto---
+
+¿ porque el mundo no es injusto en mi favor?
+
 
 ---
 
 
-![para todos, yo excepto](calvin-hobbes-ethics.png)
+![para todos, yo excepto ](calvin-hobbes-ethics.png)
 
-¡porsupuesto, no para mi!
+---Texto---
+
+¡ por supuesto, no para mi!
 
 
 ---
@@ -46,16 +52,16 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 ### 1.2. Robespierre
 
 
-![Robespierre](robespierre.jpg)
+![ Robespierre ](robespierre.sjpg)
 
 Maximilien de Robespierre (1758-1794)
 
 
 ---Texto---
 
-Robespierre, uno de los lideres de la Revolucion frances, especialmente durante la Teror, guillotinando a miles de personas.
+Robespierre, uno de los lideres de la Revolución francés, especialmente durante la Teror, guillotinando a miles de personas.
 
-Robespierre introduzco en la ley frances el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide? por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... pero como acabo? La definicion era por supuesto muy mal definida, y las pruevas neceserias lijeras.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide? por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... pero como acabo? La definición era por supuesto muy mal definida, y las pruebas necesarias ligeras.
 
 Y como acabo? guillotinado en plaza de la Revolución.
 
@@ -63,21 +69,21 @@ Y como acabo? guillotinado en plaza de la Revolución.
 ---
 
 
-## 1.3. La troika de la NKVD
-
-![estatua de Robespierre](robespierre-estatua.jpg)
+![ estatua de Robespierre ](robespierre-estatua.jpg)
 
 
 ---Texto---
 
-Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo despues: [una estatue en el honor de Robespierre](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo.
+Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en el honor de Robespierre ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo.
 
-Los comunistas soviéticos también tenían comités arbitrarios, las troikas, y también llamaban "enemigos del pueblo" a los que querían eliminar, y tambien tenian leyes mal definidas, arbitrarias, grande poder a las troikas, pocos derechos a los acusados.
+Los comunistas soviéticos también tenían comités arbitrarios, las troikas, y también llamaban "enemigos del pueblo" a los que querían eliminar, y también tenían leyes mal definidas, arbitrarias, grande poder a las troikas, pocos derechos a los acusados.
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
 
 ---
+
+## 1.3. La troika de la NKVD
 
 
 |Генрих Ягода|Николай Ежoв|Лаврентий Берия|
@@ -105,7 +111,7 @@ Fue encerrado en la lóbrega85​ prisión especial del NKVD de Sujánovka, rese
 
 https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB
 
-y tambien, todos acabaron exactamente de la misma menera. y tambien no eran los unicos,
+y tambien, todos acabaron exactamente de la misma manera. y tambien no eran los unicos,
 
 
 ---
@@ -118,7 +124,7 @@ y tambien, todos acabaron exactamente de la misma menera. y tambien no eran los 
 
 Que fueron pensando estas personas los momentos antes de morir? Les había parecido justa su condenación?
 
-pero con cuales principios la podrian rechazar?
+pero con cuales principios la podrían rechazar?
 
 
 ---Texto---
@@ -133,15 +139,15 @@ vamos a ver un extracto de la película *Big Lebowski*.
 ---
 
 
-eso es una illustracion de lo que Ayn Rand llamaba el sofismo del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interasa a ellos. pero ya es tarde.
+eso es una ilustración de lo que Ayn Rand llamaba el sofismo del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde.
 
 ### 2.2. Autoridad divina
 
-> Convencidos éstos de que los gobernantes tienen su autoridad recibida de Dios, se sentirán obligados en justicia a aceptar con docilidad los mandatos de los gobernantes y a prestarles obediencia y fidelidad, con un sentimiento parecido a la piedad que los hijos tienen con sus padres. «Todos habéis de estar sometidos a las autoridades superiores»[3]. Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación»[4].
+> Convencidos éstos de que los gobernantes tienen su autoridad recibida de Dios, se sentirán obligados en justicia a aceptar con docilidad los mandatos de los gobernantes y a prestarles obediencia y fidelidad, con un sentimiento parecido a la piedad que los hijos tienen con sus padres. «Todos habéis de estar sometidos a las autoridades superiores »[3]. Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación »[4].
 >
 > -- [Carta Encíclica Immortale Dei Del Sumo Pontífice León XIII Sobre La Constitución Cristiana Del Estado](http://w2.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)
 
-y no es solo el catolicismo, el protestantismo tambien:
+y no es solo el catolicismo, el protestantismo también:
 
 + Martin Luther idem !
 
@@ -171,7 +177,7 @@ Todos somos seres humanos con misma sangre, con misma existencia física, someti
 
 ### 3.1 Simetría del derecho
 
-Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco. El derecho que se puede justificar de manera puramente lógica, y que asi es incontestable para cualquier persona que sí acepta el Derecho, es decir, cualquier persona que rechaza los problemas del nihilismo que acabamos de ver.
+Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco. El derecho que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que sí acepta el Derecho, es decir, cualquier persona que rechaza los problemas del nihilismo que acabamos de ver.
 
 ....
 
