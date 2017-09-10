@@ -80,9 +80,9 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 ---
 
 
-|Генрих Ягода|||
+|Генрих Ягода|Николай Ежoв|Лаврентий Берия|
 |---|---|---|
-|![Yagoda](yagoda.jpg)|![Yezhov](yezhov.jpg)|![Beria](Beria.jpg)|
+|![Yagoda](yagoda.jpg)|![Yezhov](yezhov.png)|![Beria](beria.jpg)|
 |[Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda)|Nikolái Yezhov|[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria)|
 |(1934-1936)|(1936-1938)|(1938-1953)|
 
@@ -120,13 +120,15 @@ Que fueron pensando estas personas los momentos antes de morir? Les había parec
 
 pero con cuales principios la podrian rechazar?
 
----
-
-<video data-autoplay src="nihilists-not-fair.mp4"></video>
 
 ---Texto---
 
-vamos a ver [un extracto de la película *Big Lebowski*](nihilists-not-fair.mp4).
+vamos a ver un extracto de la película *Big Lebowski*.
+
+
+---
+
+<video data-autoplay src="nihilists-not-fair.mp4"></video>
 
 ---
 
@@ -147,10 +149,17 @@ El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibid
 
 Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración del derecho del mas fuerte, que al final es puramente descriptivo: las cosas son come son.
 
+---Texto---
+
 Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
-englishmen.mp4
 
+---
+
+<video data-autoplay src="englishmen.mp4"></video>
+
+
+---
 
 Al final, nadie de los proponientes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunos nihilistas para tomar poder sobre otras personas, nada mas.
 
