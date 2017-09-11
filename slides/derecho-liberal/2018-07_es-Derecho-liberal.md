@@ -249,6 +249,22 @@ Todos somos seres humanos con misma sangre, con misma existencia física, someti
 
 + idem democracia ??
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
