@@ -18,6 +18,11 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 4. Los enemigos del Derecho
 5. Conclusión: la importancia del Derecho
 
+
+---Texto---
+
+Derecho con D mayúscula cuando es único
+
 ---
 
 ## 1. El problema: la voluntad de derechos asimétricos
@@ -113,12 +118,17 @@ Tienen dos cosas en común:
 
 * La segunda, todos han acabado de la misma manera: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtenir confesiones extravagantes.
 
+y también, como los revolucionarios franceses, no eran los unicos. las purgas estalinistas acabaron con ... miembros del partido. los espiás del KGB, etc ....
+
+
+---
+
+
+> Yezhov propuso el 15 de septiembre de 1938 la formación de troikas regionales —formadas por el responsable provincial del NKVD, el jefe regional del partido y el procurador de la región— que examinasen los casos en lugar del centro y que tuviesen capacidad de dictar sentencias de muerte.... Durante los dos meses de funcionamiento, las troikas juzgaron alrededor de ciento ocho mil casos, condenando a ciento cinco mil personas, setenta y dos mil de ellas a muerte. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB))
+
+---
+
 > Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka, reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
-
-https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB
-
-y también, como los revolucionarios franceses, no eran los unicos. las purgas estalinistas acabaron con ... miembros del partido. los espias del KGB, etc ....
-
 
 
 ---
@@ -127,14 +137,20 @@ y también, como los revolucionarios franceses, no eran los unicos. las purgas e
 
 ## 2. Derechos asimétricos son nihilismo
 
+
+---
+
+
+
 ### 2.1. El concepto robado
+
+
+---Texto---
 
 Que fueron pensando estas personas los momentos antes de morir? Les había parecido justa su condenación?
 
 pero con cuales principios la podrían rechazar?
 
-
----Texto---
 
 vamos a ver un extracto de la película *Big Lebowski*.
 
@@ -143,14 +159,13 @@ vamos a ver un extracto de la película *Big Lebowski*.
 
 <video data-autoplay src="nihilists-not-fair.mp4"></video>
 
----
-
+---Texto---
 
 Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creian que la ilusion de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra sus enemigos, y jamas contra ellos. Lo mismo para los comunistas y las decisiones "del partido" en nome del pueblo o del proletariado...  rechazando el Derecho como burgueso, y sean tambien victimas de lo mismo...
 
 la arbitariedad de las decisiones de comites es de hecho parecida al nihilismo. Y no es casualidad:
 
-
+---
 
 > En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
 >
@@ -205,7 +220,7 @@ Marx: bourgeois
 
 y no es solo el catolicismo, el protestantismo también:
 
-+ Martin Luther idem !
+“In a like manner we must endure the authority of the prince. If he misuse or abuse his authority, we are not to entertain a grudge, seek revenge or punishment. Obedience is to be rendered for God’s sake, for the ruler is God’s representative. However they may tax or exact, we must obey and endure patiently.” [Martin Luther, Tribute to Caesar sermon, from The Political Theories of Martin Luther, Luther Hess Waring (New York, Putnam’s, 1910) p. 104]
 
 El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? Y al final si hay conflicto y el rey esta remplazado por otro rey, el también tendrá su autoridad de Dios! (Históricamente: dinastías cambiadas, reconocimientos por el Vatican ?? y quien ha sido el primero?
 
@@ -222,7 +237,7 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 <video data-autoplay src="englishmen.mp4"></video>
 
 
----
+---Texto---
 
 Al final, nadie de los proponientes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunos nihilistas para tomar poder sobre otras personas, nada mas.
 
@@ -240,6 +255,8 @@ Todos somos seres humanos con misma sangre, con misma existencia física, someti
 ## 3. La solución: el Derecho
 
 ### 3.1 Simetría del derecho
+
+---Texto---
 
 Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco. El derecho que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que sí acepta el Derecho, es decir, cualquier persona que rechaza los problemas del nihilismo que acabamos de ver.
 
@@ -420,6 +437,7 @@ http://www.un.org/es/universal-declaration-human-rights/ La Declaración Univers
 >
 > Alfredo Rocco, from 1925 to 1932 he was Minister of Justice of fascist Italy, The Political Doctrine of Fascism, 1925
 
+---
 
 
 ## 4.6. Derecho vs poder
