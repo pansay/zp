@@ -20,7 +20,7 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---
 
-## 1. El problema: la voluntad de derecho asimétrico
+## 1. El problema: la voluntad de derechos asimétricos
 
 
 ---
@@ -33,7 +33,12 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---Texto---
 
-¿ porque el mundo no es injusto en mi favor?
+- ¿ Porque vosotros se pueden quedar pero yo tengo que ir a dormir ?
+- ¡ No es justo !
+- ¡ El mundo no es justo, Calvin !
+- Ya sé, pero ¿ porque no es injusto en mi favor?
+
+¿ Porque el mundo no es injusto en mi favor ? -- buena pregunta !
 
 
 ---
@@ -43,8 +48,13 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---Texto---
 
-¡ por supuesto, no para mi!
+Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte , es un mundo salvaje así que voy a hacer lo que voy, 
 
+Ay, ¿ porque me empujas ?  pues estebaste en mi camino, ahora no lo estas mas, el fin justifica los medios
+
+¡ pero no seas tonto, yo quería decir para mi por supuesto, no para los demás !
+
+Eso es la voluntad de derecho asimétrico -- libertad absoluta para si mismo, pero, al mismo tiempo, reglas absolutas para todos los demás.
 
 ---
 
@@ -52,12 +62,14 @@ Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
 ### 1.2. Robespierre
 
 
-![ Robespierre ](robespierre.sjpg)
+![ Robespierre ](robespierre.jpg)
 
 Maximilien de Robespierre (1758-1794)
 
 
 ---Texto---
+
+Otro ejemplo mas concreto:
 
 Robespierre, uno de los lideres de la Revolución francés, especialmente durante la Teror, guillotinando a miles de personas.
 
@@ -88,7 +100,7 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 |Генрих Ягода|Николай Ежoв|Лаврентий Берия|
 |---|---|---|
-|![Yagoda](yagoda.jpg)|![Yezhov](yezhov.png)|![Beria](beria.jpg)|
+|![Yagoda](yagoda.jpg)|![Yezhov](yezhov.jpg)|![Beria](beria.jpg)|
 |[Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda)|Nikolái Yezhov|[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria)|
 |(1934-1936)|(1936-1938)|(1938-1953)|
 
@@ -97,28 +109,23 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 Tienen dos cosas en común:
 
-la primera, todos han sido criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidos con torturas.
+* La primera, todos han sido criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidos con torturas.
 
-la segunda, todos han acabado de la misma menara: acusados falsamente, detenidos y ejecutados arbitrariamente, con confesiones obtenidos con torturas
+* La segunda, todos han acabado de la misma manera: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtenir confesiones extravagantes.
 
-> Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka, reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones.
-
-https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB
-
-Fue encerrado en la lóbrega85​ prisión especial del NKVD de Sujánovka, reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú.85​ Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía.86​ Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones.86​
-
-
+> Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka, reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
 
 https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB
 
-y también, todos acabaron exactamente de la misma manera. y también no eran los únicos,
+y también, como los revolucionarios franceses, no eran los unicos. las purgas estalinistas acabaron con ... miembros del partido. los espias del KGB, etc ....
+
 
 
 ---
 
 
 
-## 2. El derecho asimétrico es nihilismo
+## 2. Derechos asimétricos son nihilismo
 
 ### 2.1. El concepto robado
 
@@ -139,7 +146,56 @@ vamos a ver un extracto de la película *Big Lebowski*.
 ---
 
 
-eso es una ilustración de lo que Ayn Rand llamaba el sofismo del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde.
+Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creian que la ilusion de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra sus enemigos, y jamas contra ellos. Lo mismo para los comunistas y las decisiones "del partido" en nome del pueblo o del proletariado...  rechazando el Derecho como burgueso, y sean tambien victimas de lo mismo...
+
+la arbitariedad de las decisiones de comites es de hecho parecida al nihilismo. Y no es casualidad:
+
+
+
+> En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
+>
+> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
+
+> А буржуазное мировоззрение в право поставившее закон на место бога, как раз заключается в обожествлении фетишизации закона.
+> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), président du Tribunal Suprême de la Russie soviétique, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
+
+> [L’idéologie bourgeoise du Droit a remplacé Dieu par la loi, déifiant ainsi son fétichisme du Droit.]
+
+
+
+https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm#i
+
+
+
+
+
+
+Por eso, el derecho igual sigue siendo aquí, en principio, el derecho burgués, aunque ahora el principio y la práctica ya no se tiran de los pelos, mientras que en el regimen de intercambio de mercancias, el intercambio de equivalentes no se da más que como término medio, y no en los casos individuales.
+
+A pesar de este progreso, este derecho igual sigue llevando implícita una limitación burguesa. El derecho de los productores es proporcional al trabajo que han rendido; la igualdad, aquí, consiste en que se mide por el mismo rasero: por el trabajo.
+
+Pero unos individuos son superiores, fisica e intelectualmente a otros y rinden, pues, en el mismo tiempo, más trabajo, o pueden trabajar más tiempo; y el trabajo, para servir de medida, tiene que determinarse en cuanto a duración o intensidad; de otro modo, deja de ser una medida. Este derecho igual es un derecho desigual para trabajo desigual. No reconoce ninguna distinción de clase, porque aquí cada individuo no es más que un trabajador como los demás; pero reconoce, tacitamente, como otros tantos privilegios naturales, las desiguales aptitudes individuales****, y, por consiguiente, la desigual capacidad de rendimiento. En el fondo es, por tanto, como todo derecho, el derecho de la desigualdad. El derecho sólo puede consistir, por naturaleza, en la aplicación de una medida igual; pero los individuos desiguales (y no serían distintos individuos si no fuesen desiguales) sólo pueden medirse por la misma medida siempre y cuando que se les coloque bajo un mismo punto de vista y se les mire solamente en un aspecto determinado ; por ejemplo, en el caso dado, sólo en cuanto obreros, y no se vea en ellos ninguna otra cosa, es decir, se prescinda de todo lo demás. Prosigamos: un obrero está casado y otro no; uno tiene más hijos que otro, etc., etc. A igual trabajo y, por consiguiente, a igual participación en el fondo social de consumo, uno obtiene de hecho más que otro, uno es más rico que otro, etc. Para evitar todos estos inconvenientes, el derecho no tendría que ser igual, sino desigual.
+
+Pero estos defectos son inevitables en la primera fase de la sociedad comunista, tal y como brota de la sociedad capitalista después de un largo y doloroso alumbramiento. El derecho no puede ser nunca superior a la estructura económica ni al desarrollo cultural de la sociedad por ella condicionado.
+
+En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas: ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
+
+Marx: bourgeois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2.2. Autoridad divina
 
@@ -162,6 +218,7 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---
 
+
 <video data-autoplay src="englishmen.mp4"></video>
 
 
@@ -172,6 +229,13 @@ Al final, nadie de los proponientes de algún derecho asimétrico ha jamas lleva
 Sean Connery sangre
 
 Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, y así con los mismos derechos, así que nadie tiene derecho de ser rey (o presidente, o dictador), por la razón que nadie tiene derecho que otro no tendría.
+
+
+
++ idem democracia ??
+
+---
+
 
 ## 3. La solución: el Derecho
 
@@ -333,35 +397,7 @@ https://es.wikipedia.org/wiki/Gabriel_V%C3%A1zquez
 
 ## 4.1. Criticos del Derecho
 
-> En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
->
-> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
 
-> А буржуазное мировоззрение в право поставившее закон на место бога, как раз заключается в обожествлении фетишизации закона.
-> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), président du Tribunal Suprême de la Russie soviétique, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
-
-> [L’idéologie bourgeoise du Droit a remplacé Dieu par la loi, déifiant ainsi son fétichisme du Droit.]
-
-
-
-https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm#i
-
-
-
-
-
-
-Por eso, el derecho igual sigue siendo aquí, en principio, el derecho burgués, aunque ahora el principio y la práctica ya no se tiran de los pelos, mientras que en el regimen de intercambio de mercancias, el intercambio de equivalentes no se da más que como término medio, y no en los casos individuales.
-
-A pesar de este progreso, este derecho igual sigue llevando implícita una limitación burguesa. El derecho de los productores es proporcional al trabajo que han rendido; la igualdad, aquí, consiste en que se mide por el mismo rasero: por el trabajo.
-
-Pero unos individuos son superiores, fisica e intelectualmente a otros y rinden, pues, en el mismo tiempo, más trabajo, o pueden trabajar más tiempo; y el trabajo, para servir de medida, tiene que determinarse en cuanto a duración o intensidad; de otro modo, deja de ser una medida. Este derecho igual es un derecho desigual para trabajo desigual. No reconoce ninguna distinción de clase, porque aquí cada individuo no es más que un trabajador como los demás; pero reconoce, tacitamente, como otros tantos privilegios naturales, las desiguales aptitudes individuales****, y, por consiguiente, la desigual capacidad de rendimiento. En el fondo es, por tanto, como todo derecho, el derecho de la desigualdad. El derecho sólo puede consistir, por naturaleza, en la aplicación de una medida igual; pero los individuos desiguales (y no serían distintos individuos si no fuesen desiguales) sólo pueden medirse por la misma medida siempre y cuando que se les coloque bajo un mismo punto de vista y se les mire solamente en un aspecto determinado ; por ejemplo, en el caso dado, sólo en cuanto obreros, y no se vea en ellos ninguna otra cosa, es decir, se prescinda de todo lo demás. Prosigamos: un obrero está casado y otro no; uno tiene más hijos que otro, etc., etc. A igual trabajo y, por consiguiente, a igual participación en el fondo social de consumo, uno obtiene de hecho más que otro, uno es más rico que otro, etc. Para evitar todos estos inconvenientes, el derecho no tendría que ser igual, sino desigual.
-
-Pero estos defectos son inevitables en la primera fase de la sociedad comunista, tal y como brota de la sociedad capitalista después de un largo y doloroso alumbramiento. El derecho no puede ser nunca superior a la estructura económica ni al desarrollo cultural de la sociedad por ella condicionado.
-
-En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas: ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
-
-Marx: bourgeois
 
 ## 4.2. Criticos de los derechos humanos
 
