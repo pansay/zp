@@ -1,6 +1,10 @@
 Introducción al Derecho liberal
 ===
 
+---Texto---
+
+el Derecho liberal, que es, y porque es importante
+
 ---
 
 Jan Krepelka
@@ -53,9 +57,9 @@ Derecho con D mayúscula cuando es único
 
 ---Texto---
 
-Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte , es un mundo salvaje así que voy a hacer lo que voy, 
+Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que voy, 
 
-Ay, ¿ porque me empujas ?  pues estebaste en mi camino, ahora no lo estas mas, el fin justifica los medios
+Ay, ¿ porque me empujas ? pues estebaste en mi camino, ahora no lo estas mas, el fin justifica los medios
 
 ¡ pero no seas tonto, yo quería decir para mi por supuesto, no para los demás !
 
@@ -129,7 +133,6 @@ y también, como los revolucionarios franceses, no eran los únicos. las purgas 
 
 ---
 
-
 > Yezhov propuso el 15 de septiembre de 1938 la formación de troikas regionales —formadas por el responsable provincial del NKVD, el jefe regional del partido y el procurador de la región— que examinasen los casos en lugar del centro y que tuviesen capacidad de dictar sentencias de muerte.... Durante los dos meses de funcionamiento, las troikas juzgaron alrededor de ciento ocho mil casos, condenando a ciento cinco mil personas, setenta y dos mil de ellas a muerte. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB))
 
 ---
@@ -174,102 +177,113 @@ la arbitrariedad de las decisiones de comités es de hecho parecida al nihilismo
 
 ---
 
-
-> в его последней стадии коммунизм представлятся не как победа социалистического права, а как победа социализма над правом вообще.
 > En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
 >
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
 
 
+---Texto---
+
+> в его последней стадии коммунизм представлятся не как победа социалистического права, а как победа социализма над правом вообще.
+
 ---
 
-
-> А буржуазное мировоззрение в право поставившее закон на место бога, как раз заключается в обожествлении фетишизации закона.
-> La idologia burguesa del Derecho ha tomado el puesto de Dios, deificando así su fetiche del Derecho.
+> La ideología burguesa del Derecho ha tomado el puesto de Dios, deificando así su fetiche del Derecho.
 > 
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
 
 
 ---Texto---
 
+> А буржуазное мировоззрение в право поставившее закон на место бога, как раз заключается в обожествлении фетишизации закона.
+
 Y eso ya lo vemos en Marx:
 
 ---
-
 
 > En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas: ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
 >
 > -- [Karl Marx, 1875](https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm)
 
-
 ---Texto---
 
 Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: quien determina las "capacidades" de cada uno, y quien determina las "necesidades"? esos son conceptos muy subjetivos, que así dan el poder de interpretación a algunos individuos que tendrían derechos asimétricos de así controlar la vida de los demás.
 
-Nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a el. Pero ¿ como lo lograr?
+Lo que acabamos de ver es la oposición entre dos principios:
+
+- por un lado la protección del Derecho de nos ser robado y matado arbitrariamente : nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a el.
+
+- por el otro lado, esa voluntad de derechos asimétricos: el poder arbitrario sobre los demás
 
 La solución es que para lograr esa protección hay que rechazar su proprio poder: el poder tiene como precio de someterse al poder, y el Derecho tiene como precio de someterse al Derecho.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 2.2. Autoridad divina
-
-> Convencidos éstos de que los gobernantes tienen su autoridad recibida de Dios, se sentirán obligados en justicia a aceptar con docilidad los mandatos de los gobernantes y a prestarles obediencia y fidelidad, con un sentimiento parecido a la piedad que los hijos tienen con sus padres. «Todos habéis de estar sometidos a las autoridades superiores »[3]. Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación »[4].
->
-> -- [Carta Encíclica Immortale Dei Del Sumo Pontífice León XIII Sobre La Constitución Cristiana Del Estado](http://w2.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html)
-
-y no es solo el catolicismo, el protestantismo también:
-
-“In a like manner we must endure the authority of the prince. If he misuse or abuse his authority, we are not to entertain a grudge, seek revenge or punishment. Obedience is to be rendered for God’s sake, for the ruler is God’s representative. However they may tax or exact, we must obey and endure patiently.” [Martin Luther, Tribute to Caesar sermon, from The Political Theories of Martin Luther, Luther Hess Waring (New York, Putnam’s, 1910) p. 104]
-
-El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? Y al final si hay conflicto y el rey esta remplazado por otro rey, el también tendrá su autoridad de Dios! (Históricamente: dinastías cambiadas, reconocimientos por el Vatican ?? y quien ha sido el primero?
-
-Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración del derecho del mas fuerte, que al final es puramente descriptivo: las cosas son come son.
-
----Texto---
-
-Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
-
 
 ---
 
 
-<video data-autoplay src="englishmen.mp4"></video>
+### 2.2. Autoridad del pueblo, autoridad divina
 
 
 ---Texto---
 
-Al final, nadie de los proponientes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunos nihilistas para tomar poder sobre otras personas, nada mas.
+Si los comunistas pretendían tener sus derechos asimétricos gracias al pueblo, a la dictadura del proletariado, también hay otras fuentes, otros pretextos...
 
-Sean Connery sangre
+---
 
-Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, y así con los mismos derechos, así que nadie tiene derecho de ser rey (o presidente, o dictador), por la razón que nadie tiene derecho que otro no tendría.
+> Convencidos éstos de que los gobernantes tienen su autoridad recibida de Dios, se sentirán obligados en justicia a aceptar con docilidad los mandatos de los gobernantes y a prestarles obediencia y fidelidad, con un sentimiento parecido a la piedad que los hijos tienen con sus padres. «Todos habéis de estar sometidos a las autoridades superiores ». Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación ».
+>
+> -- [Carta Encíclica Immortale Dei Del Sumo Pontífice León XIII Sobre La Constitución Cristiana Del Estado](http://w2.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html), 1885
+
+---Texto---
+
+"sea el que sea el titular del poder" !
+
+y no es solo el catolicismo, el protestantismo también ha sido utilizado por algunas personas para defender el poder:
+
+---
+
+> Así también uno debe aceptar la autoridad del gobernante. Uno debe obedecerle únicamente por el amor de Dios, porque él está en el lugar de Dios. Que impongan impuestos tan intolerables como pueden: uno debe obedecerles y sufrir todo pacientemente, por el amor de Dios. 
+>
+> Martín Lutero
 
 
+---Texto---
 
-+ idem democracia ??
+> Thus one must also bear the authority of the ruler. If he abuses it, I am not therefore to bear him a grudge, nor take revenge of and punish him with my hands. One must obey him solely for God’s sake, for he stands in God’s stead. Let them impose taxes as intolerable as they may: one must obey them and suffer everything patiently, for God’s sake.
+>
+> -- [Martin Luther](http://www.godrules.net/library/luther/129luther_e19.htm)
+
+---Texto---
+
+El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? "sea el que sea el titular del poder"... pero como esa situación ha llegada a ser?
+
+Y al final si hay conflicto y el rey esta remplazado por otro rey, el también tendrá su autoridad de Dios! (Históricamente: dinastías cambiadas, reconocimientos por el Vatican ?? y quien ha sido el primero?
+
+Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración del derecho del mas fuerte, que es también una forma de nihilismo.
+
+Y la democracia? pues es exactamente lo mismo. solo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrática también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular que otras decisiones distintas no tendrían.
+
+y también la democracia directa: en Suiza, por ejemplo, vosotros sepáis quien ha dado el derecho de votar a las mujeres?
+
+pues los hombres. en 1959 les preguntan una primera vez, y en referéndum lo rechazaron. y después, en 1971, hace 50 años, lo aceptaron.
+
+pero... si los hombres han dado el derecho de votar a las mujeres, quien lo ha dado a los hombres?
+
+de nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman. Nada de absoluto, universal. Nada de justificado en Derecho.
+
+Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
+
+---
+
+<video data-autoplay src="englishmen.mp4"></video>
+
+---Texto---
+
+Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunos personas que desean poder, para tomar esa poder sobre otras personas, nada mas.
+
+Y esa película, como acaba? el personaje de Sean Connery acaba herido por una mujer que quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, porque tendría derechos distintos de ellos?
 
 
-
-
-
-
-
-
-
-
+Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, con misma voluntad de no morir, de no ser asesinados, y así con los mismos derechos, así que nadie tiene derecho de ser rey (o presidente, o dictador), por la razón que nadie puede tener derechos que otro no tendría.
 
 
 
