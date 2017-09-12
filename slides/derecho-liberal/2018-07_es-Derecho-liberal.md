@@ -78,7 +78,11 @@ Otro ejemplo mas concreto:
 
 Robespierre, uno de los lideres de la Revolución francés, especialmente durante la Teror, guillotinando a miles de personas.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide? por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... pero como acabo? La definición era por supuesto muy mal definida, y las pruebas necesarias ligeras.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide?
+
+La definición era por supuesto muy mal definida, y las pruebas necesarias ligeras.
+
+por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... 
 
 Y como acabo? guillotinado en plaza de la Revolución.
 
@@ -93,7 +97,9 @@ Y como acabo? guillotinado en plaza de la Revolución.
 
 Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en el honor de Robespierre ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo.
 
-Los comunistas soviéticos también tenían comités arbitrarios, las troikas, y también llamaban "enemigos del pueblo" a los que querían eliminar, y también tenían leyes mal definidas, arbitrarias, grande poder a las troikas, pocos derechos a los acusados.
+Los comunistas soviéticos también tenían comités arbitrarios, las troikas (tres personas con poder de decisión de vida y de muerta)
+
+y también llamaban "enemigos del pueblo" a los que querían eliminar, y también tenían leyes mal definidas, arbitrarias, pocos derechos a los acusados.
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
@@ -114,11 +120,11 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 Tienen dos cosas en común:
 
-* La primera, todos han sido criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidos con torturas.
+* La primera, todos han sido criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidos con torturas;
 
-* La segunda, todos han acabado de la misma manera: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtenir confesiones extravagantes.
+* La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtención de confesiones extravagantes.
 
-y también, como los revolucionarios franceses, no eran los unicos. las purgas estalinistas acabaron con ... miembros del partido. los espiás del KGB, etc ....
+y también, como los revolucionarios franceses, no eran los únicos. las purgas stalinistas acabaron con ... miembros del partido. los espiás del KGB, etc ....
 
 
 ---
@@ -128,7 +134,7 @@ y también, como los revolucionarios franceses, no eran los unicos. las purgas e
 
 ---
 
-> Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka, reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
+> Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
 
 
 ---
@@ -147,12 +153,12 @@ y también, como los revolucionarios franceses, no eran los unicos. las purgas e
 
 ---Texto---
 
-Que fueron pensando estas personas los momentos antes de morir? Les había parecido justa su condenación?
+¿Que fueron pensando estas personas los momentos antes de morir? ¿Les había parecido justa su condenación?
 
-pero con cuales principios la podrían rechazar?
+¿ pero con cuales principios la podrían rechazar?
 
 
-vamos a ver un extracto de la película *Big Lebowski*.
+vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 
 ---
@@ -161,42 +167,48 @@ vamos a ver un extracto de la película *Big Lebowski*.
 
 ---Texto---
 
-Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creian que la ilusion de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra sus enemigos, y jamas contra ellos. Lo mismo para los comunistas y las decisiones "del partido" en nome del pueblo o del proletariado...  rechazando el Derecho como burgueso, y sean tambien victimas de lo mismo...
+Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra sus enemigos, y jamas contra ellos. Lo mismo para los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado...  rechazando el Derecho como cosa burguesa, y sean también victimas de lo mismo...
 
-la arbitariedad de las decisiones de comites es de hecho parecida al nihilismo. Y no es casualidad:
+la arbitrariedad de las decisiones de comités es de hecho parecida al nihilismo. Y no es casualidad:
+
 
 ---
 
+
+> в его последней стадии коммунизм представлятся не как победа социалистического права, а как победа социализма над правом вообще.
 > En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
 >
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
 
+
+---
+
+
 > А буржуазное мировоззрение в право поставившее закон на место бога, как раз заключается в обожествлении фетишизации закона.
-> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), président du Tribunal Suprême de la Russie soviétique, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
-
-> [L’idéologie bourgeoise du Droit a remplacé Dieu par la loi, déifiant ainsi son fétichisme du Droit.]
-
-
-
-https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm#i
+> La idologia burguesa del Derecho ha tomado el puesto de Dios, deificando así su fetiche del Derecho.
+> 
+> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
 
 
+---Texto---
+
+Y eso ya lo vemos en Marx:
+
+---
 
 
+> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas: ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
+>
+> -- [Karl Marx, 1875](https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm)
 
 
-Por eso, el derecho igual sigue siendo aquí, en principio, el derecho burgués, aunque ahora el principio y la práctica ya no se tiran de los pelos, mientras que en el regimen de intercambio de mercancias, el intercambio de equivalentes no se da más que como término medio, y no en los casos individuales.
+---Texto---
 
-A pesar de este progreso, este derecho igual sigue llevando implícita una limitación burguesa. El derecho de los productores es proporcional al trabajo que han rendido; la igualdad, aquí, consiste en que se mide por el mismo rasero: por el trabajo.
+Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: quien determina las "capacidades" de cada uno, y quien determina las "necesidades"? esos son conceptos muy subjetivos, que así dan el poder de interpretación a algunos individuos que tendrían derechos asimétricos de así controlar la vida de los demás.
 
-Pero unos individuos son superiores, fisica e intelectualmente a otros y rinden, pues, en el mismo tiempo, más trabajo, o pueden trabajar más tiempo; y el trabajo, para servir de medida, tiene que determinarse en cuanto a duración o intensidad; de otro modo, deja de ser una medida. Este derecho igual es un derecho desigual para trabajo desigual. No reconoce ninguna distinción de clase, porque aquí cada individuo no es más que un trabajador como los demás; pero reconoce, tacitamente, como otros tantos privilegios naturales, las desiguales aptitudes individuales****, y, por consiguiente, la desigual capacidad de rendimiento. En el fondo es, por tanto, como todo derecho, el derecho de la desigualdad. El derecho sólo puede consistir, por naturaleza, en la aplicación de una medida igual; pero los individuos desiguales (y no serían distintos individuos si no fuesen desiguales) sólo pueden medirse por la misma medida siempre y cuando que se les coloque bajo un mismo punto de vista y se les mire solamente en un aspecto determinado ; por ejemplo, en el caso dado, sólo en cuanto obreros, y no se vea en ellos ninguna otra cosa, es decir, se prescinda de todo lo demás. Prosigamos: un obrero está casado y otro no; uno tiene más hijos que otro, etc., etc. A igual trabajo y, por consiguiente, a igual participación en el fondo social de consumo, uno obtiene de hecho más que otro, uno es más rico que otro, etc. Para evitar todos estos inconvenientes, el derecho no tendría que ser igual, sino desigual.
+Nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a el. Pero ¿ como lo lograr?
 
-Pero estos defectos son inevitables en la primera fase de la sociedad comunista, tal y como brota de la sociedad capitalista después de un largo y doloroso alumbramiento. El derecho no puede ser nunca superior a la estructura económica ni al desarrollo cultural de la sociedad por ella condicionado.
-
-En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas: ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
-
-Marx: bourgeois
-
+La solución es que para lograr esa protección hay que rechazar su proprio poder: el poder tiene como precio de someterse al poder, y el Derecho tiene como precio de someterse al Derecho.
 
 
 
