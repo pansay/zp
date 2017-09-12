@@ -260,16 +260,6 @@ Y al final si hay conflicto y el rey esta remplazado por otro rey, el también t
 
 Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración del derecho del mas fuerte, que es también una forma de nihilismo.
 
-Y la democracia? pues es exactamente lo mismo. solo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrática también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular que otras decisiones distintas no tendrían.
-
-y también la democracia directa: en Suiza, por ejemplo, vosotros sepáis quien ha dado el derecho de votar a las mujeres?
-
-pues los hombres. en 1959 les preguntan una primera vez, y en referéndum lo rechazaron. y después, en 1971, hace 50 años, lo aceptaron.
-
-pero... si los hombres han dado el derecho de votar a las mujeres, quien lo ha dado a los hombres?
-
-de nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman. Nada de absoluto, universal. Nada de justificado en Derecho.
-
 Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---
@@ -283,18 +273,27 @@ Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevad
 Y esa película, como acaba? el personaje de Sean Connery acaba herido por una mujer que quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, porque tendría derechos distintos de ellos?
 
 
+Y la democracia? pues es exactamente lo mismo. solo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrática también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular que otras decisiones distintas no tendrían.
+
+y también la democracia directa: en Suiza, por ejemplo, vosotros sepáis quien ha dado el derecho de votar a las mujeres?
+
+pues los hombres. en 1959 nos preguntan una primera vez, a nosotros varones Suizos.... tíos, esas chicas, los quieren dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). lo rechazamos.
+
+y después, en 1971, hace 50 años, misma pregunta... mirad tíos, ahora esas chicas son un poco mas listas, seguro no les quieren dar el derecho de votar? pues, ok, vale...
+
+pero... si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? porque no ha sido lo contrario?
+
+de nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones. las feministas suizas, también hubieran podido hacer su proprio estado paralelo, sus proprias instituciones, con la misma autoridad, o ausencia de autoridad, que las instituciones construidas por los hombres.
+
+Nada de absoluto, universal. Nada de justificado en Derecho.
+
 Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, con misma voluntad de no morir, de no ser asesinados, y así con los mismos derechos, así que nadie tiene derecho de ser rey (o presidente, o dictador), por la razón que nadie puede tener derechos que otro no tendría.
-
-
-
-
-
-
 
 ---
 
-
 ## 3. La solución: el Derecho
+
+---
 
 ### 3.1 Simetría del derecho
 
@@ -498,9 +497,9 @@ https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 
 ---Texto---
 
-Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demas.
+Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demás.
 
-Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la absencia de seguridad juridica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al derecho.
+Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la absencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al derecho.
 
 La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no impedidan por estados), la pobreza (que sea llegad deliberamente por decision del estado, o por su destruccion de derechos de propriedad).
 
@@ -512,7 +511,7 @@ Sin liberalismo, hay desorden, hay anomia, es la ley del mas fuerte, es la guerr
 
 El Derecho liberal es el unico marco que ofrece una sociedad civilizada, pacifica, donde la proteccion de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demas.
 
-Historicamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aun, ya seriamos sido libres de hacer muchissimo mas (tema de mi proxima charla)
+Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aun, ya seriamos sido libres de hacer muchísimo mas (tema de mi próxima charla)
 
 
 ---
