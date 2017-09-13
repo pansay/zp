@@ -9,93 +9,82 @@ el Derecho liberal, que es, y porque es importante
 
 Jan Krepelka
 
-Universidad de Verano Instituto Juan de Mariana, Lanzarote, Julio 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---
 
-
 ## Plan
 
-1. El problema: la voluntad de derechos asimétricos
+1. El problema: la voluntad de derechos asimétricos (el poder)
 2. Derechos asimétricos son nihilismo
 3. La solución: el Derecho
-4. Los enemigos del Derecho
+4. Los varios enemigos del Derecho
 5. Conclusión: la importancia del Derecho
-
 
 ---Texto---
 
-Derecho con D mayúscula cuando es único
+derechos asimétricos, que podemos definir como poder
+
+Derecho con D mayúscula cuando es único, universal 
 
 ---
 
 ## 1. El problema: la voluntad de derechos asimétricos
 
-
 ---
-
 
 ### 1.1. Calvin y Hobbes
 
 ![¿ porque el mundo no es injusto en mi favor?](calvin-hobbes-fair-unfair.png)
 
-
 ---Texto---
 
-- ¿ Porque vosotros se pueden quedar pero yo tengo que ir a dormir ?
-- ¡ No es justo !
-- ¡ El mundo no es justo, Calvin !
-- Ya sé, pero ¿ porque no es injusto en mi favor?
+- ¿Porque vosotros se pueden quedar pero yo tengo que ir a dormir?
+- ¡No es justo!
+- ¡El mundo no es justo, Calvin!
+- Yo sé, pero ¿porque no es injusto en mi favor?
 
-¿ Porque el mundo no es injusto en mi favor ? -- buena pregunta !
-
+¿Porque el mundo no es injusto en mi favor? -- buena pregunta! El Derecho significa un mundo justo, pero el poder, derechos asimétricos, significan un mundo *injusto en mi favor a mi*
 
 ---
-
 
 ![para todos, yo excepto ](calvin-hobbes-ethics.png)
 
 ---Texto---
 
-Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que voy, 
+Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que voy
 
-Ay, ¿ porque me empujas ? pues estebaste en mi camino, ahora no lo estas mas, el fin justifica los medios
+Ay, ¿porque me empujas? pues estebaste en mi camino, ahora no lo estas mas, el fin justifica los medios
 
-¡ pero no seas tonto, yo quería decir para mi por supuesto, no para los demás !
+¡pero no seas tonto, yo quería decir para mi por supuesto, no para los demás!
 
-Eso es la voluntad de derecho asimétrico -- libertad absoluta para si mismo, pero, al mismo tiempo, reglas absolutas para todos los demás.
+Eso es la voluntad de derecho asimétrico -- libertad absoluta, sin responsabilidad para sus acciones, poder sobre los demás -- para si mismo
 
 ---
 
-
 ### 1.2. Robespierre
-
 
 ![ Robespierre ](robespierre.jpg)
 
 Maximilien de Robespierre (1758-1794)
 
-
 ---Texto---
 
 Otro ejemplo mas concreto:
 
-Robespierre, uno de los lideres de la Revolución francés, especialmente durante la Teror, guillotinando a miles de personas.
+Robespierre, uno de los lideres de la Revolución francés, especialmente durante la Teror, ordenando la guillotina para miles de personas.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". Pero quienes son los enemigos del pueblo? es decir, quien lo decide?
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que *quería* ser un derecho asimétrico.
 
 La definición era por supuesto muy mal definida, y las pruebas necesarias ligeras.
 
-por supuesto, para Robespierre los enemigos del pueblo son sus enemigos, es un instrumento de poder, de derecho asimétrico... 
+por supuesto, para Robespierre los enemigos del pueblo eran sus propios enemigos... pero ese poder lo tenía hasta que... no lo tenía mas.
 
-Y como acabo? guillotinado en plaza de la Revolución.
-
+¿Y como acabo, entonces? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado.
 
 ---
 
-
 ![ estatua de Robespierre ](robespierre-estatua.jpg)
-
 
 ---Texto---
 
@@ -107,18 +96,15 @@ y también llamaban "enemigos del pueblo" a los que querían eliminar, y tambié
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
-
 ---
 
 ## 1.3. La troika de la NKVD
-
 
 |Генрих Ягода|Николай Ежoв|Лаврентий Берия|
 |---|---|---|
 |![Yagoda](yagoda.jpg)|![Yezhov](yezhov.jpg)|![Beria](beria.jpg)|
 |[Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda)|Nikolái Yezhov|[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria)|
 |(1934-1936)|(1936-1938)|(1938-1953)|
-
 
 ---Texto---
 
@@ -130,7 +116,6 @@ Tienen dos cosas en común:
 
 y también, como los revolucionarios franceses, no eran los únicos. las purgas stalinistas acabaron con ... miembros del partido. los espiás del KGB, etc ....
 
-
 ---
 
 > Yezhov propuso el 15 de septiembre de 1938 la formación de troikas regionales —formadas por el responsable provincial del NKVD, el jefe regional del partido y el procurador de la región— que examinasen los casos en lugar del centro y que tuviesen capacidad de dictar sentencias de muerte.... Durante los dos meses de funcionamiento, las troikas juzgaron alrededor de ciento ocho mil casos, condenando a ciento cinco mil personas, setenta y dos mil de ellas a muerte. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB))
@@ -139,20 +124,13 @@ y también, como los revolucionarios franceses, no eran los únicos. las purgas 
 
 > Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
 
-
 ---
-
-
 
 ## 2. Derechos asimétricos son nihilismo
 
-
 ---
 
-
-
 ### 2.1. El concepto robado
-
 
 ---Texto---
 
