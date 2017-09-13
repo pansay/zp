@@ -72,11 +72,9 @@ Maximilien de Robespierre (1758-1794)
 
 Otro ejemplo mas concreto:
 
-Robespierre, uno de los lideres de la Revolución francés, especialmente durante la Teror, ordenando la guillotina para miles de personas.
+Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, ordenando la guillotina para miles de personas.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que *quería* ser un derecho asimétrico.
-
-La definición era por supuesto muy mal definida, y las pruebas necesarias ligeras.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
 por supuesto, para Robespierre los enemigos del pueblo eran sus propios enemigos... pero ese poder lo tenía hasta que... no lo tenía mas.
 
@@ -88,11 +86,13 @@ por supuesto, para Robespierre los enemigos del pueblo eran sus propios enemigos
 
 ---Texto---
 
-Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en el honor de Robespierre ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo.
+Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en el honor de Robespierre ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo: es decir, un precursor de las ejecuciones arbitrarias, de la terror estatal.
 
 Los comunistas soviéticos también tenían comités arbitrarios, las troikas (tres personas con poder de decisión de vida y de muerta)
 
-y también llamaban "enemigos del pueblo" a los que querían eliminar, y también tenían leyes mal definidas, arbitrarias, pocos derechos a los acusados.
+y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
+
+(precisamente el concepto de "enemigo de los trabajadores" враг народа, враг трудящихся)
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
@@ -136,11 +136,9 @@ y también, como los revolucionarios franceses, no eran los únicos. las purgas 
 
 ¿Que fueron pensando estas personas los momentos antes de morir? ¿Les había parecido justa su condenación?
 
-¿ pero con cuales principios la podrían rechazar?
-
+¿pero con cuales principios la podrían rechazar?
 
 vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
-
 
 ---
 
@@ -152,13 +150,11 @@ Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robad
 
 la arbitrariedad de las decisiones de comités es de hecho parecida al nihilismo. Y no es casualidad:
 
-
 ---
 
 > En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
 >
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
-
 
 ---Texto---
 
@@ -169,7 +165,6 @@ la arbitrariedad de las decisiones de comités es de hecho parecida al nihilismo
 > La ideología burguesa del Derecho ha tomado el puesto de Dios, deificando así su fetiche del Derecho.
 > 
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
-
 
 ---Texto---
 
@@ -202,9 +197,7 @@ La solución es que para lograr esa protección hay que rechazar su proprio pode
 
 ---
 
-
 ### 2.2. Autoridad del pueblo, autoridad divina
-
 
 ---Texto---
 
@@ -485,17 +478,17 @@ https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 
 Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demás.
 
-Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la absencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al derecho.
+Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnologías ambos se oponen al derecho.
 
-La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no impedidan por estados), la pobreza (que sea llegad deliberamente por decision del estado, o por su destruccion de derechos de propriedad).
+La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no impendan por estados), la pobreza (que sea llegad deliberamente por decisión del estado, o por su destrucción de derechos de propriedad).
 
 Al final, todos son nihilistas que quieren el poder, es decir, que critican al Derecho porque quieren derecho de hacer lo que quieran.
 
-Son nihilistas malhonestas, nada mas.
+Son nihilistas deshonestas, nada mas.
 
 Sin liberalismo, hay desorden, hay anomia, es la ley del mas fuerte, es la guerra de todos contra todos.
 
-El Derecho liberal es el unico marco que ofrece una sociedad civilizada, pacifica, donde la proteccion de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demas.
+El Derecho liberal es el único marco que ofrece una sociedad civilizada, pacifica, donde la protección de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demás.
 
 Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aun, ya seriamos sido libres de hacer muchísimo mas (tema de mi próxima charla)
 
