@@ -157,7 +157,7 @@ pues esa ultima linea no es una región en el sentido común, pero sí es una en
 
 ---Texto---
 
-Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país que ha rechazado el Derecho:
+Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país donde el poder gano sobre el Derecho:
 
 ---
 
@@ -173,11 +173,11 @@ Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país 
 
 ---Texto---
 
-¿Que fueron pensando estas personas los momentos antes de morir? ¿Les había parecido justa su condenación?
+¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que era une error del Partido hasta el ultimo momento? ¿Les había parecido justa su condenación?
 
-¿pero con cuales principios la podrían rechazar?
+¿Pero con cuales principios la podrían rechazar?
 
-vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
+Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---
 
@@ -185,9 +185,9 @@ vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---Texto---
 
-Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra sus enemigos, y jamas contra ellos. Lo mismo para los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado...  rechazando el Derecho como cosa burguesa, y sean también victimas de lo mismo...
+Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos. Lo mismo para los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado...  rechazando el Derecho como cosa burguesa, y sean también victimas de lo mismo...
 
-la arbitrariedad de las decisiones de comités es de hecho parecida al nihilismo. Y no es casualidad:
+la arbitrariedad de las decisiones de los comités y de las troikas es de hecho parecida al nihilismo. Y no es casualidad:
 
 ---
 
@@ -224,19 +224,19 @@ Y eso ya lo vemos en Marx:
 
 ---Texto---
 
-Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: quien determina las "capacidades" de cada uno, y quien determina las "necesidades"? esos son conceptos muy subjetivos, que así dan el poder de interpretación a algunos individuos que tendrían derechos asimétricos de así controlar la vida de los demás.
+Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: ¿quien determina las "capacidades" de cada uno, y quien determina las "necesidades"? Esos son conceptos muy subjetivos, que así dan el poder de interpretación a algunos individuos que tendrían derechos asimétricos de así controlar la vida de los demás.
 
 Lo que acabamos de ver es la oposición entre dos principios:
 
-- por un lado la protección del Derecho de nos ser robado y matado arbitrariamente : nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a el.
+- por un lado la protección del Derecho de nos ser robado y matado arbitrariamente : nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a él.
 
-- por el otro lado, esa voluntad de derechos asimétricos: el poder arbitrario sobre los demás
+- por el otro lado, esa voluntad de derechos asimétricos: el poder sobre los demás
 
-La solución es que para lograr esa protección hay que rechazar su proprio poder: el poder tiene como precio de someterse al poder, y el Derecho tiene como precio de someterse al Derecho.
+La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse al poder, y el Derecho tiene como precio de someterse al Derecho.
 
 ---
 
-### 2.2. Autoridad del pueblo, autoridad divina
+### 2.2. Autoridad divina
 
 ---Texto---
 
@@ -274,9 +274,13 @@ y no es solo el catolicismo, el protestantismo también ha sido utilizado por al
 
 El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? "sea el que sea el titular del poder"... pero como esa situación ha llegada a ser?
 
-Y al final si hay conflicto y el rey esta remplazado por otro rey, el también tendrá su autoridad de Dios! (Históricamente: dinastías cambiadas, reconocimientos por el Vatican ?? y quien ha sido el primero?
+Y al final si hay conflicto y el rey esta remplazado por otro rey, !el también tendrá su autoridad de Dios!
 
-Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración del derecho del mas fuerte, que es también una forma de nihilismo.
+Históricamente: dinastías cambian, hay conquistas por guerra, y al final son reconocidas por el Vatican.
+
+¿y quien ha sido el primero?
+
+Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración un poco mas sofisticada del básico derecho del mas fuerte, que es nada mas que una forma de nihilismo, es decir, el nihilismo en practica.
 
 Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
@@ -286,26 +290,39 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---Texto---
 
-Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunos personas que desean poder, para tomar esa poder sobre otras personas, nada mas.
+Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas que desean poder, para tomar esa poder sobre otras personas, nada mas.
 
-Y esa película, como acaba? el personaje de Sean Connery acaba herido por una mujer que quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, porque tendría derechos distintos de ellos?
+Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿porque tendría él derechos distintos de ellos?
 
+---
 
-Y la democracia? pues es exactamente lo mismo. solo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrática también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular que otras decisiones distintas no tendrían.
+### 2.3. Democracia
 
-y también la democracia directa: en Suiza, por ejemplo, vosotros sepáis quien ha dado el derecho de votar a las mujeres?
+---Texto---
 
-pues los hombres. en 1959 nos preguntan una primera vez, a nosotros varones Suizos.... tíos, esas chicas, los quieren dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). lo rechazamos.
+¿Y la democracia? Pues es exactamente lo mismo. Solo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrático también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular que otras decisiones distintas no tendrían.
+
+Incluso la democracia directa: en Suiza, por ejemplo, ¿vosotros sabéis quien ha dado el derecho de votar a las mujeres suizas?
+
+---
+
+||||
+|---|---|---|
+|![](stimmrecht-nein.jpg)|![])(stimmrecht-ja.jpg)|
+
+---Texto---
+
+Pues los hombres Suizos. En 1959 nos preguntan una primera vez, a nosotros varones Suizos.... tíos, esas chicas, los quieren dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). lo rechazamos.
 
 y después, en 1971, hace 50 años, misma pregunta... mirad tíos, ahora esas chicas son un poco mas listas, seguro no les quieren dar el derecho de votar? pues, ok, vale...
 
 pero... si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? porque no ha sido lo contrario?
 
-de nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones. las feministas suizas, también hubieran podido hacer su proprio estado paralelo, sus proprias instituciones, con la misma autoridad, o ausencia de autoridad, que las instituciones construidas por los hombres.
+Nada de absoluto, universal. Nada de justificado en Derecho. De nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones.
 
-Nada de absoluto, universal. Nada de justificado en Derecho.
+Las feministas suizas también hubieran podido hacer su proprio estado paralelo, sus proprias instituciones, con la misma autoridad, o ausencia de autoridad, que las instituciones construidas por los hombres.
 
-Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, con misma voluntad de no morir, de no ser asesinados, y así con los mismos derechos, así que nadie tiene derecho de ser rey (o presidente, o dictador), por la razón que nadie puede tener derechos que otro no tendría.
+Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, con misma voluntad de no morir, de no ser asesinados, y con los mismos derechos, así que nadie tiene derecho de ser rey o presidente, o dictador, por la razón que nadie puede tener derechos que otro no tendría.
 
 ---
 
@@ -391,7 +408,7 @@ Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naci
  
 Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. "
 
-pero todos los paises que tienen servicio militar obligatorio *para los varones* no les molesta? Hmm...
+pero todos los países que tienen servicio militar obligatorio *para los varones* no les molesta? Hmm...
 
 
 Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener. Tienen tanto derecho a hacer leyes como lo tienen los hombres; Y ESTO QUIERE DECIR QUE NO TIENEN DERECHO ALGUNO. Ningún ser humano, ni ningún grupo de seres humanos, tienen derecho a hacer leyes, y obligar a otros seres humanos a obedecerlas. Decir que tienen este derecho es decir que ellos son dueños y amos de aquellos a quienes requieren obediencia.
@@ -437,6 +454,8 @@ ostracismo
 legalizar es prohibir
 
 [camiseta: legalize everything]
+
+![legalize everything](legalize-everything.png)
 
 ## Hoppe: no se puede rechazar el Derecho
 
