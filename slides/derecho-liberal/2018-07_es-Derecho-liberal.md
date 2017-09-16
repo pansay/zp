@@ -72,13 +72,13 @@ Maximilien de Robespierre (1758-1794)
 
 Otro ejemplo mas concreto:
 
-Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, ordenando la guillotina para miles de personas.
+Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, ordenando la guillotina para miles de personas. Durante los dos años de la Terror, se estima que 500 mil personas encerradas y 100 mil ejecutadas o masacradas.
 
 Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
 por supuesto, para Robespierre los enemigos del pueblo eran sus propios enemigos... pero ese poder lo tenía hasta que... no lo tenía mas.
 
-¿Y como acabo, entonces? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado.
+¿Y como acabo, entonces? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado. no era el único: la arbitrariedad podía caber en cualquier persona, incluso muchos de los propios revolucionarios iniciales.
 
 ---
 
@@ -98,7 +98,7 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 ---
 
-## 1.3. La troika de la NKVD
+## 1.3. La troika del NKVD
 
 |Генрих Ягода|Николай Ежoв|Лаврентий Берия|
 |---|---|---|
@@ -114,11 +114,35 @@ Tienen dos cosas en común:
 
 * La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtención de confesiones extravagantes.
 
-y también, como los revolucionarios franceses, no eran los únicos. las purgas stalinistas acabaron con ... miembros del partido. los espiás del KGB, etc ....
+y también, como los revolucionarios franceses, no eran los únicos: cuasi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las ordenes de Stalin. nadie era protegido. Tomamos el ejemplo de Yezhov:
+
+Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. cientos de miles de personas fueron ejecutadas y millones detenidas.
+
+Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en el Gulag. Gulag es un acrónimo ruso, en el cual el "lag" significa "lager", que es la palabra alemán (la misma que en los campos de concentración) prestada al ruso. Pero ni siquiera en los "Lageres" las personas eran aseguradas de vivir: en ese periodo, se estima que el cuarto de los prisioneros moría por hambre, maltratamientos, durante el trasporte, etc. Pero ademas, miramos las cuotas oficiales del orden de Yezhov:
 
 ---
 
-> Yezhov propuso el 15 de septiembre de 1938 la formación de troikas regionales —formadas por el responsable provincial del NKVD, el jefe regional del partido y el procurador de la región— que examinasen los casos en lugar del centro y que tuviesen capacidad de dictar sentencias de muerte.... Durante los dos meses de funcionamiento, las troikas juzgaron alrededor de ciento ocho mil casos, condenando a ciento cinco mil personas, setenta y dos mil de ellas a muerte. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Cambio_de_sistema:_las_troikas_de_las_.C2.ABoperaciones_nacionales.C2.BB))
+|![](nkvd1.png)|![](nkvd2.png)|![](nkvd3.png)|
+
+---Texto---
+
+Esos son las cifras para varias regiones de la Unión soviética ([wikipedia](https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7_%D0%9D%D0%9A%D0%92%D0%94_%D0%BE%D1%82_30.07.1937_%E2%84%96_00447))
+
+---
+
+|![](nkvd4.png)|![](nkvd5.png)|
+
+---Texto---
+
+Mirad la ultima linea: alguien me puede decir ¿porque falta un numero?
+
+...
+
+pues esa ultima linea no es una región en el sentido común, pero sí es una en el sentido de Солженицын: es el archipiélago del Gulag: "Лагеря НКВД". son las cuotas de personas ya trabajando hasta la muerto en en frío, ya condenadas, pero que todavía hay que matar.
+
+(Хрущёв, charla culto de la personalidad, 4 horas polaco Kołakowski)
+
+¿Y como acabo ese señor, Yezhov ?
 
 ---
 
