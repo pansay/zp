@@ -122,14 +122,20 @@ Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en 
 
 ---
 
+||||
+|---|---|---|
 |![](nkvd1.png)|![](nkvd2.png)|![](nkvd3.png)|
 
 ---Texto---
 
 Esos son las cifras para varias regiones de la Unión soviética ([wikipedia](https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447#II._.D0.9E_.D0.9C.D0.95.D0.A0.D0.90.D0.A5_.D0.9D.D0.90.D0.9A.D0.90.D0.97.D0.90.D0.9D.D0.98.D0.AF_.D0.A0.D0.95.D0.9F.D0.A0.D0.95.D0.A1.D0.A1.D0.98.D0.A0.D0.A3.D0.95.D0.9C.D0.AB.D0.9C_.D0.98_.D0.9A.D0.9E.D0.9B.D0.98.D0.A7.D0.95.D0.A1.D0.A2.D0.92.D0.95_.D0.9F.D0.9E.D0.94.D0.9B.D0.95.D0.96.D0.90.D0.A9.D0.98.D0.A5_.D0.A0.D0.95.D0.9F.D0.A0.D0.95.D0.A1.D0.A1.D0.98.D0.98.))
 
+cada linea es una región. la primera columna es la primera categoría de enemigos del pueblo, los "mas peligrosos", destinados a ejecución por fusilamiento. la segunda son las cifras de personas que hay que condenar a 10 años en el Gulag.
+
 ---
 
+|||
+|---|---|
 |![](nkvd4.png)|![](nkvd5.png)|
 
 ---Texto---
@@ -147,6 +153,15 @@ pues esa ultima linea no es una región en el sentido común, pero sí es una en
 ---
 
 > Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
+
+
+---Texto---
+
+Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país que ha rechazado el Derecho:
+
+---
+
+<video data-autoplay src="che-guevera.mp4"></video>
 
 ---
 
