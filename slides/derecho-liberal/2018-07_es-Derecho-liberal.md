@@ -35,7 +35,7 @@ Derecho con D mayúscula cuando es único, universal
 
 ### 1.1. Calvin y Hobbes
 
-![¿ porque el mundo no es injusto en mi favor?](calvin-hobbes-fair-unfair.png)
+![¿ porque el mundo no es injusto en mi favor?](media/calvin-hobbes-fair-unfair.png)
 
 ---Texto---
 
@@ -48,7 +48,7 @@ Derecho con D mayúscula cuando es único, universal
 
 ---
 
-![para todos, yo excepto ](calvin-hobbes-ethics.png)
+![para todos, yo excepto ](media/calvin-hobbes-ethics.png)
 
 ---Texto---
 
@@ -64,7 +64,7 @@ Eso es la voluntad de derecho asimétrico -- libertad absoluta, sin responsabili
 
 ### 1.2. Robespierre
 
-![ Robespierre ](robespierre.jpg)
+![ Robespierre ](media/robespierre.jpg)
 
 Maximilien de Robespierre (1758-1794)
 
@@ -82,7 +82,7 @@ por supuesto, para Robespierre los enemigos del pueblo eran sus propios enemigos
 
 ---
 
-![ estatua de Robespierre ](robespierre-estatua.jpg)
+![ estatua de Robespierre ](media/robespierre-estatua.jpg)
 
 ---Texto---
 
@@ -102,7 +102,7 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 |Генрих Ягода|Николай Ежoв|Лаврентий Берия|
 |---|---|---|
-|![Yagoda](yagoda.jpg)|![Yezhov](yezhov.jpg)|![Beria](beria.jpg)|
+|![Yagoda](media/yagoda.jpg)|![Yezhov](media/yezhov.jpg)|![Beria](media/beria.jpg)|
 |[Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda)|Nikolái Yezhov|[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria)|
 |(1934-1936)|(1936-1938)|(1938-1953)|
 
@@ -124,7 +124,7 @@ Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en 
 
 ||||
 |---|---|---|
-|![](nkvd1.png)|![](nkvd2.png)|![](nkvd3.png)|
+|![](media/nkvd1.png)|![](media/nkvd2.png)|![](media/nkvd3.png)|
 
 ---Texto---
 
@@ -136,7 +136,7 @@ cada linea es una región. la primera columna es la primera categoría de enemig
 
 |||
 |---|---|
-|![](nkvd4.png)|![](nkvd5.png)|
+|![](media/nkvd4.png)|![](media/nkvd5.png)|
 
 ---Texto---
 
@@ -161,7 +161,7 @@ Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país 
 
 ---
 
-<video data-autoplay src="che-guevera.mp4"></video>
+<video data-autoplay src="media/che-guevera.mp4"></video>
 
 ---
 
@@ -181,7 +181,7 @@ vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---
 
-<video data-autoplay src="nihilists-not-fair.mp4"></video>
+<video data-autoplay src="media/nihilists-not-fair.mp4"></video>
 
 ---Texto---
 
@@ -282,7 +282,7 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---
 
-<video data-autoplay src="englishmen.mp4"></video>
+<video data-autoplay src="media/englishmen.mp4"></video>
 
 ---Texto---
 
