@@ -306,9 +306,9 @@ Incluso la democracia directa: en Suiza, por ejemplo, ¿vosotros sabéis quien h
 
 ---
 
-||||
-|---|---|---|
-|![](stimmrecht-nein.jpg)|![])(stimmrecht-ja.jpg)|
+|||
+|---|---|
+|![](media/stimmrecht-nein.jpg)|![](media/stimmrecht-ja.jpg)|
 
 ---Texto---
 
