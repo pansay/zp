@@ -126,7 +126,7 @@ Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en 
 
 ---Texto---
 
-Esos son las cifras para varias regiones de la Unión soviética ([wikipedia](https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%B0%D0%B7_%D0%9D%D0%9A%D0%92%D0%94_%D0%BE%D1%82_30.07.1937_%E2%84%96_00447))
+Esos son las cifras para varias regiones de la Unión soviética ([wikipedia](https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447#II._.D0.9E_.D0.9C.D0.95.D0.A0.D0.90.D0.A5_.D0.9D.D0.90.D0.9A.D0.90.D0.97.D0.90.D0.9D.D0.98.D0.AF_.D0.A0.D0.95.D0.9F.D0.A0.D0.95.D0.A1.D0.A1.D0.98.D0.A0.D0.A3.D0.95.D0.9C.D0.AB.D0.9C_.D0.98_.D0.9A.D0.9E.D0.9B.D0.98.D0.A7.D0.95.D0.A1.D0.A2.D0.92.D0.95_.D0.9F.D0.9E.D0.94.D0.9B.D0.95.D0.96.D0.90.D0.A9.D0.98.D0.A5_.D0.A0.D0.95.D0.9F.D0.A0.D0.95.D0.A1.D0.A1.D0.98.D0.98.))
 
 ---
 
@@ -138,7 +138,7 @@ Mirad la ultima linea: alguien me puede decir ¿porque falta un numero?
 
 ...
 
-pues esa ultima linea no es una región en el sentido común, pero sí es una en el sentido de Солженицын: es el archipiélago del Gulag: "Лагеря НКВД". son las cuotas de personas ya trabajando hasta la muerto en en frío, ya condenadas, pero que todavía hay que matar.
+pues esa ultima linea no es una región en el sentido común, pero sí es una en el sentido de Солженицын: es el archipiélago del Gulag: "Лагеря НКВД". son las cuotas de personas ya trabajando hasta la muerto en en frío, ya condenadas, pero que todavía había que matar.
 
 (Хрущёв, charla culto de la personalidad, 4 horas polaco Kołakowski)
 
