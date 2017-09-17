@@ -1,3 +1,5 @@
+(cut for pres, use for full text article ? youtube links to clips ?)
+
 
 
 
@@ -35,5 +37,4 @@ Mirad la ultima linea: alguien me puede decir ¿porque falta un numero?
 
 pues esa ultima linea no es una región en el sentido común, pero sí es una en el sentido de Солженицын: es el archipiélago del Gulag: "Лагеря НКВД". son las cuotas de personas ya trabajando hasta la muerto en en frío, ya condenadas, pero que todavía había que matar.
 
-(Хрущёв, charla culto de la personalidad, 4 horas polaco Kołakowski)
-
+(Хрущёв, charla culto de la personalidad, 4 horas polaco Kołakowski: como ha sido posible ?
