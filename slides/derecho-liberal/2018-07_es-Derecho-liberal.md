@@ -15,7 +15,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ## Plan
 
-1. El problema: la voluntad de derechos asimétricos (el poder)
+1. El problema: la voluntad de derechos asimétricos
 2. Derechos asimétricos son nihilismo
 3. La solución: el Derecho
 4. Los varios enemigos del Derecho
@@ -23,7 +23,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---Texto---
 
-derechos asimétricos, que podemos definir como poder
+derechos asimétricos, que vamos a ver podemos definir como poder
 
 Derecho con D mayúscula cuando es único, universal 
 
@@ -39,12 +39,14 @@ Derecho con D mayúscula cuando es único, universal
 
 ---Texto---
 
+historieta de Calvin y Hobbes
+
 - ¿Porque vosotros se pueden quedar pero yo tengo que ir a dormir?
 - ¡No es justo!
 - ¡El mundo no es justo, Calvin!
-- Yo sé, pero ¿porque no es injusto en mi favor?
+- Si, yo sé, pero ¿porque no es injusto en mi favor?
 
-¿Porque el mundo no es injusto en mi favor? -- buena pregunta! El Derecho significa un mundo justo, pero el poder, derechos asimétricos, significan un mundo *injusto en mi favor a mi*
+¿Porque el mundo no es injusto en mi favor? -- buena pregunta! El Derecho significa un mundo justo, pero el poder, derechos asimétricos, significan un mundo *injusto en mi favor a mi*. Eso es lo que varias personas quieren. ¿Pero lo quieren de verdad, una vez que sepan que no pueden asegurar se que el mundo será siempre injusto en su favor a ellos?
 
 ---
 
@@ -52,13 +54,17 @@ Derecho con D mayúscula cuando es único, universal
 
 ---Texto---
 
-Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que voy
+miramos otra historieta:
 
-Ay, ¿porque me empujas? pues estebaste en mi camino, ahora no lo estas mas, el fin justifica los medios
+- Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que voy
 
-¡pero no seas tonto, yo quería decir para mi por supuesto, no para los demás!
+- Ay, ¿porque me empujas?
 
-Eso es la voluntad de derecho asimétrico -- libertad absoluta, sin responsabilidad para sus acciones, poder sobre los demás -- para si mismo
+- Pues estabas en mi camino, ahora no lo estas mas, el fin justifica los medios
+
+- ¡Pero no seas tonto, yo quería decir para mi por supuesto, no para los demás!
+
+Y eso es el problema: querer libertad absoluta, sin responsabilidad para sus acciones, poder sobre los demás -- para si mismo. ¿Pero al mismo tiempo, como asegurar se de ser el único a poder disfrutar de ese poder? ¿Como proteger se de esa misma voluntad de los demás?
 
 ---
 
@@ -72,11 +78,9 @@ Maximilien de Robespierre (1758-1794)
 
 Otro ejemplo mas concreto:
 
-Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, ordenando la guillotina para miles de personas. Durante los dos años de la Terror, se estima que 500 mil personas encerradas y 100 mil ejecutadas o masacradas.
+Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, ordenando la guillotina para miles de personas. Durante los dos años de la Terror, se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
-
-por supuesto, para Robespierre los enemigos del pueblo eran sus propios enemigos... pero ese poder lo tenía hasta que... no lo tenía mas.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
 ¿Y como acabo, entonces? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado. no era el único: la arbitrariedad podía caber en cualquier persona, incluso muchos de los propios revolucionarios iniciales.
 
@@ -93,6 +97,8 @@ Los comunistas soviéticos también tenían comités arbitrarios, las troikas (t
 y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
 
 (precisamente el concepto de "enemigo de los trabajadores" враг народа, враг трудящихся)
+
+Y también han tenido un periodo de Terror particularmente terrible, durante la presidencia de Stalin.
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
@@ -118,7 +124,11 @@ y también, como los revolucionarios franceses, no eran los únicos: cuasi todos
 
 Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. cientos de miles de personas fueron ejecutadas y millones detenidas.
 
-Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en el Gulag. Gulag es un acrónimo ruso, en el cual el "lag" significa "lager", que es la palabra alemán (la misma que en los campos de concentración) prestada al ruso. Pero ni siquiera en los "Lageres" las personas eran aseguradas de vivir: en ese periodo, se estima que el cuarto de los prisioneros moría por hambre, maltratamientos, durante el trasporte, etc. Pero ademas, miramos las cuotas oficiales del orden de Yezhov:
+Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en el Gulag. Gulag es un acrónimo ruso, en el cual el "lag" significa "lager", que es la palabra alemán (la misma que en los campos de concentración Nacionalsocialistas) prestada al ruso. Pero ni siquiera en los "Lageres" las personas eran aseguradas de vivir:
+
+(en ese periodo, se estima que el cuarto de los prisioneros moría por hambre, maltratamientos, durante el trasporte, etc. Pero ademas,)
+
+miramos las cuotas oficiales del orden de Yezhov:
 
 ---
 
@@ -130,7 +140,7 @@ Las personas que eran condenadas pero no a muerte eran condenadas a 10 años en 
 
 Esos son las cifras para varias regiones de la Unión soviética ([wikipedia](https://ru.wikisource.org/wiki/Приказ_НКВД_от_30.07.1937_№_00447#II._.D0.9E_.D0.9C.D0.95.D0.A0.D0.90.D0.A5_.D0.9D.D0.90.D0.9A.D0.90.D0.97.D0.90.D0.9D.D0.98.D0.AF_.D0.A0.D0.95.D0.9F.D0.A0.D0.95.D0.A1.D0.A1.D0.98.D0.A0.D0.A3.D0.95.D0.9C.D0.AB.D0.9C_.D0.98_.D0.9A.D0.9E.D0.9B.D0.98.D0.A7.D0.95.D0.A1.D0.A2.D0.92.D0.95_.D0.9F.D0.9E.D0.94.D0.9B.D0.95.D0.96.D0.90.D0.A9.D0.98.D0.A5_.D0.A0.D0.95.D0.9F.D0.A0.D0.95.D0.A1.D0.A1.D0.98.D0.98.))
 
-cada linea es una región. la primera columna es la primera categoría de enemigos del pueblo, los "mas peligrosos", destinados a ejecución por fusilamiento. la segunda son las cifras de personas que hay que condenar a 10 años en el Gulag.
+Cada linea es una región. La primera columna es la primera categoría de enemigos del pueblo, los "mas peligrosos", destinados a ejecución por fusilamiento. La segunda son la segunda categoría, las cifras de personas que hay que condenar solo a 10 años en el Gulag.
 
 ---
 
