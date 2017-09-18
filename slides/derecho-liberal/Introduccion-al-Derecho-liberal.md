@@ -347,6 +347,8 @@ Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la col
 >
 > -- [Mark Steyn](https://books.google.es/books?id=thP_UKhPbP0C&pg=PA193&lpg=PA193&dq=%22General+Sir+Charles+Napier%22+%22my+carpenters+will+build+a+gallows.%22&source=bl&ots=k-xwQ6v5z8&sig=38ge9XwtlbctCiVMJeuYpJgi_tQ&hl=en&sa=X&ved=0ahUKEwjO1ePlxqLVAhUBLMAKHYcYCg8Q6AEIMjAD#v=onepage&q&f=false) [ [traducción](http://blogs.periodistadigital.com/tizas.php/2006/04/15/una-cultura-y-un-rebano-de-dementes) ]
 
+---
+
 ### 3.4 ... sí, en serio.
 
 [Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales](http://www.echr.coe.int/Documents/Convention_SPA.pdf)
@@ -362,24 +364,16 @@ sentido del presente artículo:
 ---
 
 > ...
+>
 > b) todo servicio de carácter militar
+>
 > ... 
+>
 > d) todo trabajo o servicio que forme parte de las obligaciones cívicas normales.
 
 ---Texto---
 
-es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag.
-
-Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naciones Unidas, 1948), que prohíbe la esclavitud, y promete mismos derechos a todos, incluso esto:
-
----
-
-> Artículo 2.
-> Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
-
----Texto---
-
-pero todos los países que tienen servicio militar obligatorio *para los varones* no les molesta? Hmm...
+es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag pero Disneyland.
 
 ---
 
@@ -387,17 +381,17 @@ pero todos los países que tienen servicio militar obligatorio *para los varones
 
 ---
 
-![](sombrero-magico.png)
+![](media/sombrero-magico.png)
 
 ---
 
-![](corona.png)
+![](media/corona.png)
 
 ---
 
-![](uniformas.png)
+![](media/uniformas.jpg)
 
----Textos--
+---Texto---
 
 Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenia antes.
 

@@ -197,3 +197,18 @@ https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 
 
 
+
+
+
+Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naciones Unidas, 1948), que prohíbe la esclavitud, y promete mismos derechos a todos, incluso esto:
+
+---
+
+> Artículo 2.
+>
+> Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
+
+---Texto---
+
+pero todos los países que tienen servicio militar obligatorio *para los varones* no les molesta? Hmm...
+
