@@ -18,8 +18,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 1. El problema: la voluntad de derechos asimétricos
 2. Derechos asimétricos son nihilismo
 3. La solución: el Derecho
-4. Los varios enemigos del Derecho
-5. Conclusión: la importancia del Derecho
+4. Conclusión: la importancia del Derecho
 
 ---Texto---
 
@@ -122,7 +121,7 @@ Tienen dos cosas en común:
 
 y también, como los revolucionarios franceses, no eran los únicos: cuasi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las ordenes de Stalin. nadie era protegido. Tomamos el ejemplo de Yezhov:
 
-Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. cientos de miles de personas fueron ejecutadas y millones detenidas.
+Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar en el Gulag, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. cientos de miles de personas fueron ejecutadas y millones detenidas.
 
 ¿Y como acabo ese señor, Yezhov ?
 
@@ -172,18 +171,6 @@ la arbitrariedad de las decisiones de los comités y de las troikas es de hecho 
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
 
 ---Texto---
-
-> в его последней стадии коммунизм представлятся не как победа социалистического права, а как победа социализма над правом вообще.
-
----
-
-> La ideología burguesa del Derecho ha tomado el puesto de Dios, deificando así su fetiche del Derecho.
-> 
-> -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
-
----Texto---
-
-> А буржуазное мировоззрение в право поставившее закон на место бога, как раз заключается в обожествлении фетишизации закона.
 
 Y eso ya lo vemos en Marx:
 
@@ -308,104 +295,95 @@ Todos somos seres humanos con misma sangre, con misma existencia física, someti
 
 ### 3.1 Simetría del derecho
 
+identidad de los derechos de cada ser humano
+
 ---Texto---
 
-Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco. El derecho que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que sí acepta el Derecho, es decir, cualquier persona que rechaza los problemas del nihilismo que acabamos de ver.
+Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco.
 
-....
+El Derecho. que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que quiere rechazar el nihilismo.
 
+---
 
-
-
-
-### identidad de los derechos de cada ser humano
-
-
-asdf
-
-
-
->Sostenemos como evidentes estas verdades: que los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre estos están la vida, la libertad y la búsqueda de la felicidad.
+> Sostenemos como evidentes estas verdades: que los hombres son creados iguales; que son dotados por su Creador de ciertos derechos inalienables; que entre estos están la vida, la libertad y la búsqueda de la felicidad.
 >
 > -- [Declaración de Independencia de los Estados Unidos](https://es.wikisource.org/wiki/Declaración_de_Independencia_de_los_Estados_Unidos_de_América), 1776
 
-
-a
+---
 
 > Los hombres nacen y permanecen libres e iguales en derechos. 
 >
 > -- [Declaración de los Derechos del Hombre y del Ciudadano](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank_mm/espagnol/es_ddhc.pdf), 1789
 
+---
 
-a
+> Los individuos tienen derechos, y esos derechos son independientes de la autoridad social, quien no les puede tocar sin hacerse culpable de usurpación.
+>
+> -- Benjamin Constant, *[Sobre los derechos individuales](http://fr.liberpedia.org/Des_droits_individuels)*, 1818
+
+---
 
 > Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener. 
 >
 > -- [Lysander Spooner, 1877](http://www.enemigosdelestado.com/contra-sufragio-femenino-spooner-lysander/)
 
+---
 
-### si, en serio.
+### 3.2 Sí, en serio.
 
+>
 
+[Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales](http://www.echr.coe.int/Documents/Convention_SPA.pdf)
 
-
-
-
-Convenio para la Protección
-de los Derechos Humanos
-y de las Libertades Fundamentales
-
-http://www.echr.coe.int/Documents/Convention_SPA.pdf
-
-
-ARTÍCULO 4
-Prohibición de la esclavitud y del trabajo forzado
-1. Nadie podrá ser sometido a esclavitud o servidumbre.
-2. Nadie podrá ser constreñido a realizar un trabajo forzado u
+> ARTÍCULO 4
+> Prohibición de la esclavitud y del trabajo forzado
+> 1. Nadie podrá ser sometido a esclavitud o servidumbre.
+> 2. Nadie podrá ser constreñido a realizar un trabajo forzado u
 obligatorio.
-3. No se considera como „trabajo forzado u obligatorio“ en el
+> 3. No se considera como „trabajo forzado u obligatorio“ en el
 sentido del presente artículo:
-a) todo trabajo exigido normalmente a una persona
-privada de libertad en las condiciones previstas por
-el artículo 5 del presente Convenio, o durante su libertad
-condicional ;
-b) todo servicio de carácter militar o, en el caso de objetores de
-conciencia en los países en que la objeción de conciencia
-sea reconocida como legítima, cualquier otro servicio
-sustitutivo del servicio militar obligatorio;
-c) todo servicio exigido cuando alguna emergencia o
-calamidad amenacen la vida o el bienestar de la comunidad;
-d) todo trabajo o servicio que forme parte de las obligaciones
-cívicas normales.
 
-es como decir, vamos a prohibir el Gulag, pero al exception del campamiento numero trentayocho, que no vamos a llamar Gulag.
+---
 
-Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naciones Unidas, 1948), que prohibe la esclavitud, y promete mismos derechos a todos, incluso "Artículo 2.
- 
-Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. "
+> ...
+> b) todo servicio de carácter militar
+> ... 
+> d) todo trabajo o servicio que forme parte de las obligaciones cívicas normales.
+
+---Texto---
+es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag.
+
+Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naciones Unidas, 1948), que prohíbe la esclavitud, y promete mismos derechos a todos, incluso esto:
+
+---
+
+> Artículo 2.
+> Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
+
+---Texto---
 
 pero todos los países que tienen servicio militar obligatorio *para los varones* no les molesta? Hmm...
 
+---
 
-Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener. Tienen tanto derecho a hacer leyes como lo tienen los hombres; Y ESTO QUIERE DECIR QUE NO TIENEN DERECHO ALGUNO. Ningún ser humano, ni ningún grupo de seres humanos, tienen derecho a hacer leyes, y obligar a otros seres humanos a obedecerlas. Decir que tienen este derecho es decir que ellos son dueños y amos de aquellos a quienes requieren obediencia.
+### 3.3. Contra el sombrero mágico
 
-La única ley que cualquier ser humano puede legítimamente ser obligado a obedecer es simplemente la ley de la justicia. Y la justicia no es una cosa que se pueda hacer, o deshacer, o alterar, por ninguna autoridad humana. Se trata de un principio natural, inherente a la naturaleza misma del hombre y de las cosas. Es ese principio natural que determina lo que es mío y lo que es tuyo, lo que es el derecho o propiedad de uno y lo que es el derecho o propiedad de otro. Es, por así decirlo, la línea que la Naturaleza ha establecido entre los derechos y propiedad de un hombre, y los derechos y propiedad de otro hombre.
-
-Este principio natural, que llamamos justicia, y que asignamos a cada ser humano, es, repito, no una cosa que se ha hecho, sino un tema de la ciencia que hay que entender, como las matemáticas, la química o la geología. Y todas las leyes, así llamadas, que los hombres han hecho nunca, ya sea para crear, definir, o controlar los derechos de las personas, son intrínsecamente tan absurdas y ridículas como lo sería crear leyes para definir o controlar las matemáticas, la química, o la geología.
-
+Nosotros liberales somos los ateistas del sombrero magico.
 
 
+---
 
-
-### universalizmo
+### 3.3 Universalismo del Derecho
 
 > En una edad más culturalmente confiada, a los británicos en La India se les planteó la práctica del "sutí" -- la tradición de quemar a las viudas en las piras funerarias de sus maridos. El General Sir Charles Napier fue impecablemente multicultural:
->
+
+---
+
 > "Ustedes dicen que quemar a las viudas es su costumbre. Muy bien. Nosotros también tenemos una costumbre: cuando los hombres queman viva a una mujer, atamos una soga alrededor de sus cuellos y los ahorcamos. Construyan su pira funeraria. Detrás de ella, mis carpinteros construirán unas horcas. Ustedes pueden seguir su costumbre. Y después nosotros seguiremos las nuestras".
 >
 > -- [Mark Steyn](https://books.google.es/books?id=thP_UKhPbP0C&pg=PA193&lpg=PA193&dq=%22General+Sir+Charles+Napier%22+%22my+carpenters+will+build+a+gallows.%22&source=bl&ots=k-xwQ6v5z8&sig=38ge9XwtlbctCiVMJeuYpJgi_tQ&hl=en&sa=X&ved=0ahUKEwjO1ePlxqLVAhUBLMAKHYcYCg8Q6AEIMjAD#v=onepage&q&f=false) [ [traducción](http://blogs.periodistadigital.com/tizas.php/2006/04/15/una-cultura-y-un-rebano-de-dementes) ]
 
-## categorías equivocadas
+### 3.4 categorías equivocadas
 
 Liberpedia/Droit
 
@@ -415,11 +393,6 @@ http://fr.liberpedia.org/Chauve
 
 http://fr.liberpedia.org/Droit
 
-
-
-## el sombrero magico
-
-Nosotros liberales somos los ateistas del sombrero magico.
 
 ## simetria 1
 
@@ -459,60 +432,15 @@ http://www.uca.edu.ar/esp/sec-fderecho/subs-leynatural/esp/docs-congresos/2-jorn
 https://es.wikipedia.org/wiki/Gabriel_V%C3%A1zquez
 
 
-> Los individuos tienen derechos, y esos derechos son independientes de la autoridad social, quien no les puede tocar sin hacerse culpable de usurpación.
->
-> -- Benjamin Constant, *[Sobre los derechos individuales](http://fr.liberpedia.org/Des_droits_individuels)*, 1818
-
-
-## 4. Los enemigos del Derecho
-
-## 4.1. Criticos del Derecho
-
-
-
-## 4.2. Criticos de los derechos humanos
-
-## 4.3. Falsos derechos (positivos)
-
-## 4.4 Falsas igualdades
-
-trampa falsas igualdades ( loving vs virginia )
-
-## 4.4. Dignidad humana
-
-> Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.
-
-http://www.un.org/es/universal-declaration-human-rights/ La Declaración Universal de Derechos Humanos (Naciones Unidas, 1948)
-
-## 4.5. Collectivismo
-
-> For liberalism, the individual is the end and society the means; nor is it conceivable that the indivual, considered in the dignity of an ultimate finality, be lowered to mere instrumentality.
-> For Fascism, society is the end, individuals the means, and its whole life consists in using individuals as instruments for its social ends.
->
-> Alfredo Rocco, from 1925 to 1932 he was Minister of Justice of fascist Italy, The Political Doctrine of Fascism, 1925
-
 ---
 
-
-## 4.6. Derecho vs poder
-
-def. poder ;-)
-
-Power is having the discretion and the means to asymmetrically enforce one’s will over others.
-[Le pouvoir consiste à détenir la discrétion et les moyens d'imposer asymétriquement sa volonté sur les autres.]
-Interpersonal Power: A Review, Critique, and Research Agenda
-
-https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
-
----
-
-## 5. Conclusión
+## 4. Conclusión
 
 ---Texto---
 
 Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demás.
 
-Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnologías ambos se oponen al derecho.
+Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al derecho.
 
 La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no impendan por estados), la pobreza (que sea llegad deliberamente por decisión del estado, o por su destrucción de derechos de propriedad).
 
@@ -524,10 +452,8 @@ Sin liberalismo, hay desorden, hay anomia, es la ley del mas fuerte, es la guerr
 
 El Derecho liberal es el único marco que ofrece una sociedad civilizada, pacifica, donde la protección de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demás.
 
-Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aun, ya seriamos sido libres de hacer muchísimo mas (tema de mi próxima charla)
-
+Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aún, ya seriamos sido libres de hacer muchísimo mas.
 
 ---
-
 
 ¡Muchas gracias!
