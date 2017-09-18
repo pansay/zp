@@ -291,17 +291,19 @@ Todos somos seres humanos con misma sangre, con misma existencia física, someti
 
 ## 3. La solución: el Derecho
 
----
-
-### 3.1 Simetría del derecho
-
-identidad de los derechos de cada ser humano
-
 ---Texto---
 
 Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco.
 
 El Derecho. que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que quiere rechazar el nihilismo.
+
+---
+
+### 3.1 Universalidad del Derecho
+
+---Texto---
+
+identidad de los derechos de cada ser humano
 
 ---
 
@@ -323,15 +325,29 @@ El Derecho. que se puede justificar de manera puramente lógica, y que así es i
 
 ---
 
+### 3.2 ... por cualquier sexo
+
 > Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener. 
 >
 > -- [Lysander Spooner, 1877](http://www.enemigosdelestado.com/contra-sufragio-femenino-spooner-lysander/)
 
+---Texto---
+
+Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la color de sus cabellos, o el hecho de tener cabellos o no tenerlos: no cambia nada a los derechos de cada persona. Así que todas las cuestiones sobre el cambio de sexo, el casamiento gay, etc, no son cuestiones relevantes para el Derecho.
+
 ---
 
-### 3.2 Sí, en serio.
+### 3.3 ... en cualquier lugar
 
+> En una edad más culturalmente confiada, a los británicos en La India se les planteó la práctica del "sutí" -- la tradición de quemar a las viudas en las piras funerarias de sus maridos. El General Sir Charles Napier fue impecablemente multicultural:
+
+---
+
+> "Ustedes dicen que quemar a las viudas es su costumbre. Muy bien. Nosotros también tenemos una costumbre: cuando los hombres queman viva a una mujer, atamos una soga alrededor de sus cuellos y los ahorcamos. Construyan su pira funeraria. Detrás de ella, mis carpinteros construirán unas horcas. Ustedes pueden seguir su costumbre. Y después nosotros seguiremos las nuestras".
 >
+> -- [Mark Steyn](https://books.google.es/books?id=thP_UKhPbP0C&pg=PA193&lpg=PA193&dq=%22General+Sir+Charles+Napier%22+%22my+carpenters+will+build+a+gallows.%22&source=bl&ots=k-xwQ6v5z8&sig=38ge9XwtlbctCiVMJeuYpJgi_tQ&hl=en&sa=X&ved=0ahUKEwjO1ePlxqLVAhUBLMAKHYcYCg8Q6AEIMjAD#v=onepage&q&f=false) [ [traducción](http://blogs.periodistadigital.com/tizas.php/2006/04/15/una-cultura-y-un-rebano-de-dementes) ]
+
+### 3.4 ... sí, en serio.
 
 [Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales](http://www.echr.coe.int/Documents/Convention_SPA.pdf)
 
@@ -351,6 +367,7 @@ sentido del presente artículo:
 > d) todo trabajo o servicio que forme parte de las obligaciones cívicas normales.
 
 ---Texto---
+
 es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag.
 
 Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naciones Unidas, 1948), que prohíbe la esclavitud, y promete mismos derechos a todos, incluso esto:
@@ -366,71 +383,23 @@ pero todos los países que tienen servicio militar obligatorio *para los varones
 
 ---
 
-### 3.3. Contra el sombrero mágico
-
-Nosotros liberales somos los ateistas del sombrero magico.
-
+### 3.5 Contra el sombrero mágico
 
 ---
 
-### 3.3 Universalismo del Derecho
-
-> En una edad más culturalmente confiada, a los británicos en La India se les planteó la práctica del "sutí" -- la tradición de quemar a las viudas en las piras funerarias de sus maridos. El General Sir Charles Napier fue impecablemente multicultural:
+![](sombrero-magico.png)
 
 ---
 
-> "Ustedes dicen que quemar a las viudas es su costumbre. Muy bien. Nosotros también tenemos una costumbre: cuando los hombres queman viva a una mujer, atamos una soga alrededor de sus cuellos y los ahorcamos. Construyan su pira funeraria. Detrás de ella, mis carpinteros construirán unas horcas. Ustedes pueden seguir su costumbre. Y después nosotros seguiremos las nuestras".
->
-> -- [Mark Steyn](https://books.google.es/books?id=thP_UKhPbP0C&pg=PA193&lpg=PA193&dq=%22General+Sir+Charles+Napier%22+%22my+carpenters+will+build+a+gallows.%22&source=bl&ots=k-xwQ6v5z8&sig=38ge9XwtlbctCiVMJeuYpJgi_tQ&hl=en&sa=X&ved=0ahUKEwjO1ePlxqLVAhUBLMAKHYcYCg8Q6AEIMjAD#v=onepage&q&f=false) [ [traducción](http://blogs.periodistadigital.com/tizas.php/2006/04/15/una-cultura-y-un-rebano-de-dementes) ]
+![](corona.png)
 
-### 3.4 categorías equivocadas
+---
 
-Liberpedia/Droit
+![](uniformas.png)
 
-los con cabello y los sin
+---Textos--
 
-http://fr.liberpedia.org/Chauve
-
-http://fr.liberpedia.org/Droit
-
-
-## simetria 1
-
-ostracismo
-
-## simetria 2
-
-legalizar es prohibir
-
-[camiseta: legalize everything]
-
-![legalize everything](legalize-everything.png)
-
-## Hoppe: no se puede rechazar el Derecho
-
-
-declaracion de los derechos humanos (revolucion francesa, onu, independencia americana)
-derechos humanos
-
-Grotius
-Schopenhauer
-
-Escuela de Salamanca
-
-Cicero
-
-https://es.wikipedia.org/wiki/Derecho_natural
-
-https://es.wikipedia.org/wiki/Escuela_de_Salamanca#Derecho_natural_y_derechos_humanos
-
-https://www.juandemariana.org/ijm-actualidad/analisis-diario/francisco-de-vitoria-y-la-justicia-universal
-
-https://www.wikiberal.org/wiki/%C3%89cole_de_Salamanque#Droit_naturel_et_droits_humains
-
-http://www.uca.edu.ar/esp/sec-fderecho/subs-leynatural/esp/docs-congresos/2-jornada/ponencias/rizzo.pdf
-
-https://es.wikipedia.org/wiki/Gabriel_V%C3%A1zquez
-
+Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenia antes.
 
 ---
 
@@ -452,7 +421,7 @@ Sin liberalismo, hay desorden, hay anomia, es la ley del mas fuerte, es la guerr
 
 El Derecho liberal es el único marco que ofrece una sociedad civilizada, pacifica, donde la protección de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demás.
 
-Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aún, ya seriamos sido libres de hacer muchísimo mas.
+Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aún, ya seriamos capaces de hacer muchísimo mas.
 
 ---
 

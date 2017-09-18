@@ -13,6 +13,74 @@ El transhumanismo
 Cut, use for another pres:
 
 
+El Derecho y sus enemigos
+===
+
+1. El Derecho natural
+2. Sus enemigos
+2.1 socialismo
+
+etc.
+
+Hoppe, principio de non agression
+
+
+
+### 3.5 categorías equivocadas
+
+Liberpedia/Droit
+
+los con cabello y los sin
+
+http://fr.liberpedia.org/Chauve
+
+http://fr.liberpedia.org/Droit
+
+
+## simetria 1
+
+ostracismo
+
+## simetria 2
+
+legalizar es prohibir
+
+[camiseta: legalize everything]
+
+![legalize everything](legalize-everything.png)
+
+
+
+## Hoppe: no se puede rechazar el Derecho
+
+
+
+Grotius
+Schopenhauer
+
+Escuela de Salamanca
+
+Cicero
+
+https://es.wikipedia.org/wiki/Derecho_natural
+
+https://es.wikipedia.org/wiki/Escuela_de_Salamanca#Derecho_natural_y_derechos_humanos
+
+https://www.juandemariana.org/ijm-actualidad/analisis-diario/francisco-de-vitoria-y-la-justicia-universal
+
+https://www.wikiberal.org/wiki/%C3%89cole_de_Salamanque#Droit_naturel_et_droits_humains
+
+http://www.uca.edu.ar/esp/sec-fderecho/subs-leynatural/esp/docs-congresos/2-jornada/ponencias/rizzo.pdf
+
+https://es.wikipedia.org/wiki/Gabriel_V%C3%A1zquez
+
+
+
+
+
+
+
+
 Los enemigos del Derecho
 ===
 
@@ -126,3 +194,6 @@ https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 > La única ley que cualquier ser humano puede legítimamente ser obligado a obedecer es simplemente la ley de la justicia. Y la justicia no es una cosa que se pueda hacer, o deshacer, o alterar, por ninguna autoridad humana. Se trata de un principio natural, inherente a la naturaleza misma del hombre y de las cosas. Es ese principio natural que determina lo que es mío y lo que es tuyo, lo que es el derecho o propiedad de uno y lo que es el derecho o propiedad de otro. Es, por así decirlo, la línea que la Naturaleza ha establecido entre los derechos y propiedad de un hombre, y los derechos y propiedad de otro hombre.
 
 > Este principio natural, que llamamos justicia, y que asignamos a cada ser humano, es, repito, no una cosa que se ha hecho, sino un tema de la ciencia que hay que entender, como las matemáticas, la química o la geología. Y todas las leyes, así llamadas, que los hombres han hecho nunca, ya sea para crear, definir, o controlar los derechos de las personas, son intrínsecamente tan absurdas y ridículas como lo sería crear leyes para definir o controlar las matemáticas, la química, o la geología.
+
+
+
