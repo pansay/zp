@@ -81,7 +81,7 @@ Robespierre, uno de los lideres de la Revolución francés, miembro influyente d
 
 Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
-¿Y como acabo, entonces? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado. no era el único: la arbitrariedad podía caber en cualquier persona, incluso muchos de los propios revolucionarios iniciales.
+En efeccto, ¿como acabo? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado. no era el único: la arbitrariedad podía caber en cualquier persona, incluso muchos de los propios revolucionarios iniciales.
 
 ---
 
@@ -142,10 +142,6 @@ Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país 
 
 ## 2. Derechos asimétricos son nihilismo
 
----
-
-### 2.1. El concepto robado
-
 ---Texto---
 
 ¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que era une error del Partido hasta el ultimo momento? ¿Les había parecido justa su condenación?
@@ -157,6 +153,10 @@ Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 ---
 
 <video data-autoplay src="media/nihilists-not-fair.mp4"></video>
+
+---
+
+### 2.1. El concepto robado
 
 ---Texto---
 
