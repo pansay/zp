@@ -8,6 +8,8 @@ Los enemigos del Derecho
 El transhumanismo
 
 
+(precisamente el concepto de "enemigo de los trabajadores" враг народа, враг трудящихся)
+
 
 
 Cut, use for another pres:
@@ -17,6 +19,17 @@ El Derecho y sus enemigos
 ===
 
 1. El Derecho natural
+
+
+Grotius
+Schopenhauer
+Spooner
+Salamanca
+Hoppe
+
+etc
+
+
 2. Sus enemigos
 2.1 socialismo
 

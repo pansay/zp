@@ -77,11 +77,11 @@ Maximilien de Robespierre (1758-1794)
 
 Otro ejemplo mas concreto:
 
-Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, ordenando la guillotina para miles de personas. Durante los dos años de la Terror, se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas.
+Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, en la cual el comité podía ordenar arbitrariamente la guillotina, y lo ha hecho para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo". ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
-En efeccto, ¿como acabo? Guillotinado en plaza de la Revolución, es decir, asesinado por el proprio sistema que había creado y utilizado. no era el único: la arbitrariedad podía caber en cualquier persona, incluso muchos de los propios revolucionarios iniciales.
+En efecto, ¿como acabo? Guillotinado a su vez (en plaza de la Revolución), es decir, matado por el proprio sistema que había creado y utilizado.
 
 ---
 
@@ -94,8 +94,6 @@ Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo d
 Los comunistas soviéticos también tenían comités arbitrarios, las troikas (tres personas con poder de decisión de vida y de muerta)
 
 y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
-
-(precisamente el concepto de "enemigo de los trabajadores" враг народа, враг трудящихся)
 
 Y también han tenido un periodo de Terror particularmente terrible, durante la presidencia de Stalin.
 
@@ -146,7 +144,7 @@ Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país 
 
 ¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que era une error del Partido hasta el ultimo momento? ¿Les había parecido justa su condenación?
 
-¿Pero con cuales principios la podrían rechazar?
+¿Pero con cuales principios la habían podido rechazar?
 
 Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
@@ -191,11 +189,11 @@ Para los comunistas, el enemigo era el Derecho. El Derecho, como protección con
 
 Lo que acabamos de ver es la oposición entre dos principios:
 
-- por un lado la protección del Derecho de nos ser robado y matado arbitrariamente : nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a él.
+- por un lado la protección del Derecho de no ser robado y matado arbitrariamente: nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a él.
 
 - por el otro lado, esa voluntad de derechos asimétricos: el poder sobre los demás
 
-La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse al poder, y el Derecho tiene como precio de someterse al Derecho.
+La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse a sí también al poder, y la protección del Derecho tiene como precio de respectar al Derecho en los demás.
 
 ---
 
@@ -230,11 +228,6 @@ y no es solo el catolicismo, el protestantismo también ha sido utilizado por al
 
 ---Texto---
 
-> Thus one must also bear the authority of the ruler. If he abuses it, I am not therefore to bear him a grudge, nor take revenge of and punish him with my hands. One must obey him solely for God’s sake, for he stands in God’s stead. Let them impose taxes as intolerable as they may: one must obey them and suffer everything patiently, for God’s sake.
->
-> -- [Martin Luther](http://www.godrules.net/library/luther/129luther_e19.htm)
-
-
 El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? "sea el que sea el titular del poder"... pero como esa situación ha llegada a ser?
 
 Y al final si hay conflicto y el rey esta remplazado por otro rey, !el también tendrá su autoridad de Dios!
@@ -243,7 +236,7 @@ Históricamente: dinastías cambian, hay conquistas por guerra, y al final son r
 
 ¿y quien ha sido el primero?
 
-Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración un poco mas sofisticada del básico derecho del mas fuerte, que es nada mas que una forma de nihilismo, es decir, el nihilismo en practica.
+Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración un poco mas sofisticada del básico derecho del mas fuerte, que es nada mas que una forma de nihilismo, o sea, *el resultado* del nihilismo.
 
 Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
@@ -253,7 +246,7 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---Texto---
 
-Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser ingles, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas que desean poder, para tomar esa poder sobre otras personas, nada mas.
+Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser Inglés, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas, que desean poder, para tomar esa poder sobre otras personas, nada mas.
 
 Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿porque tendría él derechos distintos de ellos?
 
@@ -279,9 +272,9 @@ Pues los hombres Suizos. En 1959 nos preguntan una primera vez, a nosotros varon
 
 y después, en 1971, hace 50 años, misma pregunta... mirad tíos, ahora esas chicas son un poco mas listas, seguro no les quieren dar el derecho de votar? pues, ok, vale...
 
-pero... si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? porque no ha sido lo contrario?
+pero... si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? porque no ha sido lo contrario? Porque los hombres tendrían el derecho de otorgar o no otorgar el derecho de votar a las mujeres?
 
-Nada de absoluto, universal. Nada de justificado en Derecho. De nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones.
+Nada de absoluto, universal. Nada de justificado en Derecho. De nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones. En este caso, algunas instituciones hechas por los hombres.
 
 Las feministas suizas también hubieran podido hacer su proprio estado paralelo, sus proprias instituciones, con la misma autoridad, o ausencia de autoridad, que las instituciones construidas por los hombres.
 
@@ -333,7 +326,7 @@ identidad de los derechos de cada ser humano
 
 ---Texto---
 
-Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la color de sus cabellos, o el hecho de tener cabellos o no tenerlos: no cambia nada a los derechos de cada persona. Así que todas las cuestiones sobre el cambio de sexo, el casamiento gay, etc, no son cuestiones relevantes para el Derecho.
+Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la color de sus cabellos, o el hecho de tener cabellos o no tenerlos: no cambia nada a los derechos de cada persona. Así que todas las cuestiones sobre el cambio de sexo, el matrimonio gay, etc, no son cuestiones relevantes para el Derecho.
 
 ---
 
@@ -393,7 +386,7 @@ es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento 
 
 ---Texto---
 
-Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenia antes.
+Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenía antes.
 
 ---
 
@@ -403,11 +396,11 @@ Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún somb
 
 Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demás.
 
-Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problemas es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al derecho.
+Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problema es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al Derecho.
 
-La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no impendan por estados), la pobreza (que sea llegad deliberamente por decisión del estado, o por su destrucción de derechos de propriedad).
+La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no parados por estados), la pobreza (que sea causada deliberadamente por decisión del estado, o por su destrucción de derechos de propriedad).
 
-Al final, todos son nihilistas que quieren el poder, es decir, que critican al Derecho porque quieren derecho de hacer lo que quieran.
+Al final, todos son nihilistas que quieren el poder, es decir, que critican al Derecho porque quieren el poder de hacer lo que quieran.
 
 Son nihilistas deshonestas, nada mas.
 
