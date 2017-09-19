@@ -1,3 +1,10 @@
+1. Introduccion al Derecho liberal
+2. El Derecho y sus enemigos
+3. El futuro del Derecho: el transhumanismo
+
+
+
+
 (cut for pres, use for full text article ? youtube links to clips ?)
 
 
@@ -224,4 +231,9 @@ Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naci
 ---Texto---
 
 pero todos los países que tienen servicio militar obligatorio *para los varones* no les molesta? Hmm...
+
+
+conclusion
+
+el futuro del Derecho -> transhumanismo
 
