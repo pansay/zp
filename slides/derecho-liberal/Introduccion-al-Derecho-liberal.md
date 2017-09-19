@@ -278,8 +278,6 @@ Nada de absoluto, universal. Nada de justificado en Derecho. De nuevo, accidente
 
 Las feministas suizas también hubieran podido hacer su proprio estado paralelo, sus proprias instituciones, con la misma autoridad, o ausencia de autoridad, que las instituciones construidas por los hombres.
 
-Todos somos seres humanos con misma sangre, con misma existencia física, sometidos a las mismas leyes de lógica, con misma voluntad de no morir, de no ser asesinados, y con los mismos derechos, así que nadie tiene derecho de ser rey o presidente, o dictador, por la razón que nadie puede tener derechos que otro no tendría.
-
 ---
 
 ## 3. La solución: el Derecho
