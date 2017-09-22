@@ -2,7 +2,9 @@
 2. El Derecho y sus enemigos
 3. El futuro del Derecho: el transhumanismo
 
++ porque el partido socialista no deveria existir (hacer trad ??)
 
+in efecto, el socialismo es una lucha de todos contra todos para las subvenciones, para quel nivel de "colectivad" va a tomar las decisiones, es decir, cuales individuos con cual pretexto van a tomar las decisiones en vez de los que sí tienen derecho de tomarlas (los proprietarios) ?
 
 
 (cut for pres, use for full text article ? youtube links to clips ?)
