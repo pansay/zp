@@ -387,6 +387,10 @@ es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento 
 
 ![](media/uniformas.jpg)
 
+---
+
+![](media/sombrero-magico2.jpg)
+
 ---Texto---
 
 Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenía antes.

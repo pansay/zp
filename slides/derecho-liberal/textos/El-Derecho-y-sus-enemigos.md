@@ -25,6 +25,8 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 media/did-you-mean.png
 
 
+estamos ya en anarquia, solo que algunas personas olvidan de contar los crimenes del estado en las estatisticas
+
 
 
 

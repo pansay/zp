@@ -41,6 +41,8 @@ media/do-you-fear-death-4.png
 
 
 
+media/do-unto-others.png
+
 
 > [SMBC](http://www.smbc-comics.com/?id=3443)
 
