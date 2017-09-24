@@ -1,33 +1,47 @@
-1. Introduccion al Derecho liberal
-2. El Derecho y sus enemigos
-3. El futuro del Derecho: el transhumanismo
+El Derecho y sus enemigos
+===
+
+---Texto---
+
+---
+
+Jan Krepelka
+
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
+
+---
+
+## Plan
+
+1. Historia del Derecho
+2. Enemigos del Derecho
+3. Futuro del Derecho
+
+---
+
+
+1.5 Anarquismo
+
+media/did-you-mean.png
+
+
+
+
 
 + porque el partido socialista no deveria existir (hacer trad ??)
 
 in efecto, el socialismo es una lucha de todos contra todos para las subvenciones, para quel nivel de "colectivad" va a tomar las decisiones, es decir, cuales individuos con cual pretexto van a tomar las decisiones en vez de los que sí tienen derecho de tomarlas (los proprietarios) ?
 
 
-(cut for pres, use for full text article ? youtube links to clips ?)
-
-
-do all three :
-
-Derecho liberal
-Los enemigos del Derecho
-El transhumanismo
-
 
 (precisamente el concepto de "enemigo de los trabajadores" враг народа, враг трудящихся)
 
 
 
-Cut, use for another pres:
 
-
-El Derecho y sus enemigos
 ===
 
-1. El Derecho natural
+
 
 
 Grotius
@@ -39,7 +53,7 @@ Hoppe
 etc
 
 
-2. Sus enemigos
+
 2.1 socialismo
 
 etc.
@@ -101,14 +115,6 @@ https://es.wikipedia.org/wiki/Gabriel_V%C3%A1zquez
 
 
 
-
-
-Los enemigos del Derecho
-===
-
-
-
-
 > в его последней стадии коммунизм представлятся не как победа социалистического права, а как победа социализма над правом вообще.
 
 ---
@@ -163,11 +169,6 @@ pues esa ultima linea no es una región en el sentido común, pero sí es una en
 
 
 
-
-
-
-
-## 4. Los enemigos del Derecho
 
 ## 4.1. Criticos del Derecho
 
