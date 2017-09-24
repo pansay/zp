@@ -246,6 +246,11 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---Texto---
 
+- Dios
+- Reyes
+- Ingleses
+- personas
+
 Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser Inglés, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas, que desean poder, para tomar esa poder sobre otras personas, nada mas.
 
 Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿porque tendría él derechos distintos de ellos?
