@@ -16,7 +16,10 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 ---
 
 > ¡La libertad, la inmortalidad, y las estrellas!
+>
 > -- L. Neil Smith
+
+---
 
 ## Plan
 
@@ -26,19 +29,25 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---Texto---
 
+---
+
+![](media/do-you-fear-death-1.png)
 
 ---
 
-
-![](media/do-you-fear-death-1.png)
 ![](media/do-you-fear-death-2.png)
+
+---
+
 ![](media/do-you-fear-death-3.png)
+
+---
+
 ![](media/do-you-fear-death-4.png)
 
 > [SMBC](https://thenib.com/do-you-fear-death-76fb193deec5)
 
-
---
+---
 
 ![](media/do-unto-others.png)
 
