@@ -30,22 +30,21 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 ---
 
 
-media/do-you-fear-death-1.png
-media/do-you-fear-death-2.png
-media/do-you-fear-death-3.png
-media/do-you-fear-death-4.png
-
-
+![](media/do-you-fear-death-1.png)
+![](media/do-you-fear-death-2.png)
+![](media/do-you-fear-death-3.png)
+![](media/do-you-fear-death-4.png)
 
 > [SMBC](https://thenib.com/do-you-fear-death-76fb193deec5)
 
 
+--
 
-media/do-unto-others.png
-
+![](media/do-unto-others.png)
 
 > [SMBC](http://www.smbc-comics.com/?id=3443)
 
+---
 
 ¿quien tiene derechos?
 
@@ -104,4 +103,39 @@ Et pour rappel, dans le droit positif français :
 voici donc les droits reconnus et non reconnus du foetus et de l'enfant. est-ce qu'une éventuelle légalisation de la GPA (et, folie française, on en est bien loin mais on s'indigne quand même) changerait quoi que ce soit à ce cadre juridique, et notamment au statut juridique de l'enfant (qui passerait de personne à marchandise) ? bien entendu que non.
 
 
-+ historia de manana de Yuval citaciones, modificaciones de deseos, etc.
+http://www.imdb.com/title/tt1971325/
+
+
++ brief history of tomorrow de Yuval citaciones, modificaciones de deseos, etc.
+
+
+Pelicula automata -> Turing tests
+
+Yuval Noah Harari, Homo Deus: Breve historia del mañana
+
+
+https://www.amazon.es/Homo-Deus-Breve-historia-mañana-ebook/dp/B01JQ6YNRE/
+
+
+> A situação é muito grave, a mais grave de quantas o país teve de viver até hoje.
+
+> -- José Saramago, As Intermitências da Morte [Death with Interruptions].
+
+
+
+http://lugol.net/blog/how-to-compare/
+
+How to compare?
+
+The difference between Paasche and Laspeyres indices* highlights the problem of comparing two states of the world, with changes both in prices and quantities. Scitovsky ("A Note on Welfare Propositions in Economics", 1941) applied a similar reasoning to welfare economics.
+
+The issue is analogous to thinking about how it would feel to be, say, rich, famous, married, dead, a woman, etc. The fact is that you can only think about it from your perspective of poor, not famous, single, alive, a man, etc., and you can never know how it would really be, because if you actually were there, you would be evaluating it from the perspective of rich, famous, married, dead, a woman, etc. which might be entirely different. Since in that case you can't isolate the two (the change in the actual state of the world and the change in how you perceive it), it's like comparing two states of the world with both different prices and baskets of goods.
+
+*Paasche: comparing prices of the t1 basket in t0 and t1
+Laspeyres: comparing prices of the t0 basket in t0 and t1.
+
+2007-06-15
+
+
+
+http://laissez-faire.ch/en/articles/transhumanism-the-next-step-of-civilization/

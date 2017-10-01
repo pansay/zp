@@ -22,7 +22,9 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 1.5 Anarquismo
 
-media/did-you-mean.png
+![did you mean...](media/did-you-mean.png)
+
+---
 
 
 estamos ya en anarquia, solo que algunas personas olvidan de contar los crimenes del estado en las estatisticas
@@ -81,11 +83,22 @@ ostracismo
 
 ## simetria 2
 
+---
+
 legalizar es prohibir
 
-[camiseta: legalize everything]
+|||
+|---|---|
+|![legalize everything](media/disapprove.png)|![legalize everything](media/legalize-everything.png)|
 
-![legalize everything](legalize-everything.png)
+---
+
+|||
+|---|---|
+|![legalize everything](media/approve.png)|![legalize everything](media/i-just-want.png)|
+
+
+---
 
 
 
@@ -210,7 +223,11 @@ Interpersonal Power: A Review, Critique, and Research Agenda
 
 https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 
+---
 
+<video data-autoplay src="media/unlimited-power.mp4"></video>
+
+---
 
 
 
