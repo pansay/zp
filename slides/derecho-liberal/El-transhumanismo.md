@@ -23,11 +23,36 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ## Plan
 
-1. La libertad: ¿quien tiene Derechos?
+1. La libertad: ¿para quien? ¿quien tiene Derechos?
 2. La inmortalidad
 3. Las estrellas
 
+---
+
+## 1.  La libertad: ¿para quien? ¿quien tiene Derechos?
+
+---
+
+![](media/do-unto-others.png)
+
+> [SMBC](http://www.smbc-comics.com/?id=3443)
+
 ---Texto---
+
+---
+
+
+¿quien tiene derechos?
+
+¿Quienes son seres humanos titulares de derechos? 
+
+http://www.imdb.com/title/tt1971325/
+Pelicula automata -> Turing tests
+
+---
+
+
+## 2. La inmortalidad
 
 ---
 
@@ -49,15 +74,12 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ---
 
-![](media/do-unto-others.png)
+> A situação é muito grave, a mais grave de quantas o país teve de viver até hoje.
 
-> [SMBC](http://www.smbc-comics.com/?id=3443)
+> -- José Saramago, As Intermitências da Morte
 
 ---
 
-¿quien tiene derechos?
-
-¿Quienes son seres humanos titulares de derechos? Esto es la pregunta realmente interesante, e la vamos a aprofundir en la próxima charla sobre el transhumanismo.
 
 
 Bostrom, fabla dragon tyrante
@@ -112,23 +134,22 @@ Et pour rappel, dans le droit positif français :
 voici donc les droits reconnus et non reconnus du foetus et de l'enfant. est-ce qu'une éventuelle légalisation de la GPA (et, folie française, on en est bien loin mais on s'indigne quand même) changerait quoi que ce soit à ce cadre juridique, et notamment au statut juridique de l'enfant (qui passerait de personne à marchandise) ? bien entendu que non.
 
 
-http://www.imdb.com/title/tt1971325/
 
+## 3. Las estrellas
+
+### 3.1. Las estrellas, literlamente
+
+### 3.2. Las estrellas, simbolicamente
 
 + brief history of tomorrow de Yuval citaciones, modificaciones de deseos, etc.
 
 
-Pelicula automata -> Turing tests
+
 
 Yuval Noah Harari, Homo Deus: Breve historia del mañana
 
 
 https://www.amazon.es/Homo-Deus-Breve-historia-mañana-ebook/dp/B01JQ6YNRE/
-
-
-> A situação é muito grave, a mais grave de quantas o país teve de viver até hoje.
-
-> -- José Saramago, As Intermitências da Morte [Death with Interruptions].
 
 
 

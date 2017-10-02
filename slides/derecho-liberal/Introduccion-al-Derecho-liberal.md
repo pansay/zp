@@ -375,6 +375,10 @@ es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento 
 
 ### 3.5 Contra el sombrero mágico
 
+---Texto---
+
+Y eso nos lleva poco a poco a la distinción fundamental tras los liberales en el censo correcto, y los liberales en el sentido mas común, el de los estados occidentales, de las llamadas democracias liberales.
+
 ---
 
 ![](media/sombrero-magico.png)

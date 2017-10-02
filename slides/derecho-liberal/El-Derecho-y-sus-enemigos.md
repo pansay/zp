@@ -261,3 +261,6 @@ el futuro del Derecho -> transhumanismo
 
 
 un hombre solo en la tierrra tendria libertad absoluta y respecto absoluto de sus derechos
+
+
+"The State is God's Will." Hegel
