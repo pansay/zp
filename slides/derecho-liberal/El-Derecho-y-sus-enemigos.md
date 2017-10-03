@@ -278,3 +278,17 @@ un hombre solo en la tierrra tendria libertad absoluta y respecto absoluto de su
 
 
 "The State is God's Will." Hegel
+
+
+
+https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski
+
+He came to the conclusion that the totalitarian cruelty of Stalinism was not an aberration, but instead a logical end-product of Marxism, whose genealogy he examined in his monumental Main Currents of Marxism, his major work, published in 1976–1978.[7]
+
+https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences
+
+Polish philosopher Leszek Kołakowski criticized Khrushchev in 1978 for failing to make any analysis of the system Stalin presided over. "Stalin had simply been a criminal and a maniac, personally to blame for all the nation's defeats and misfortunes. As to how, and in what social conditions, a bloodthirsty paranoiac could for twenty-five years exercise unlimited despotic power over a country of two hundred million inhabitants, which throughout that period had been blessed with the most progressive and democratic system of government in human history—to this enigma the speech offered no clue whatever. All that was certain was that the Soviet system and the party itself remained impeccably pure and bore no responsibility for the tyrant's atrocities."[20]
+
+https://en.wikipedia.org/wiki/Main_Currents_of_Marxism
+
+Leszek Kołakowski
