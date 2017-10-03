@@ -180,10 +180,24 @@ Mirad la ultima linea: alguien me puede decir ¿porque falta un numero?
 
 pues esa ultima linea no es una región en el sentido común, pero sí es una en el sentido de Солженицын: es el archipiélago del Gulag: "Лагеря НКВД". son las cuotas de personas ya trabajando hasta la muerto en en frío, ya condenadas, pero que todavía había que matar.
 
-(Хрущёв, charla culto de la personalidad, 4 horas polaco Kołakowski: como ha sido posible ?)
+##. x. 5 Nunca mas.
 
+lo que ocuro despues de esos masacros de Stalin... Хрущёв, charla culto de la personalidad, 4 horas...
 
+pero historiaco polaco Kołakowski muy buena pregunta: como ha sido posible ?
 
+y eso es la pregunta interesante para el derecho:
+
+http://laissez-faire.ch/fr/articles/plus-jamais-ca/
+
+que sistema podemos establecer para que eso no puedo jamas acontecer ?
+
+y mas alla: 
+http://linguistica.rocks/dash-in-russian/
+
+que sistema de Derecho para que la humanidad puede sobrevivir, sin Gulag, sin guerras, sin armas nucleares ?
+
+http://linguistica.rocks/dash-in-russian/
 
 ## 4.1. Criticos del Derecho
 
