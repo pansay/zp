@@ -192,6 +192,8 @@ http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 
 que sistema podemos establecer para que eso no puedo jamas acontecer ?
 
+hipster hitler + funny stalin for speech
+
 y mas alla: 
 http://linguistica.rocks/dash-in-russian/
 
