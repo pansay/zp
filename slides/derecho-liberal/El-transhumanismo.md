@@ -81,6 +81,8 @@ Pelicula automata -> Turing tests
 ---
 
 
+http://lugol.net/blog/compound-interest/
+
 
 Bostrom, fabla dragon tyrante
 
@@ -137,11 +139,9 @@ voici donc les droits reconnus et non reconnus du foetus et de l'enfant. est-ce 
 
 ## 3. Las estrellas
 
-### 3.1. Las estrellas, literlamente
 
-### 3.2. Las estrellas, simbolicamente
 
-+ brief history of tomorrow de Yuval citaciones, modificaciones de deseos, etc.
+
 
 
 
@@ -169,3 +169,22 @@ Laspeyres: comparing prices of the t0 basket in t0 and t1.
 
 
 http://laissez-faire.ch/en/articles/transhumanism-the-next-step-of-civilization/
+
+
+
+### 3.2. Las estrellas, simbolicamente
+
++ brief history of tomorrow de Yuval citaciones, modificaciones de deseos, etc.
+
+
++ Prometheus Rising, drogas, etc.
+
+
+### 3.1. Las estrellas, literlamente
+
+---
+
+<video data-autoplay src="media/wanderers.mp4"></video>
+
+
+---

@@ -1,3 +1,5 @@
+* [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)
+
 > Thus one must also bear the authority of the ruler. If he abuses it, I am not therefore to bear him a grudge, nor take revenge of and punish him with my hands. One must obey him solely for God’s sake, for he stands in God’s stead. Let them impose taxes as intolerable as they may: one must obey them and suffer everything patiently, for God’s sake.
 >
 > -- [Martin Luther](http://www.godrules.net/library/luther/129luther_e19.htm)
@@ -15,22 +17,12 @@
 
 ---
 
-In einer höheren Phase der kommunistischen Gesellschaft, nachdem die
-knechtende Unterordnung der Individuen unter die Teilung der Arbeit,
-damit auch der Gegensatz geistiger und körperlicher Arbeit
-verschwunden ist; nachdem die Arbeit nicht nur Mittel zum Leben,
-sondern selbst das erste Lebensbedürfnis geworden; nachdem mit der
-allseitigen Entwicklung der Individuen auch ihre Produktivkräfte [10]
-gewachsen und alle Springquellen des genossenschaftlichen Reichtums
-voller fließen – erst dann kann der enge bürgerliche Rechtshorizont
-ganz überschritten werden und die Gesellschaft auf ihre Fahne
-schreiben: Jeder nach seinen Fähigkeiten, jedem nach seinen
-Bedürfnissen!
+> In einer höheren Phase der kommunistischen Gesellschaft, nachdem die knechtende Unterordnung der Individuen unter die Teilung der Arbeit, damit auch der Gegensatz geistiger und körperlicher Arbeit verschwunden ist; nachdem die Arbeit nicht nur Mittel zum Leben, sondern selbst das erste Lebensbedürfnis geworden; nachdem mit der allseitigen Entwicklung der Individuen auch ihre Produktivkräfte gewachsen und alle Springquellen des genossenschaftlichen Reichtums voller fließen – erst dann kann der enge bürgerliche Rechtshorizont ganz überschritten werden und die Gesellschaft auf ihre Fahne schreiben: Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen!
+> 
+> --[Karl Marx, Kritik des Gothaer Programms](https://www.marxists.org/deutsch/archiv/marx-engels/1875/kritik/randglos.htm)
 
-Karl Marx
-Kritik des Gothaer Programms
-https://www.marxists.org/deutsch/archiv/marx-engels/1875/kritik/randglos.htm
 
+---
 
 > Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación ».
 >
@@ -51,9 +43,9 @@ https://www.marxists.org/deutsch/archiv/marx-engels/1875/kritik/randglos.htm
 
 ---
 
-> Los individuos tienen derechos, y esos derechos son independientes de la autoridad social, quien no les puede tocar sin hacerse culpable de usurpación.
+> Les individus ont des droits, et que ces droits sont indépendants de l'autorité sociale, qui ne peut leur porter atteinte sans se rendre coupable d'usurpation.
 >
-> -- Benjamin Constant, *[Sobre los derechos individuales](http://fr.liberpedia.org/Des_droits_individuels)*, 1818
+> -- Benjamin Constant, *[Des droits individuels](http://fr.liberpedia.org/Des_droits_individuels)*, 1818
 
 ---
 
