@@ -257,6 +257,14 @@ Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una
 
 ---
 
+![Trump - chosen by God](media/Trump-Chosen-by-God.jpg)
+
+---Texto---
+
+y por supuesto, la teoría del derecho divino no es exclusiva con otras teorías, incluso la democracia
+
+---
+
 ### 2.3. Democracia
 
 ---Texto---
