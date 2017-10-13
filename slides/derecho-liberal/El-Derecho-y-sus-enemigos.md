@@ -289,11 +289,21 @@ He came to the conclusion that the totalitarian cruelty of Stalinism was not an 
 
 https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences
 
+
+> Chruszczow opowiadał szczegółowo o zbrodniach Stalina, o mordowaniu funkcjonariuszy partyjnych, o torturach i prześladowaniach, o chorobliwych maniach Stalina, przy czym jednak nie zrehabilitował nikogo z dawnych działaczy opozycji; wśród ofiar stalinowskiego pogromu wymieniał wyłącznie nieposzlakowanych stalinistów, jak Postyszew, Gamarnik czy Rudzutak - nie zaś opozycjonistów, jak Bucharin czy Kamieniew. Nie było tam także najmniejszej próby analizy historycznej czy socjologicznej stalinowskiego systemu. Po prostu Stalin okazał się obłąkanym zbrodniarzem i był osobiście winien wszystkim klęskom i nieszczęściom narodu; w jaki sposób i dzięki jakim społecznym warunkom oszalały i krwiożerczy maniak mógł przez ćwierć wieku sprawować despotyczną i nieograniczoną władzę nad dwustomilionowym krajem, który nieprzerwanie, przez cały ten czas, był szczęśliwym posiadaczem najbardziej postępowego i najbardziej demokratycznego ustroju w dziejach ludzkości - tego z wykładu Chruszczowa dowiedzieć się niepodobna.Wiadomo tyłko, że ustrój sowiecki i sama partia nie brały żadnego udziału w okrucieństwach tyrana i przechowały swoją nieskazitelną czystość.
+>
+> -- Leszek Kołakowski, Główne nurty marksizmu, III, Rozkład, p. 450-451
+
+
 Polish philosopher Leszek Kołakowski criticized Khrushchev in 1978 for failing to make any analysis of the system Stalin presided over. "Stalin had simply been a criminal and a maniac, personally to blame for all the nation's defeats and misfortunes. As to how, and in what social conditions, a bloodthirsty paranoiac could for twenty-five years exercise unlimited despotic power over a country of two hundred million inhabitants, which throughout that period had been blessed with the most progressive and democratic system of government in human history—to this enigma the speech offered no clue whatever. All that was certain was that the Soviet system and the party itself remained impeccably pure and bore no responsibility for the tyrant's atrocities."[20]
 
 https://en.wikipedia.org/wiki/Main_Currents_of_Marxism
 
+http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 Leszek Kołakowski
+
+
+Ne pas les prendre, c’est mettre en place un système anti-politique qui les rend impossibles.
 
 Martin Latsis, chief of the Ukrainian Cheka, stated in the newspaper Red Terror:
 Do not look in the file of incriminating evidence to see whether or not the accused rose up against the Soviets with arms or words. Ask him instead to which class he belongs, what is his background, his education, his profession. These are the questions that will determine the fate of the accused. That is the meaning and essence of the Red Terror.
