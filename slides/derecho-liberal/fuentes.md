@@ -59,3 +59,9 @@
 > A situação é muito grave, a mais grave de quantas o país teve de viver até hoje.
 >
 > -- José Saramago, As Intermitências da Morte
+
+—
+
+> Chruszczow opowiadał szczegółowo o zbrodniach Stalina, o mordowaniu funkcjonariuszy partyjnych, o torturach i prześladowaniach, o chorobliwych maniach Stalina, przy czym jednak nie zrehabilitował nikogo z dawnych działaczy opozycji; wśród ofiar stalinowskiego pogromu wymieniał wyłącznie nieposzlakowanych stalinistów, jak Postyszew, Gamarnik czy Rudzutak - nie zaś opozycjonistów, jak Bucharin czy Kamieniew. Nie było tam także najmniejszej próby analizy historycznej czy socjologicznej stalinowskiego systemu. Po prostu Stalin okazał się obłąkanym zbrodniarzem i był osobiście winien wszystkim klęskom i nieszczęściom narodu; w jaki sposób i dzięki jakim społecznym warunkom oszalały i krwiożerczy maniak mógł przez ćwierć wieku sprawować despotyczną i nieograniczoną władzę nad dwustomilionowym krajem, który nieprzerwanie, przez cały ten czas, był szczęśliwym posiadaczem najbardziej postępowego i najbardziej demokratycznego ustroju w dziejach ludzkości - tego z wykładu Chruszczowa dowiedzieć się niepodobna.Wiadomo tyłko, że ustrój sowiecki i sama partia nie brały żadnego udziału w okrucieństwach tyrana i przechowały swoją nieskazitelną czystość.
+>
+> -- Leszek Kołakowski, Główne nurty marksizmu, III, Rozkład, p. 450-451

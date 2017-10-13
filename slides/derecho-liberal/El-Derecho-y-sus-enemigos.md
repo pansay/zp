@@ -294,3 +294,10 @@ Polish philosopher Leszek Kołakowski criticized Khrushchev in 1978 for failing 
 https://en.wikipedia.org/wiki/Main_Currents_of_Marxism
 
 Leszek Kołakowski
+
+Martin Latsis, chief of the Ukrainian Cheka, stated in the newspaper Red Terror:
+Do not look in the file of incriminating evidence to see whether or not the accused rose up against the Soviets with arms or words. Ask him instead to which class he belongs, what is his background, his education, his profession. These are the questions that will determine the fate of the accused. That is the meaning and essence of the Red Terror.
+— Martin Latsis, Red Terror[8]
+The bitter struggle was described succinctly from the Bolshevik point of view by Grigory Zinoviev in mid-September 1918:
+To overcome our enemies we must have our own socialist militarism. We must carry along with us 90 million out of the 100 million of Soviet Russia's population. As for the rest, we have nothing to say to them. They must be annihilated.
+— Grigory Zinoviev, 1918[9]
