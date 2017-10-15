@@ -190,16 +190,37 @@ y eso es la pregunta interesante para el derecho:
 
 http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 
-que sistema podemos establecer para que eso no puedo jamas acontecer ?
+que sistema podemos establecer para que eso no puedo jamas acontecer ? y por supuesto es la pregunta que nunca contestan los socialistes cuando hablan de las "errores regretables" del comunismo
 
 hipster hitler + funny stalin for speech
+
+Hitler the TV show
+
+porque no han sido estos los trabajos de Hitler y Stalin ?
 
 y mas alla: 
 http://linguistica.rocks/dash-in-russian/
 
-que sistema de Derecho para que la humanidad puede sobrevivir, sin Gulag, sin guerras, sin armas nucleares ?
+que sistema de Derecho para que la humanidad puede sobrevivir, sin Gulag, sin guerras, sin armas nucleares 
+?
+
++ => derecho a las armas : nadie fue armado en el Gulag !
+
+[ basically do trans. new part 2 here]
 
 http://linguistica.rocks/dash-in-russian/
+
+
+gulag etc, then
+
+
+
+en la Cechoslovacia socialista, el regimen donde yo he nacido, los prisoneros politoc los mandan tambien en encampaminentos de concentracion, especialmente los situados cerca de las minas de uranium, para trabajar en las mismas minas... sin proteccion. el uranium fue diractemente enviado a la union sovietico, para contribuier en ese gran proyecto progresista de annihilicaion nuclear de la humanidad.
+
+y tambien esa destruccion del derecho fue teorizada:
+
+
+respecto a todo eso
 
 ## 4.1. Criticos del Derecho
 
@@ -311,3 +332,5 @@ Do not look in the file of incriminating evidence to see whether or not the accu
 The bitter struggle was described succinctly from the Bolshevik point of view by Grigory Zinoviev in mid-September 1918:
 To overcome our enemies we must have our own socialist militarism. We must carry along with us 90 million out of the 100 million of Soviet Russia's population. As for the rest, we have nothing to say to them. They must be annihilated.
 — Grigory Zinoviev, 1918[9]
+
+
