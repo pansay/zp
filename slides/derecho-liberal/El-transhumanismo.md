@@ -5,7 +5,7 @@ El transhumanismo
 
 Hemos hablado del Derecho, de sus enemigos, y ahora tenemos que hablar del futuro del Derecho:
 
-¿Como el derecho va a cambiar, o no cambiar, dado las nuevas tecnologías y los cambios científicos?
+¿Como el Derecho va a cambiar, o no cambiar, dado las nuevas tecnologías y los cambios científicos?
 
 ---
 
@@ -23,13 +23,18 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 ## Plan
 
-1. La libertad: ¿para quien? ¿quien tiene Derechos?
+1. La libertad
 2. La inmortalidad
 3. Las estrellas
 
 ---
 
-## 1.  La libertad: ¿para quien? ¿quien tiene Derechos?
+## 1.  La libertad
+
+
+---Texto---
+
+la libertad, ¿para quien? ¿quien tiene Derechos?
 
 ---
 
@@ -40,14 +45,11 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 ---Texto---
 
 ---
-
-
 ¿quien tiene derechos?
 
-¿Quienes son seres humanos titulares de derechos? 
+¿Quienes son seres humanos titulares de derechos?
 
-http://www.imdb.com/title/tt1971325/
-Pelicula automata -> Turing tests
+[Pelicula automata](http://www.imdb.com/title/tt1971325/) -> Turing tests
 
 ---
 
@@ -74,7 +76,7 @@ Pelicula automata -> Turing tests
 
 ---
 
-> A situação é muito grave, a mais grave de quantas o país teve de viver até hoje.
+> La situacions es muy grave, la mas grave de las que el pais ha vivido hasta hoy.
 
 > -- José Saramago, As Intermitências da Morte
 
@@ -122,8 +124,6 @@ asi que me parece que la gestacion subrogada es una tecnica mas de procreacion, 
 
 independemente de esto, claro que es legitimo tener una opinion de cuales son las mejores formas de criar a un nino y estructuras familales para hacerlo, pero si es fuera del derecho es fuera del liberalismo, y me parece un asunto no directamente ligado a lo de la gestacion subrogada.
 
-
-
 Et pour rappel, dans le droit positif français :
 
 - une personne a le droit de tomber enceinte (aucune loi ne l'interdit) ;
@@ -135,23 +135,7 @@ Et pour rappel, dans le droit positif français :
 
 voici donc les droits reconnus et non reconnus du foetus et de l'enfant. est-ce qu'une éventuelle légalisation de la GPA (et, folie française, on en est bien loin mais on s'indigne quand même) changerait quoi que ce soit à ce cadre juridique, et notamment au statut juridique de l'enfant (qui passerait de personne à marchandise) ? bien entendu que non.
 
-
-
 ## 3. Las estrellas
-
-
-
-
-
-
-
-
-Yuval Noah Harari, Homo Deus: Breve historia del mañana
-
-
-https://www.amazon.es/Homo-Deus-Breve-historia-mañana-ebook/dp/B01JQ6YNRE/
-
-
 
 http://lugol.net/blog/how-to-compare/
 
@@ -166,8 +150,6 @@ Laspeyres: comparing prices of the t0 basket in t0 and t1.
 
 2007-06-15
 
-
-
 http://laissez-faire.ch/en/articles/transhumanism-the-next-step-of-civilization/
 
 
@@ -176,15 +158,14 @@ http://laissez-faire.ch/en/articles/transhumanism-the-next-step-of-civilization/
 
 + brief history of tomorrow de Yuval citaciones, modificaciones de deseos, etc.
 
+Yuval Noah Harari, [Homo Deus: Breve historia del mañana](https://www.amazon.es/Homo-Deus-Breve-historia-mañana-ebook/dp/B01JQ6YNRE/)
 
 + Prometheus Rising, drogas, etc.
-
 
 ### 3.1. Las estrellas, literlamente
 
 ---
 
 <video data-autoplay src="media/wanderers.mp4"></video>
-
 
 ---

@@ -330,6 +330,7 @@ Polish philosopher Leszek Kołakowski criticized Khrushchev in 1978 for failing 
 
 https://en.wikipedia.org/wiki/Main_Currents_of_Marxism
 
+<<<<<<< Updated upstream
 http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 Leszek Kołakowski
 
@@ -344,3 +345,11 @@ To overcome our enemies we must have our own socialist militarism. We must carry
 — Grigory Zinoviev, 1918[9]
 
 
+=======
+Leszek Kołakowski
+
+
++ https://en.wikipedia.org/wiki/Nikolai_Krylenko
+
+Krylenko was an exponent of socialist legality and the theory that political considerations, rather than criminal guilt or innocence, should guide the application of punishment. Although a participant in the Show Trials and political repression of the late 1920s and early 1930s, Krylenko was ultimately arrested himself during the Great Purge. Following interrogation and torture by the NKVD, Krylenko confessed to extensive involvement in wrecking and anti-Soviet agitation. He was sentenced to death by the Military Collegium of the Soviet Supreme Court, in a trial lasting 20 minutes, and executed immediately afterwards.
+>>>>>>> Stashed changes
