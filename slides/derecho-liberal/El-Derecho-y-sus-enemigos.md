@@ -192,11 +192,21 @@ http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 
 que sistema podemos establecer para que eso no puedo jamas acontecer ? y por supuesto es la pregunta que nunca contestan los socialistes cuando hablan de las "errores regretables" del comunismo
 
-hipster hitler + funny stalin for speech
 
-Hitler the TV show
+
+
 
 porque no han sido estos los trabajos de Hitler y Stalin ?
+
+---
+
+<video data-autoplay src="media/family-guy-hitler.mp4"></video>
+
+---
+
+![communist party](media/communist-party.png)
+
+---
 
 y mas alla: 
 http://linguistica.rocks/dash-in-russian/
