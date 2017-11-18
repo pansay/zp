@@ -20,7 +20,7 @@
 ---
 
 > In einer höheren Phase der kommunistischen Gesellschaft, nachdem die knechtende Unterordnung der Individuen unter die Teilung der Arbeit, damit auch der Gegensatz geistiger und körperlicher Arbeit verschwunden ist; nachdem die Arbeit nicht nur Mittel zum Leben, sondern selbst das erste Lebensbedürfnis geworden; nachdem mit der allseitigen Entwicklung der Individuen auch ihre Produktivkräfte gewachsen und alle Springquellen des genossenschaftlichen Reichtums voller fließen – erst dann kann der enge bürgerliche Rechtshorizont ganz überschritten werden und die Gesellschaft auf ihre Fahne schreiben: Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen!
-> 
+>
 > --[Karl Marx, Kritik des Gothaer Programms](https://www.marxists.org/deutsch/archiv/marx-engels/1875/kritik/randglos.htm)
 
 
@@ -39,7 +39,7 @@
 
 ---
 
-> Los hombres nacen y permanecen libres e iguales en derechos. 
+> Los hombres nacen y permanecen libres e iguales en derechos.
 >
 > -- [Declaración de los Derechos del Hombre y del Ciudadano](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank_mm/espagnol/es_ddhc.pdf), 1789
 
@@ -51,7 +51,7 @@
 
 ---
 
-> Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener. 
+> Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener.
 >
 > -- [Lysander Spooner, 1877](http://www.enemigosdelestado.com/contra-sufragio-femenino-spooner-lysander/)
 
@@ -67,3 +67,7 @@
 > Chruszczow opowiadał szczegółowo o zbrodniach Stalina, o mordowaniu funkcjonariuszy partyjnych, o torturach i prześladowaniach, o chorobliwych maniach Stalina, przy czym jednak nie zrehabilitował nikogo z dawnych działaczy opozycji; wśród ofiar stalinowskiego pogromu wymieniał wyłącznie nieposzlakowanych stalinistów, jak Postyszew, Gamarnik czy Rudzutak - nie zaś opozycjonistów, jak Bucharin czy Kamieniew. Nie było tam także najmniejszej próby analizy historycznej czy socjologicznej stalinowskiego systemu. Po prostu Stalin okazał się obłąkanym zbrodniarzem i był osobiście winien wszystkim klęskom i nieszczęściom narodu; w jaki sposób i dzięki jakim społecznym warunkom oszalały i krwiożerczy maniak mógł przez ćwierć wieku sprawować despotyczną i nieograniczoną władzę nad dwustomilionowym krajem, który nieprzerwanie, przez cały ten czas, był szczęśliwym posiadaczem najbardziej postępowego i najbardziej demokratycznego ustroju w dziejach ludzkości - tego z wykładu Chruszczowa dowiedzieć się niepodobna.Wiadomo tyłko, że ustrój sowiecki i sama partia nie brały żadnego udziału w okrucieństwach tyrana i przechowały swoją nieskazitelną czystość.
 >
 > -- Leszek Kołakowski, Główne nurty marksizmu, III, Rozkład, p. 450-451
+
+> Stalin had simply been a criminal and a maniac, personally to blame for all the nation's defeats and misfortunes. As to how, and in what social conditions, a bloodthirsty paranoiac could for twenty-five years exercise unlimited despotic power over a country of two hundred million inhabitants, which throughout that period had been blessed with the most progressive and democratic system of government in human history—to this enigma the speech offered no clue whatever. All that was certain was that the Soviet system and the party itself remained impeccably pure and bore no responsibility for the tyrant's atrocities.
+>
+> -- Leszek Kołakowski Main Currents of Marxism, p. 1149

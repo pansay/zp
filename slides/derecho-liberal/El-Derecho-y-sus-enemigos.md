@@ -135,7 +135,7 @@ https://es.wikipedia.org/wiki/Gabriel_V%C3%A1zquez
 ---
 
 > La ideología burguesa del Derecho ha tomado el puesto de Dios, deificando así su fetiche del Derecho.
-> 
+>
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 424](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=212&zoom=130,-22,842).
 
 ---Texto---
@@ -208,10 +208,15 @@ porque no han sido estos los trabajos de Hitler y Stalin ?
 
 ---
 
-y mas alla: 
+eso es la pregunta que ningun socialista contesta. 
+
+
+
+
+y mas alla:
 http://linguistica.rocks/dash-in-russian/
 
-que sistema de Derecho para que la humanidad puede sobrevivir, sin Gulag, sin guerras, sin armas nucleares 
+que sistema de Derecho para que la humanidad puede sobrevivir, sin Gulag, sin guerras, sin armas nucleares
 ?
 
 + => derecho a las armas : nadie fue armado en el Gulag !
@@ -295,7 +300,7 @@ Y lo mismo lo vemos ya en la La Declaración Universal de Derechos Humanos (Naci
 
 > Artículo 2.
 >
-> Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. 
+> Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.
 
 ---Texto---
 
@@ -316,7 +321,7 @@ un hombre solo en la tierrra tendria libertad absoluta y respecto absoluto de su
 
 https://en.wikipedia.org/wiki/Leszek_Ko%C5%82akowski
 
-He came to the conclusion that the totalitarian cruelty of Stalinism was not an aberration, but instead a logical end-product of Marxism, whose genealogy he examined in his monumental Main Currents of Marxism, his major work, published in 1976–1978.[7]
+He came to the conclusion that the totalitarian cruelty of Stalinism was not an aberration, but instead a logical end-product of Marxism, whose genealogy he examined in his monumental Main Currents of Marxism, his major work, published in 1976–1978.
 
 https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences
 
@@ -328,12 +333,12 @@ https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences
 
 Polish philosopher Leszek Kołakowski criticized Khrushchev in 1978 for failing to make any analysis of the system Stalin presided over. "Stalin had simply been a criminal and a maniac, personally to blame for all the nation's defeats and misfortunes. As to how, and in what social conditions, a bloodthirsty paranoiac could for twenty-five years exercise unlimited despotic power over a country of two hundred million inhabitants, which throughout that period had been blessed with the most progressive and democratic system of government in human history—to this enigma the speech offered no clue whatever. All that was certain was that the Soviet system and the party itself remained impeccably pure and bore no responsibility for the tyrant's atrocities."[20]
 
-https://en.wikipedia.org/wiki/Main_Currents_of_Marxism
 
-<<<<<<< Updated upstream
-http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 Leszek Kołakowski
 
+
+
+http://laissez-faire.ch/fr/articles/plus-jamais-ca/
 
 Ne pas les prendre, c’est mettre en place un système anti-politique qui les rend impossibles.
 
@@ -345,11 +350,7 @@ To overcome our enemies we must have our own socialist militarism. We must carry
 — Grigory Zinoviev, 1918[9]
 
 
-=======
-Leszek Kołakowski
-
-
 + https://en.wikipedia.org/wiki/Nikolai_Krylenko
 
 Krylenko was an exponent of socialist legality and the theory that political considerations, rather than criminal guilt or innocence, should guide the application of punishment. Although a participant in the Show Trials and political repression of the late 1920s and early 1930s, Krylenko was ultimately arrested himself during the Great Purge. Following interrogation and torture by the NKVD, Krylenko confessed to extensive involvement in wrecking and anti-Soviet agitation. He was sentenced to death by the Military Collegium of the Soviet Supreme Court, in a trial lasting 20 minutes, and executed immediately afterwards.
->>>>>>> Stashed changes
+
