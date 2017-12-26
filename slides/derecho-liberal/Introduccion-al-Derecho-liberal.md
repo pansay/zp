@@ -24,7 +24,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 derechos asimétricos, que vamos a ver podemos definir como poder
 
-Derecho con D mayúscula cuando es único, universal 
+Derecho con D mayúscula cuando es único, universal
 
 ---
 
@@ -79,7 +79,7 @@ Otro ejemplo mas concreto:
 
 Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, en la cual el comité podía ordenar arbitrariamente la guillotina, y lo ha hecho para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
 En efecto, ¿como acabo? Guillotinado a su vez (en plaza de la Revolución), es decir, matado por el proprio sistema que había creado y utilizado.
 
@@ -117,9 +117,9 @@ Tienen dos cosas en común:
 
 * La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtención de confesiones extravagantes.
 
-y también, como los revolucionarios franceses, no eran los únicos: cuasi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las ordenes de Stalin. nadie era protegido. Tomamos el ejemplo de Yezhov:
+Y también, como los revolucionarios franceses, no eran los únicos: cuasi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las ordenes de Stalin. Nadie era protegido. Tomamos el ejemplo de Yezhov:
 
-Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar en el Gulag, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. cientos de miles de personas fueron ejecutadas y millones detenidas.
+Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar en el Gulag, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. Cientos de miles de personas fueron ejecutadas y millones detenidas.
 
 ¿Y como acabo ese señor, Yezhov ?
 
@@ -142,7 +142,7 @@ Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país 
 
 ---Texto---
 
-¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que era une error del Partido hasta el ultimo momento? ¿Les había parecido justa su condenación?
+¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que era un error del Partido hasta el ultimo momento? ¿Les había parecido justa su condenación?
 
 ¿Pero con cuales principios la habían podido rechazar?
 
@@ -158,9 +158,9 @@ Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---Texto---
 
-Eso es una ilustración de lo que Ayn Rand llamaba la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. pero ya es tarde. Los revolucionarios creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos. Lo mismo para los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado...  rechazando el Derecho como cosa burguesa, y sean también victimas de lo mismo...
+Eso es una ilustración de la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. Pero ya es tarde. Los revolucionarios creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos. Lo mismo para los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado... Rechazando el Derecho como cosa burguesa, y sean también victimas de lo mismo...
 
-la arbitrariedad de las decisiones de los comités y de las troikas es de hecho parecida al nihilismo. Y no es casualidad:
+La arbitrariedad de las decisiones de los comités y de las troikas es de hecho parecida al nihilismo. Y no es casualidad:
 
 ---
 
@@ -174,7 +174,7 @@ Y eso ya lo vemos en Marx:
 
 ---
 
-> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, 
+> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva,
 
 ---
 
@@ -189,11 +189,11 @@ Para los comunistas, el enemigo era el Derecho. El Derecho, como protección con
 
 Lo que acabamos de ver es la oposición entre dos principios:
 
-- por un lado la protección del Derecho de no ser robado y matado arbitrariamente: nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a él.
+- por un lado la protección del Derecho de no ser robado y matado arbitrariamente: nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a él;
 
-- por el otro lado, esa voluntad de derechos asimétricos: el poder sobre los demás
+- por el otro lado, esa voluntad de derechos asimétricos: el poder sobre los demás.
 
-La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse a sí también al poder, y la protección del Derecho tiene como precio de respectar al Derecho en los demás.
+La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse a sí mismo también al poder, y la protección del Derecho tiene como precio de respectar al Derecho en los demás.
 
 ---
 
@@ -215,28 +215,27 @@ Si los comunistas pretendían tener sus derechos asimétricos gracias al pueblo,
 
 ---Texto---
 
-"sea el que sea el titular del poder" !
+"Sea el que sea el titular del poder"...
 
-y no es solo el catolicismo, el protestantismo también ha sido utilizado por algunas personas para defender el poder:
+Y no es solo el catolicismo, el protestantismo también ha sido utilizado por algunas personas para defender el poder:
 
 ---
 
-> Así también uno debe aceptar la autoridad del gobernante. Uno debe obedecerle únicamente por el amor de Dios, porque él está en el lugar de Dios. Que impongan impuestos tan intolerables como pueden: uno debe obedecerles y sufrir todo pacientemente, por el amor de Dios. 
+> Así también uno debe aceptar la autoridad del gobernante. Uno debe obedecerle únicamente por el amor de Dios, porque él está en el lugar de Dios. Que impongan impuestos tan intolerables como pueden: uno debe obedecerles y sufrir todo pacientemente, por el amor de Dios.
 >
 > Martín Lutero
 
-
 ---Texto---
 
-El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? "sea el que sea el titular del poder"... pero como esa situación ha llegada a ser?
+El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? "Sea el que sea el titular del poder"... Pero ¿como esa situación ha llegada a ser? ¿Cual es el poder "legítimo" ?
 
 Y al final si hay conflicto y el rey esta remplazado por otro rey, !el también tendrá su autoridad de Dios!
 
 Históricamente: dinastías cambian, hay conquistas por guerra, y al final son reconocidas por el Vatican.
 
-¿y quien ha sido el primero?
+¿Y quien ha sido el primero?
 
-Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superar la, es que obviamente no era tan superior. Al final, es una declaración un poco mas sofisticada del básico derecho del mas fuerte, que es nada mas que una forma de nihilismo, o sea, *el resultado* del nihilismo.
+Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superarla, es que obviamente no era tan superior. Al final, es una declaración un poco mas sofisticada del básico derecho del mas fuerte, que es nada mas que una forma de nihilismo, o sea, *el resultado* del nihilismo.
 
 Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
@@ -246,12 +245,14 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---Texto---
 
+Como si hubiere esa hierarquía:
+
 - Dios
 - Reyes
 - Ingleses
-- personas
+- Otras personas
 
-Al final, nadie de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser Inglés, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas, que desean poder, para tomar esa poder sobre otras personas, nada mas.
+Al final, ninguno de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser Inglés, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas, que desean poder, para tomar esa poder sobre otras personas, nada mas.
 
 Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿porque tendría él derechos distintos de ellos?
 
@@ -261,7 +262,7 @@ Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una
 
 ---Texto---
 
-y por supuesto, la teoría del derecho divino no es exclusiva con otras teorías, incluso la democracia
+Y por supuesto, la teoría del derecho divino no es exclusiva con otras teorías, incluso la democracia.
 
 ---
 
@@ -281,11 +282,11 @@ Incluso la democracia directa: en Suiza, por ejemplo, ¿vosotros sabéis quien h
 
 ---Texto---
 
-Pues los hombres Suizos. En 1959 nos preguntan una primera vez, a nosotros varones Suizos.... tíos, esas chicas, los quieren dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). lo rechazamos.
+Pues los hombres Suizos. En 1959 nos preguntan una primera vez, a nosotros varones Suizos.... tíos, esas chicas, los quieren dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). Lo rechazamos.
 
-y después, en 1971, hace 50 años, misma pregunta... mirad tíos, ahora esas chicas son un poco mas listas, seguro no les quieren dar el derecho de votar? pues, ok, vale...
+Y después, en 1971, hace 50 años, misma pregunta... Mirad tíos, ahora esas chicas son un poco mas listas, seguro no les quieren dar el derecho de votar? Pues, ok, vale...
 
-pero... si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? porque no ha sido lo contrario? Porque los hombres tendrían el derecho de otorgar o no otorgar el derecho de votar a las mujeres?
+Pero... Si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? Porque no ha sido lo contrario? Porque los hombres tendrían el derecho de otorgar o no otorgar el derecho de votar a las mujeres?
 
 Nada de absoluto, universal. Nada de justificado en Derecho. De nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones. En este caso, algunas instituciones hechas por los hombres.
 
@@ -297,9 +298,9 @@ Las feministas suizas también hubieran podido hacer su proprio estado paralelo,
 
 ---Texto---
 
-Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco.
+Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco.
 
-El Derecho. que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que quiere rechazar el nihilismo.
+El Derecho, que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que quiere rechazar el nihilismo.
 
 ---
 
@@ -307,7 +308,7 @@ El Derecho. que se puede justificar de manera puramente lógica, y que así es i
 
 ---Texto---
 
-identidad de los derechos de cada ser humano
+Identidad de los derechos de cada ser humano.
 
 ---
 
@@ -317,7 +318,7 @@ identidad de los derechos de cada ser humano
 
 ---
 
-> Los hombres nacen y permanecen libres e iguales en derechos. 
+> Los hombres nacen y permanecen libres e iguales en derechos.
 >
 > -- [Declaración de los Derechos del Hombre y del Ciudadano](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank_mm/espagnol/es_ddhc.pdf), 1789
 
@@ -331,7 +332,7 @@ identidad de los derechos de cada ser humano
 
 ### 3.2 ... por cualquier sexo
 
-> Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener. 
+> Las mujeres son seres humanos, y por lo tanto tienen los mismos derechos naturales que todo ser humano puede tener.
 >
 > -- [Lysander Spooner, 1877](http://www.enemigosdelestado.com/contra-sufragio-femenino-spooner-lysander/)
 
@@ -371,13 +372,13 @@ sentido del presente artículo:
 >
 > b) todo servicio de carácter militar
 >
-> ... 
+> ...
 >
 > d) todo trabajo o servicio que forme parte de las obligaciones cívicas normales.
 
 ---Texto---
 
-es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag pero Disneyland.
+Es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag pero Disneyland.
 
 ---
 

@@ -153,6 +153,9 @@ Laspeyres: comparing prices of the t0 basket in t0 and t1.
 http://laissez-faire.ch/en/articles/transhumanism-the-next-step-of-civilization/
 
 
+Aubrey de Grey
+https://www.ted.com/talks/aubrey_de_grey_says_we_can_avoid_aging
+
 
 ### 3.2. Las estrellas, simbolicamente
 
