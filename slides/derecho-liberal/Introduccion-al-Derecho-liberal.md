@@ -404,6 +404,10 @@ Y eso nos lleva poco a poco a la distinción fundamental tras los liberales en e
 
 ![](media/sombrero-magico2.jpg)
 
+---
+
+![](media/to-you.png)
+
 ---Texto---
 
 Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenía antes.
