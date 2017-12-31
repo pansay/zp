@@ -208,7 +208,7 @@ porque no han sido estos los trabajos de Hitler y Stalin ?
 
 ---
 
-eso es la pregunta que ningun socialista contesta. 
+eso es la pregunta que ningun socialista contesta.
 
 
 
@@ -326,15 +326,12 @@ He came to the conclusion that the totalitarian cruelty of Stalinism was not an 
 https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences
 
 
-> Chruszczow opowiadał szczegółowo o zbrodniach Stalina, o mordowaniu funkcjonariuszy partyjnych, o torturach i prześladowaniach, o chorobliwych maniach Stalina, przy czym jednak nie zrehabilitował nikogo z dawnych działaczy opozycji; wśród ofiar stalinowskiego pogromu wymieniał wyłącznie nieposzlakowanych stalinistów, jak Postyszew, Gamarnik czy Rudzutak - nie zaś opozycjonistów, jak Bucharin czy Kamieniew. Nie było tam także najmniejszej próby analizy historycznej czy socjologicznej stalinowskiego systemu. Po prostu Stalin okazał się obłąkanym zbrodniarzem i był osobiście winien wszystkim klęskom i nieszczęściom narodu; w jaki sposób i dzięki jakim społecznym warunkom oszalały i krwiożerczy maniak mógł przez ćwierć wieku sprawować despotyczną i nieograniczoną władzę nad dwustomilionowym krajem, który nieprzerwanie, przez cały ten czas, był szczęśliwym posiadaczem najbardziej postępowego i najbardziej demokratycznego ustroju w dziejach ludzkości - tego z wykładu Chruszczowa dowiedzieć się niepodobna.Wiadomo tyłko, że ustrój sowiecki i sama partia nie brały żadnego udziału w okrucieństwach tyrana i przechowały swoją nieskazitelną czystość.
->
-> -- Leszek Kołakowski, Główne nurty marksizmu, III, Rozkład, p. 450-451
 
 
-Polish philosopher Leszek Kołakowski criticized Khrushchev in 1978 for failing to make any analysis of the system Stalin presided over. "Stalin had simply been a criminal and a maniac, personally to blame for all the nation's defeats and misfortunes. As to how, and in what social conditions, a bloodthirsty paranoiac could for twenty-five years exercise unlimited despotic power over a country of two hundred million inhabitants, which throughout that period had been blessed with the most progressive and democratic system of government in human history—to this enigma the speech offered no clue whatever. All that was certain was that the Soviet system and the party itself remained impeccably pure and bore no responsibility for the tyrant's atrocities."[20]
+> En el XX Congreso del Partido Comunista de la Unión Soviética, celebrado en febrero de 1956, Jruschov pronunció su famosa confe- rencia sobre el «culto de la personalidad». Esta se celebró en sesión cerrada, pero en presencia de delegados extranjeros; la conferencia no fue editada nunca en la Unión Soviética, pero su texto fue divul- gado por algunos activistas del Partido y se publicó poco después por el Departamento de Estado de los BE. UU. (Entre los países co- munistas, Polonia parece haber sido el único en el que se distríbuy6 el texto impreso «para uso interno» de los miembros del Partido que gozaban de confianza; los partidos comunistas occidentales se nega- ron durante un tiempo JI. reconocer su autenticidad.) En él, Jruschov daba una descripci ón detallada de los crímenes y delirios paranoicos de Stalin, torturas, persecuciones y asesinatos de responsables del Par- tido, pero no rehabilitaba a los miembros de los movimientos de opo- sición: las víctimas cuyos nombres citaba eran estalinistas irrepro- chables como Postyshev, Gamarnik y Rudzutnk, y no los anteriores oponentes del dictador tales como Bujarin y Kamenev. Tampoco intentó Jruschov un análisis histórico y sociológico del sistema estalinista. Stalin había sido simplemente un criminal y un maníaco, responsable personalmente de todas las derrotas y desgracias del país. En cuanto a cómo, y en qué condiciones sociales, un paranoico sangriento pudo ejercer un poder despótico ilimitado sobre un país de doscientos millones de habitantes, que durante esta época había sido bendecido como el sistema más progresivo de gobierno que había conocido la his- toria humana, a este enigma la conferencia de jruschov no ofrecía respuesta alguna. Pero lo cierto era que el sistema soviético y el propio Partido habían permanecido impecablemente puros y no tenían responsabilidad alguna por las atrocidades del tirano.
 
+> -- Leszek Kołakowski, Las principales corrientes del marxismo, pp. 435-436.
 
-Leszek Kołakowski
 
 
 
