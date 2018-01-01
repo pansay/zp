@@ -46,6 +46,15 @@ in efecto, el socialismo es una lucha de todos contra todos para las subvencione
 ===
 
 
+individualismo
+
+|||querer|llorar|llover|decidir|
+
+piedra
+nube
+persona
+Estado
+
 
 
 Grotius

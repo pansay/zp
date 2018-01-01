@@ -1,3 +1,4 @@
+* [All Quiet on the Western Front](https://www.youtube.com/watch?v=ojqINFfeeQs)
 * [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)
 * Family Guy https://www.youtube.com/watch?v=FIlBtJfCG4o
 * Family Guy https://www.youtube.com/watch?v=IH-QqV1Fjak
