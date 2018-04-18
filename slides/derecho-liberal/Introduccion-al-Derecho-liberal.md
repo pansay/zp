@@ -127,7 +127,7 @@ Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de perso
 
 > Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
 
-... y fue fusilado ??s
+... y por supuesto, fue fusilado, como los que el mismo habia condenado.
 
 
 ---Texto---
