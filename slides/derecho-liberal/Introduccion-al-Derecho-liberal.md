@@ -3,32 +3,32 @@ Introducción al Derecho liberal
 
 ---Texto---
 
-el Derecho liberal, que es, y porque es importante
+El Derecho liberal, qué es, y por qué es importante
 
 ---
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Septiembre 2018
 
 ---
 
 ## Plan
 
-1. El problema: la voluntad de derechos asimétricos
-2. Derechos asimétricos son nihilismo
+1. El problema: el deseo de derechos asimétricos
+2. Los derechos asimétricos son nihilismo
 3. La solución: el Derecho
 4. Conclusión: la importancia del Derecho
 
 ---Texto---
 
-derechos asimétricos, que vamos a ver podemos definir como poder
+Los derechos asimétricos, que vamos a ver los podemos definir como poder
 
 Derecho con D mayúscula cuando es único, universal
 
 ---
 
-## 1. El problema: la voluntad de derechos asimétricos
+## 1. El problema: el deseo de derechos asimétricos
 
 ---
 
@@ -40,12 +40,12 @@ Derecho con D mayúscula cuando es único, universal
 
 historieta de Calvin y Hobbes
 
-- ¿Porque vosotros se pueden quedar pero yo tengo que ir a dormir?
+- ¿Por qué vosotros se pueden quedar despiertos pero yo me tengo que ir a dormir?
 - ¡No es justo!
 - ¡El mundo no es justo, Calvin!
-- Si, yo sé, pero ¿porque no es injusto en mi favor?
+- Si, llo sé, pero ¿por qué no es injusto a mi favor?
 
-¿Porque el mundo no es injusto en mi favor? -- buena pregunta! El Derecho significa un mundo justo, pero el poder, derechos asimétricos, significan un mundo *injusto en mi favor a mi*. Eso es lo que varias personas quieren. ¿Pero lo quieren de verdad, una vez que sepan que no pueden asegurar se que el mundo será siempre injusto en su favor a ellos?
+¿Por qué el mundo no puede ser injusto a mi favor? -- buena pregunta! El Derecho implica un mundo justo, pero el poder, es decir, los derechos asimétricos, plnatean un mundo *injusto en mi favor*. Y eso es lo que muchas personas quieren.  ¿Pero lo querrían de verdad si supieran que no es seguro que el mundo sea siempre injusto en su favor?
 
 ---
 
@@ -55,7 +55,7 @@ historieta de Calvin y Hobbes
 
 miramos otra historieta:
 
-- Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que voy
+- Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que quiero
 
 - Ay, ¿porque me empujas?
 
