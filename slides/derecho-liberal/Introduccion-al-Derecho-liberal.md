@@ -15,7 +15,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Septiembre 2018
 
 ## Plan
 
-1. El problema: el deseo de derechos asimétricos
+1. El problema: los derechos asimétricos
 2. Los derechos asimétricos son nihilismo
 3. La solución: el Derecho
 4. Conclusión: la importancia del Derecho
@@ -28,7 +28,7 @@ Derecho con D mayúscula cuando es único, universal
 
 ---
 
-## 1. El problema: el deseo de derechos asimétricos
+## 1. El problema: los derechos asimétricos
 
 ---
 
@@ -43,9 +43,9 @@ historieta de Calvin y Hobbes
 - ¿Por qué vosotros se pueden quedar despiertos pero yo me tengo que ir a dormir?
 - ¡No es justo!
 - ¡El mundo no es justo, Calvin!
-- Si, llo sé, pero ¿por qué no es injusto a mi favor?
+- Si, llo sé, pero ¿por qué no es injusto en mi favor?
 
-¿Por qué el mundo no puede ser injusto a mi favor? -- buena pregunta! El Derecho implica un mundo justo, pero el poder, es decir, los derechos asimétricos, plnatean un mundo *injusto en mi favor*. Y eso es lo que muchas personas quieren.  ¿Pero lo querrían de verdad si supieran que no es seguro que el mundo sea siempre injusto en su favor?
+¿Por qué el mundo no puede ser injusto en mi favor? -- buena pregunta! El Derecho implica un mundo justo, pero el poder, es decir, los derechos asimétricos, plantean un mundo *injusto en mi favor*. Y eso es lo que algunas personas quieren. ¿Pero como pueden asegurarse de que el mundo será *siempre* injusto en su favor, y no en el favor de los demas?
 
 ---
 
@@ -55,13 +55,13 @@ historieta de Calvin y Hobbes
 
 miramos otra historieta:
 
-- Yo no creo en la ética, el fin justifica los medios, La ley del más fuerte, es un mundo salvaje así que voy a hacer lo que quiero
+- Yo no creo en la ética. El fin justifica los medios. Coge lo que puedas mientras el fruto sea bueno; eso es! La ley del más fuerte; los triunfadores son los que escriben la historia. Es un mundo salvaje, así que haré lo que tenga que hacer mientras los demás discuten si está bien o no.
 
 - Ay, ¿porque me empujas?
 
 - Pues estabas en mi camino, ahora no lo estas mas, el fin justifica los medios
 
-- ¡Pero no seas tonto, yo quería decir para mi por supuesto, no para los demás!
+- ¡Pero no seas tonto! ¡No quise decir que sirviera para todo el mundo! ¡Sólo para mí!
 
 Y eso es el problema: querer libertad absoluta, sin responsabilidad para sus acciones, poder sobre los demás -- para si mismo. Pero al mismo tiempo, ¿Como proteger se de esa misma voluntad de los demás? Es aun posible de asegurar se de ser el único a poder disfrutar de ese poder?
 
@@ -75,13 +75,13 @@ Maximilien de Robespierre (1758-1794)
 
 ---Texto---
 
-Otro ejemplo mas concreto:
+Otro ejemplo más concreto:
 
-Robespierre, uno de los lideres de la Revolución francés, miembro influyente del Comité de Salvación Pública, especialmente durante la Terror, en la cual el comité podía ordenar arbitrariamente la guillotina, y lo ha hecho para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
+Robespierre, uno de los líderes de la Revolución francesa, miembro influyente del Comité de Salvación Pública, especialmente durante la época del Terror, en la cual el comité podía ordenar arbitrariamente la guillotina, y lo hizo para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quienes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quiénes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
-En efecto, ¿como acabo? Guillotinado a su vez (en plaza de la Revolución), es decir, matado por el proprio sistema que había creado y utilizado.
+De hecho, ¿como acabo el señor Robespierre? Pues, guillotinado a su vez (en la plaza de la Revolución), es decir, matado por el proprio sistema que había creado y utilizado.
 
 ---
 
@@ -89,13 +89,13 @@ En efecto, ¿como acabo? Guillotinado a su vez (en plaza de la Revolución), es 
 
 ---Texto---
 
-Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en el honor de Robespierre ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo: es decir, un precursor de las ejecuciones arbitrarias, de la terror estatal.
+Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en su honor ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo: es decir, un precursor de las ejecuciones arbitrarias, del terror estatal.
 
 Los comunistas soviéticos también tenían comités arbitrarios, las troikas (tres personas con poder de decisión de vida y de muerta)
 
-y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
+Y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
 
-Y también han tenido un periodo de Terror particularmente terrible, durante la presidencia de Stalin.
+Y también han tenido un periodo de Terror particularmente terrible, durante el reino de Stalin.
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
@@ -113,11 +113,11 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 Tienen dos cosas en común:
 
-* La primera, todos han sido criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidos con torturas;
+* La primera, todos fueron criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidas con torturas;
 
-* La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta obtención de confesiones extravagantes.
+* La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta la obtención de confesiones extravagantes.
 
-Y también, como los revolucionarios franceses, no eran los únicos: cuasi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las ordenes de Stalin. Nadie era protegido. Tomamos el ejemplo de Yezhov:
+Y también, como los revolucionarios franceses, no fueron los únicos: casi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las órdenes de Stalin. Nadie estaba protegido. Tomamos el ejemplo de Yezhov:
 
 Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar en el Gulag, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. Cientos de miles de personas fueron ejecutadas y millones detenidas.
 
@@ -127,12 +127,12 @@ Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de perso
 
 > Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
 
-... y por supuesto, fue fusilado, como los que el mismo habia condenado.
-
 
 ---Texto---
 
-Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país donde el poder gano sobre el Derecho:
+... y por supuesto, fue fusilado, como los que el mismo habia condenado.
+
+Pero los fusilamientos, por supuesto, no acabaron ahí, y siguieron en cada país donde el poder ganó sobre el Derecho.
 
 ---
 
@@ -140,13 +140,13 @@ Pero los fusilamientos, por supuesto, no se acaban, y han seguido en cada país 
 
 ---
 
-## 2. Derechos asimétricos son nihilismo
+## 2. Los derechos asimétricos son nihilismo
 
 ---Texto---
 
-¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que era un error del Partido hasta el ultimo momento? ¿Les había parecido justa su condenación?
+¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que fue un error del Partido hasta el último momento? ¿Les había parecido justa su condenación?
 
-¿Pero con cuales principios la habían podido rechazar?
+¿Pero con cuales principios hubieran podido rechazarla?
 
 Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
@@ -160,7 +160,7 @@ Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---Texto---
 
-Eso es una ilustración de la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento que les interesa a ellos. Pero ya es tarde. Los revolucionarios creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo va a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos. Lo mismo para los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado... Rechazando el Derecho como cosa burguesa, y sean también victimas de lo mismo...
+Eso es una ilustración de la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento en que lo necesitan para su mismos. Pero ya es demasiado tarde. Los revolucionarios franceses creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo iba a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos. Lo mismo ocurrió con los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado... Rechazan el Derecho como algo burgués, y han terminado siendo víctimas de las propias violaciones del Derecho que ellos han creado
 
 La arbitrariedad de las decisiones de los comités y de las troikas es de hecho parecida al nihilismo. Y no es casualidad:
 
