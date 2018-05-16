@@ -270,7 +270,7 @@ Y por supuesto, la teoría del derecho divino no es exclusiva con otras teorías
 
 ---Texto---
 
-¿Y la democracia? Pues es exactamente lo mismo. Solo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrático también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular que otras decisiones distintas no tendrían.
+¿Y la democracia? Pues es exactamente lo mismo. Sólo que la "voluntad del pueblo" ha tomado el puesto del "derecho divino": el sistema democrático también depende de accidentes históricos, no de una decisión oficial, única, divina o universal: las fronteras, el sistema electoral, las preguntas sometidas a los votantes, los candidatas, etc, todo eso depende de decisiones históricas, que no tienen ninguna legitimad particular frente a otros sistemas posibles.
 
 Incluso la democracia directa: en Suiza, por ejemplo, ¿vosotros sabéis quien ha dado el derecho de votar a las mujeres suizas?
 
@@ -282,11 +282,11 @@ Incluso la democracia directa: en Suiza, por ejemplo, ¿vosotros sabéis quien h
 
 ---Texto---
 
-Pues los hombres Suizos. En 1959 nos preguntan una primera vez, a nosotros varones Suizos.... tíos, esas chicas, los quieren dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). Lo rechazamos.
+Pues los hombres Suizos. En 1959 nos preguntaron por primera vez, a nosotros varones Suizos.... tíos, esas chicas, las queréis dar el derecho de votar? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). Lo rechazamos.
 
-Y después, en 1971, hace 50 años, misma pregunta... Mirad tíos, ahora esas chicas son un poco mas listas, seguro no les quieren dar el derecho de votar? Pues, ok, vale...
+Y después, en 1971, hace 50 años, la misma pregunta... Mirad tíos, ahora esas chicas son un poco mas listas, seguro no les queréis dar el derecho de votar? Pues, ok, vale...
 
-Pero... Si los hombres han dado el derecho de votar a las mujeres Suizas, quien lo ha dado a los hombres Suizos? Porque no ha sido lo contrario? Porque los hombres tendrían el derecho de otorgar o no otorgar el derecho de votar a las mujeres?
+Pero... Si los hombres han dado el derecho de votar a las mujeres Suizas, esa mitad de la poblacíon, quien ha dado el derecho de votar a los hombres Suizos, la otra mitad de la población? Por qué no ha sido lo contrario? Por qué los hombres tendrían el derecho de otorgar o no otorgar el derecho de votar a las mujeres?
 
 Nada de absoluto, universal. Nada de justificado en Derecho. De nuevo, accidente histórico, grupos de personas, dependiendo de relaciones de fuerza, que toman poder o no lo toman, y que construyen algunas instituciones. En este caso, algunas instituciones hechas por los hombres.
 
@@ -298,9 +298,7 @@ Las feministas suizas también hubieran podido hacer su proprio estado paralelo,
 
 ---Texto---
 
-Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco.
-
-El Derecho, que se puede justificar de manera puramente lógica, y que así es incontestable para cualquier persona que quiere rechazar el nihilismo.
+Y eso nos lleva a la posición liberal. El liberalismo, en ese sentido, no es nada mas que la teoría mas avanzada de la ciencia del Derecho. El liberalismo es un grupo de soluciones a varios problemas jurídicos, pero lo mas importante es el marco: El Derecho universal, el derecho de propriedad privada, que se puede justificar de manera puramente lógica, y que por lo tanto es incontestable para cualquier persona que quiere rechazar el nihilismo.
 
 ---
 
@@ -338,7 +336,7 @@ Identidad de los derechos de cada ser humano.
 
 ---Texto---
 
-Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la color de sus cabellos, o el hecho de tener cabellos o no tenerlos: no cambia nada a los derechos de cada persona. Así que todas las cuestiones sobre el cambio de sexo, el matrimonio gay, etc, no son cuestiones relevantes para el Derecho.
+Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la color de su pelo, o el hecho de tener pelo o no tenerlo: no cambia nada respecto a los derechos de cada persona. Así que todas las cuestiones sobre el cambio de sexo, el matrimonio gay, etc, no son cuestiones relevantes para el Derecho.
 
 ---
 
@@ -378,7 +376,7 @@ sentido del presente artículo:
 
 ---Texto---
 
-Es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag pero Disneyland.
+Es como decir, vamos a prohibir el Gulag, pero con la excepción del campamento número treinta y ocho, que no vamos a llamar Gulag sino Disneyland.
 
 ---
 
@@ -410,7 +408,7 @@ Y eso nos lleva poco a poco a la distinción fundamental tras los liberales en e
 
 ---Texto---
 
-Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que podría otorgar a una persona derechos que no tenía antes.
+Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún sombrero mágico que pueda otorgar a una persona derechos que no tenía antes.
 
 ---
 
@@ -420,17 +418,17 @@ Nosotros liberales somos los ateístas del sombrero mágico: no hay ningún somb
 
 Al final, los enemigos del derecho, que se declaran así, o que buscan pretextos, o que se declaran nihilistas, quieren lo mismo : sus propios derechos protegidos, y el poder de hacer lo que quieran con las vidas de los demás.
 
-Por supuesto, este no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomistica, el problema es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnocratas ambos se oponen al Derecho.
+Por supuesto, esto no puede funcionar jamas. Que esto llega a una sociedad totalitaria, o a una sociedad anomística, el problema es lo mismo: la ausencia de seguridad jurídica. El caos es lo mismo. Los primitivistas y los tecnócratas ambos se oponen al Derecho.
 
-La alternativa es Derecho, si o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc, y al otro lado el caos, los asesinatos (que sean organizados por estados o no parados por estados), la pobreza (que sea causada deliberadamente por decisión del estado, o por su destrucción de derechos de propriedad).
+La alternativa es Derecho, sí o no. Es decir, por un lado, un Derecho universal, para todas las personas, en todas partes, que ofrece seguridad, prosperidad, etc.; y por otro lado, el caos, los asesinatos (que sean organizados por estados o no parados por estados), la pobreza (que sea causada deliberadamente por decisión del estado, o por su destrucción de los derechos de propriedad).
 
 Al final, todos son nihilistas que quieren el poder, es decir, que critican al Derecho porque quieren el poder de hacer lo que quieran.
 
-Son nihilistas deshonestas, nada mas.
+Son nihilistas deshonestos, nada más.
 
-Sin liberalismo, hay desorden, hay anomia, es la ley del mas fuerte, es la guerra de todos contra todos.
+Sin liberalismo, hay desorden, hay anomia, es la ley del más fuerte, es la guerra de todos contra todos.
 
-El Derecho liberal es el único marco que ofrece una sociedad civilizada, pacifica, donde la protección de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demás.
+El Derecho liberal es el único marco que ofrece una sociedad civilizada, pacífica, donde la protección de los derechos de cada uno incluye la responsabilidad de no atentar a los derechos de los demás.
 
 Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aún, ya seriamos capaces de hacer muchísimo mas.
 
