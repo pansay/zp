@@ -7,7 +7,7 @@ El Derecho y sus enemigos
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Septiembre 2018
 
 ---
 
@@ -20,15 +20,44 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 ---
 
 
+
+
 1.5 Anarquismo
 
 ![did you mean...](media/did-you-mean.png)
 
 ---
 
+"For law in our use of the term here means nothing else than what is just, and that, too, rather in a negative than in an affirmative sense, that being lawful which is not unjust."
+
+Nam just hic nihil aliud quand quod justum est significat, idque negante magis sensu quam aiente, ut jus sit quod injustum non est.
+
+" It is necessary to understand, further, that the law of nature deals not only with things which are outside the domain of the human will, but with many things also which result from an act of the human will. Thus ownership, such as now obtains, was introduced by the will of man; but, once introduced, the law of nature points out that it is wrong for me, against your will, to take away that which is subject to your ownership. "
+
+Sciendum prætera, jus naturale non de iis tantum agere quæ voluntatem humanam existunt, sed de multis etiam quæ voluntatis humanæe actum consequuntur. Sic dominium, quale nunc in usu est, voluntas humana introduxit: at eo introducto nefas mihi esse id arripere te invito quod tui est dominii, ipsum indicat jus naturale; quare furtum naturali jure prohibitum.
+
+"The law of nature, again, is unchangeable – even in the sense that it cannot be changed by God. Measureless as is the power of God, nevertheless it can be said that there are certain things over which that power does not extend; for things of which this is said are spoken only, having no sense corresponding with reality and being mutually contradictory. Just as even God, then, cannot cause that two times two should not make four, so He cannot cause that which is intrinsically evil be not evil."
+
+Est autem jus naturale adeo immutabile, ut ne a Deo quidem mutari queat. Quanquam enim immensa est Dei potentia, dici tamen quædam possunt, ad quæ se illa non extendi; quia quæ ita dicuntur, dicuntur tantum, sensum autem qui rem exprimat nullum habent, sed sibi ipsis repugntant. Sicut ergo ut bis duo non sint quatuor ne a Deo quidem potest effici, ita ne hoc quidem, ut quod intrinseca ratione malum est, malum non sit.
+
+
+Now that is unjust which is in conflict with the nature of society of beings endowed with reason.
+
+Est autem injustum, quod naturæ societatis ratione utentium repugnat.
+
+Est injuste, ce qui est en contradiction avec la nature d'une société d'êtres rationnels.
+
+
+https://archive.org/details/huggrotiidejure00grongoog
+https://lonang.com/library/reference/grotius-law-war-and-peace/gro-101/
+
+
+
 
 estamos ya en anarquia, solo que algunas personas olvidan de contar los crimenes del estado en las estatisticas
 
+
+https://www.panarchy.org/spooner/law.html
 
 
 
@@ -41,6 +70,45 @@ in efecto, el socialismo es una lucha de todos contra todos para las subvencione
 (precisamente el concepto de "enemigo de los trabajadores" враг народа, враг трудящихся)
 
 
+En fait je crois que la confusion est entre "la nature de l'homme (raison) fait qu'il peut découvrir le Droit" (s'il a envie, alors que généralement les (autres) animaux en sont incapables) et "la nature de l'homme (raison) fait qu'il doit respecter le Droit" (c'est à dire tous les hommes, rien que les hommes, partout et et toutes circomstances)
+
+chez Grotius ça me semble plus subtil/correct :
+
+Est autem injustum, quod naturæ societatis ratione utentium repugnat.
+
+"Now that is unjust which is in conflict with the nature of society of beings endowed with reason. " (Grotius)
+
+c'est toute ma thèse ici http://laissez-faire.ch/fr/articles/de-l-impossibilite-du-non-liberalisme/ , l'argument de Hoppe ("argumentation ethics"), etc : si on pratique la raison, alors le Droit est inévitable (somme seul moyen logique d'organiser une société non-nihiliste, dans un monde physique de rareté où le conflit est donc possible)
+
+Et quiconque se met en dehors du Droit (choisit la violence), se comporte ipso facto comme bête sauvage (comme dirait Faré) et ne pourra pas s'étonner d'être traité comme tel. (On peut prendre l'exemple de Soral qui choisit la violence lors d'un débat : il se place dès lors dans la catégorie racaille, animaux sauvages, et il ne sert strictement plus à rien d'avoir la moindre discussion avec lui, il n'y a plus rien à en tirer)
+
+à noter que la belle formulation de Grotius (si ma compréhension du latin et/ou la traduction anglaise sont corrects), ne parle pas de nature de l'homme, mais de société rationnelle :-) autrement dit, c'est pas forcément tous les hommes, ni forcément que des hommes (Grotius, précurseur du Droit transhumaniste :-) )
+
+Autrement dit, la raison fait qu'on peut découvrir le Droit, mais ça reste un choix (pour preuve le fait que certains se placent délibèrement en dehors), et si certains veulent vivre en tribu nihiliste comme des bêtes dans la jungle, eh bien grand bien leur fasse. Il n'y a pas d'incohérence ou de trahison par rapport une prétendue "nature de l'homme".
+
+La seule incohérence (le problème central d'ailleurs https://pansay.github.io/zp/slides/derecho-liberal/ ) c'est le sophisme d'auto-exemption, ceux qui veulent du Droit mais quand ça les arrange. Mais ça n'a rien à voir avec une quelconque nature intrinsèque, c'est simplement des actions, des choix, qui sont contradictoires, et observables en tant que tels (sans devoir aller chercher plus loin dans la métaphysique)
+
+D'où mon accusation de circulaire contre Rand et Rothbard qui y voient une sorte d'impératif cosmique consubstantiel à la "nature" de "l'homme" : si c'était tellement dans la "nature de l'homme" de respecter le Droit, alors tous le respecteraient et la question ne se poserait pas.
+
+
+Toute cette réflexion repose notamment sur l’idée d’une nature de l’homme. L’homme a une nature qu’Aristote définit comme sociable. L’homme est un animal politique. C’est aussi un être raisonnable, intelligent, capable de discernement et puis d’autre part c’est un être spirituel. C’est d’ailleurs cette qualité d’être spirituel qui assure le libre-arbitre de cet homme, capable de choisir entre le bien et le mal, le vrai et le faux, le juste et l’injuste. Le respect de cette nature humaine exige le respect « d’une loi véritable » ou « droite raison », que « l’homme ne peut méconnaître sans se renier » (Cicéron). Ce que Cicéron appelle « droite raison » fait écho à ce qu’Aristote appelait « justice naturelle ».
+
+
+Tiens je relis la théorie du Droit naturel de Rothbard dans Ethics of Liberty, ça me convainc pas plus que la première fois. C'est très randien en fait, tourné sur la "nature de l'homme" et tout ce délire (raisonnement confus et circulaire selon moi).
+
+Alors qu'en fait c'est beaucoup plus simple :
+
+http://laissez-faire.ch/fr/articles/de-l-impossibilite-du-non-liberalisme/
+
+http://www.propertyrightsmatter.com/square-one-liberty-through-property/
+
+
+
+2.x derecho vs reification :
+
+no hay autoridad oficial
+
+all quiet western front
 
 
 ===
