@@ -187,15 +187,15 @@ Y eso ya lo vemos en Marx:
 
 ---Texto---
 
-Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: ¿quien determina las "capacidades" de cada uno, y quien determina las "necesidades"? Esos son conceptos muy subjetivos, que así dan el poder de interpretación a algunos individuos que tendrían derechos asimétricos de así controlar la vida de los demás.
+Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: ¿quién determina las "capacidades" de cada uno, y quién determina las "necesidades"? Esos son conceptos muy subjetivos, que así dan el poder de interpretación a algunos individuos, como si tenián derechos asimétricos de así controlar la vida de los demás.
 
 Lo que acabamos de ver es la oposición entre dos principios:
 
-- por un lado la protección del Derecho de no ser robado y matado arbitrariamente: nadie quiere vivir en una sociedad en la cual cualquier persona lo puede matar, robar y esclavizar a él;
+- por un lado, la protección que el Derecho otorga para no ser robado y matado arbitrariamente: nadie quiere vivir en una sociedad en la cual cualquier persona lo pueda matar, robar o esclavizar ;
 
-- por el otro lado, esa voluntad de derechos asimétricos: el poder sobre los demás.
+- por el otro lado, la búsqueda del poder sobre los demás.
 
-La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse a sí mismo también al poder, y la protección del Derecho tiene como precio de respectar al Derecho en los demás.
+La solución es que para lograr esa protección del Derecho hay que rechazar su proprio poder: el poder tiene como precio de someterse a sí mismo también al poder, y la protección del Derecho tiene como precio de respectar el Derecho, también cuando se trata de los demás.
 
 ---
 
@@ -219,7 +219,7 @@ Si los comunistas pretendían tener sus derechos asimétricos gracias al pueblo,
 
 "Sea el que sea el titular del poder"...
 
-Y no es solo el catolicismo, el protestantismo también ha sido utilizado por algunas personas para defender el poder:
+Y no es sólo el catolicismo, el protestantismo también ha sido utilizado por algunas personas para defender el poder:
 
 ---
 
@@ -229,13 +229,11 @@ Y no es solo el catolicismo, el protestantismo también ha sido utilizado por al
 
 ---Texto---
 
-El problema con esta tesis, por supuesto, es *quien* tiene "su autoridad recibida de Dios"? "Sea el que sea el titular del poder"... Pero ¿como esa situación ha llegada a ser? ¿Cual es el poder "legítimo" ?
+El problema con esta tesis, por supuesto, es *quién* tiene "su autoridad recibida de Dios"? "Sea el que sea el titular del poder"... Pero ¿como se ha llegado a esa situacíon? ¿Cual es el poder "legítimo" ?
 
 Y al final si hay conflicto y el rey esta remplazado por otro rey, !el también tendrá su autoridad de Dios!
 
-Históricamente: dinastías cambian, hay conquistas por guerra, y al final son reconocidas por el Vatican.
-
-¿Y quien ha sido el primero?
+Históricamente: las dinastías cambian, hay conquistas por guerra, y al final son reconocidas por el Vaticano.
 
 Al final es lo mismo que todo argumento de pueblo o raza superior, o cualquier casta superior con derecho a mandar: si otra logra a superarla, es que obviamente no era tan superior. Al final, es una declaración un poco mas sofisticada del básico derecho del mas fuerte, que es nada mas que una forma de nihilismo, o sea, *el resultado* del nihilismo.
 
@@ -254,9 +252,9 @@ Como si hubiere esa hierarquía:
 - Ingleses
 - Otras personas
 
-Al final, ninguno de los proponentes de algún derecho asimétrico ha jamas llevado la prueba de porque el hecho de ser Inglés, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas, que desean poder, para tomar esa poder sobre otras personas, nada mas.
+Pero en realidad, ninguno de los que afirman tener algún derecho asimétrico ha jamas llevado la prueba de porqué el hecho de ser Inglés, o blanco, o miembro del comité revolucionario, o cualquier otro pretexto, seria justificación para tener derechos distintos. Son nada mas que pretextos de algunas personas, que desean poder, para tomar este poder sobre otras personas, nada mas.
 
-Y esa película, ¿como acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿porque tendría él derechos distintos de ellos?
+Y esa película, ¿cómo acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿por qué tendría él derechos distintos de ellos?
 
 ---
 
