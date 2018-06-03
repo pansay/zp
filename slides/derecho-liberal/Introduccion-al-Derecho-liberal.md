@@ -43,7 +43,7 @@ historieta de Calvin y Hobbes
 - ¿Por qué vosotros se pueden quedar despiertos pero yo me tengo que ir a dormir?
 - ¡No es justo!
 - ¡El mundo no es justo, Calvin!
-- Si, llo sé, pero ¿por qué no es injusto en mi favor?
+- Si, lo sé, pero ¿por qué no es injusto en mi favor?
 
 ¿Por qué el mundo no puede ser injusto en mi favor? -- buena pregunta! El Derecho implica un mundo justo, pero el poder, es decir, los derechos asimétricos, plantean un mundo *injusto en mi favor*. Y eso es lo que algunas personas quieren. ¿Pero como pueden asegurarse de que el mundo será *siempre* injusto en su favor, y no en el favor de los demas?
 
@@ -63,7 +63,7 @@ miramos otra historieta:
 
 - ¡Pero no seas tonto! ¡No quise decir que sirviera para todo el mundo! ¡Sólo para mí!
 
-Y eso es el problema: querer libertad absoluta, sin responsabilidad para sus acciones, poder sobre los demás -- para si mismo. Pero al mismo tiempo, ¿Como proteger se de esa misma voluntad de los demás? Es aun posible de asegurar se de ser el único a poder disfrutar de ese poder?
+Y eso es el problema: querer libertad absoluta, derecho asimétrico absoluto de hacer lo que le da las ganas, sin responsabilidad para sus acciones, poder sobre los demás -- para si mismo. Pero al mismo tiempo, ¿Como proteger se de esa misma voluntad de los demás? Es aun posible de asegurar se de ser el único a poder disfrutar de ese poder?
 
 ---
 
@@ -79,9 +79,9 @@ Otro ejemplo más concreto:
 
 Robespierre, uno de los líderes de la Revolución francesa, miembro influyente del Comité de Salvación Pública, especialmente durante la época del Terror, en la cual el comité podía ordenar arbitrariamente la guillotina, y lo hizo para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quiénes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quiénes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico. Y un derecho asimétrico que, porsupuesto, no pertenece al "pueblo" entero pero a algunos individuos muy específicos.
 
-De hecho, ¿como acabo el señor Robespierre? Pues, guillotinado a su vez (en la plaza de la Revolución), es decir, matado por el proprio sistema que había creado y utilizado.
+De hecho, ¿como acabo el señor Robespierre? Pues, guillotinado a su vez (en la plaza de la Revolución), es decir, matado por el proprio sistema que había creado y aprovechado.
 
 ---
 
@@ -89,9 +89,9 @@ De hecho, ¿como acabo el señor Robespierre? Pues, guillotinado a su vez (en la
 
 ---Texto---
 
-Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [ una estatua en su honor ](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo: es decir, un precursor de las ejecuciones arbitrarias, del terror estatal.
+Robespierre ha sido una inspiración para los comunistas rusos mas de un siglo después: [una estatua en su honor](https://en.wikipedia.org/wiki/Robespierre_Monument) fue uno de los primeros monumentos ordenados por Lenin, que lo consideraba como un precursor del comunismo: es decir, un precursor de las ejecuciones arbitrarias, del terror estatal.
 
-Los comunistas soviéticos también tenían comités arbitrarios, las troikas (tres personas con poder de decisión de vida y de muerta)
+Los comunistas soviéticos también tenían comités arbitrarios, las troikas (tres personas con poder de decisión de vida y de muerta).
 
 Y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
 
@@ -359,10 +359,8 @@ Y podríamos añadir que el sexo no es relevante para el Derecho. Es como la col
 > ARTÍCULO 4
 > Prohibición de la esclavitud y del trabajo forzado
 > 1. Nadie podrá ser sometido a esclavitud o servidumbre.
-> 2. Nadie podrá ser constreñido a realizar un trabajo forzado u
-obligatorio.
-> 3. No se considera como „trabajo forzado u obligatorio“ en el
-sentido del presente artículo:
+> 2. Nadie podrá ser constreñido a realizar un trabajo forzado u obligatorio.
+> 3. No se considera como „trabajo forzado u obligatorio“ en el sentido del presente artículo:
 
 ---
 
