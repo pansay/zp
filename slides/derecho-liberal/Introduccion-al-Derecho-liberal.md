@@ -9,7 +9,7 @@ El Derecho liberal, qué es, y por qué es importante
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Septiembre 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
 
 ---
 
