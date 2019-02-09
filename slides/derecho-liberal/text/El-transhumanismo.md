@@ -11,7 +11,7 @@ Hemos hablado del Derecho, de sus enemigos, y ahora tenemos que hablar del futur
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
 
 ---
 

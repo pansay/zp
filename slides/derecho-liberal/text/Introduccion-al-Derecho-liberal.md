@@ -9,7 +9,7 @@ el Derecho liberal, que es, y porque es importante
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
 
 ---
 
@@ -24,7 +24,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
 
 derechos asimétricos, que vamos a ver podemos definir como poder
 
-Derecho con D mayúscula cuando es único, universal 
+Derecho con D mayúscula cuando es único, universal
 
 ---
 

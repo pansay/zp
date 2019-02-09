@@ -7,7 +7,7 @@ El Derecho y sus enemigos
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2018
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
 
 ---
 
