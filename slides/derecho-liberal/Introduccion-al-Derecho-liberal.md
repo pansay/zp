@@ -77,7 +77,9 @@ Maximilien de Robespierre (1758-1794)
 
 Otro ejemplo más concreto:
 
-Robespierre, uno de los líderes de la Revolución francesa, miembro influyente del Comité de Salvación Pública, especialmente durante la época del Terror, en la cual el comité podía ordenar arbitrariamente la guillotina, y lo hizo para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
+Robespierre, uno de los líderes de la Revolución francesa, miembro influyente del Comité de Salvación Pública durante la época del Terror.
+
+El comité podía ordenar arbitrariamente la guillotina, y lo hizo para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
 
 Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quiénes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico. Y un derecho asimétrico que, porsupuesto, no pertenece al "pueblo" entero pero a algunos individuos muy específicos.
 
