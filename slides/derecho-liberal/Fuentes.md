@@ -1,3 +1,15 @@
+
+> Convencidos éstos de que los gobernantes tienen su autoridad recibida de Dios, se sentirán obligados en justicia a aceptar con docilidad los mandatos de los gobernantes y a prestarles obediencia y fidelidad, con un sentimiento parecido a la piedad que los hijos tienen con sus padres. «Todos habéis de estar sometidos a las autoridades superiores ». Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación ».
+>
+> -- [Carta Encíclica Immortale Dei Del Sumo Pontífice León XIII Sobre La Constitución Cristiana Del Estado](http://w2.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html), 1885
+
+
+> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva, sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas:
+> ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
+>
+> -- [Karl Marx, 1875](https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm)
+
+
 * [All Quiet on the Western Front](https://www.youtube.com/watch?v=ojqINFfeeQs)
 * [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)
 * Family Guy https://www.youtube.com/watch?v=FIlBtJfCG4o

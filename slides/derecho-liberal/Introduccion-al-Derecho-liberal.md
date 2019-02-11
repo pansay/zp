@@ -163,7 +163,11 @@ Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---Texto---
 
-Eso es una ilustración de la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento en que lo necesitan para su mismos. Pero ya es demasiado tarde. Los revolucionarios franceses creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo iba a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos. Lo mismo ocurrió con los comunistas y las decisiones "del partido" en nombre del pueblo o del proletariado... Rechazan el Derecho como algo burgués, y han terminado siendo víctimas de las propias violaciones del Derecho que ellos han creado
+Eso es una ilustración de la falacia del concepto robado: los nihilistas rechazan el concepto de justicia, hasta el momento en que lo necesitan para su mismos. Pero ya es demasiado tarde. Los revolucionarios franceses creían que la ilusión de la "voluntad del pueblo" y sus "enemigos" solo iba a ser usada contra los enemigos personales de ellos, y jamas contra ellos mismos.
+
+Lo mismo ocurrió con los comunistas y las decisiones que ellos tomaban en nombre del partido, del pueblo, o del proletariado, es decir sus propias decisiones y voluntad ilusoria de derechos asímetricos.
+
+Rechazan el Derecho como algo burgués, y han terminado siendo víctimas de las propias violaciones del Derecho que habían creado.
 
 La arbitrariedad de las decisiones de los comités y de las troikas es de hecho parecida al nihilismo. Y no es casualidad:
 
@@ -175,15 +179,11 @@ La arbitrariedad de las decisiones de los comités y de las troikas es de hecho 
 
 ---Texto---
 
-Y eso ya lo vemos en Marx:
+Y ya en Karl Marx:
 
 ---
 
-> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo, y con ella, el contraste entre el trabajo intelectual y el trabajo manual; cuando el trabajo no sea solamente un medio de vida, sino la primera necesidad vital; cuando, con el desarrollo de los individuos en todos sus aspectos, crezcan también las fuerzas productivas y corran a chorro lleno los manantiales de la riqueza colectiva,
-
----
-
-> sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas:
+> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo [...] sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas:
 > ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
 >
 > -- [Karl Marx, 1875](https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm)
@@ -207,10 +207,6 @@ La solución es que para lograr esa protección del Derecho hay que rechazar su 
 ---Texto---
 
 Si los comunistas pretendían tener sus derechos asimétricos gracias al pueblo, a la dictadura del proletariado, también hay otras fuentes, otros pretextos...
-
----
-
-> Convencidos éstos de que los gobernantes tienen su autoridad recibida de Dios, se sentirán obligados en justicia a aceptar con docilidad los mandatos de los gobernantes y a prestarles obediencia y fidelidad, con un sentimiento parecido a la piedad que los hijos tienen con sus padres. «Todos habéis de estar sometidos a las autoridades superiores ».
 
 ---
 
