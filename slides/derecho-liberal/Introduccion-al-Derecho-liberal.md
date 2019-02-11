@@ -81,7 +81,7 @@ Robespierre, uno de los líderes de la Revolución francesa, miembro influyente 
 
 El comité podía ordenar arbitrariamente la guillotina, y lo hizo para miles de personas. Se estima que quinientos mil personas fueron encerradas y cien mil ejecutadas o masacradas durante los dos años de la Terror.
 
-Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quiénes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico. Y un derecho asimétrico que, porsupuesto, no pertenece al "pueblo" entero pero a algunos individuos muy específicos.
+Robespierre introduzco en la ley francés el concepto de "enemigo del pueblo", la justificación perfecta para las ejecuciones. ¿Pero quiénes son esos enemigos del pueblo? Es decir, ¿quien decide quien lo es y quien no lo es? Eso es también un poder, un derecho asimétrico -- o, a lo menos, como Calvin, algo que sus tenedores *querían* que sea un derecho asimétrico.
 
 De hecho, ¿como acabo el señor Robespierre? Pues, guillotinado a su vez (en la plaza de la Revolución), es decir, matado por el proprio sistema que había creado y aprovechado.
 
@@ -128,7 +128,8 @@ Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de perso
 ---
 
 > Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
-
+&nbsp;
+&nbsp;
 
 ---Texto---
 
