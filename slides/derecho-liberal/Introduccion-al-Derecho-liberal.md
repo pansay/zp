@@ -210,7 +210,7 @@ Si los comunistas pretendían tener sus derechos asimétricos gracias al pueblo,
 
 ---
 
-> Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición. «Quien resiste a la autoridad resiste a la disposición de Dios, y los que la resisten se atraen sobre sí la condenación ».
+> Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición.
 >
 > -- [Carta Encíclica Immortale Dei Del Sumo Pontífice León XIII Sobre La Constitución Cristiana Del Estado](http://w2.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html), 1885
 
@@ -244,7 +244,7 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---Texto---
 
-Como si hubiere esa hierarquía:
+Como si hubiera esa hierarquía:
 
 - Dios
 - Reyes
