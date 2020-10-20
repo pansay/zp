@@ -12,8 +12,8 @@
 
 * [All Quiet on the Western Front](https://www.youtube.com/watch?v=ojqINFfeeQs)
 * [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)
-* Family Guy https://www.youtube.com/watch?v=FIlBtJfCG4o
-* Family Guy https://www.youtube.com/watch?v=IH-QqV1Fjak
+* Family Guy https://www.youtube.com/watch?v=FIlBtJfCG4o Family Guy - The Communists
+* Family Guy https://www.youtube.com/watch?v=IH-QqV1Fjak Hitler show
 
 > Thus one must also bear the authority of the ruler. If he abuses it, I am not therefore to bear him a grudge, nor take revenge of and punish him with my hands. One must obey him solely for God’s sake, for he stands in God’s stead. Let them impose taxes as intolerable as they may: one must obey them and suffer everything patiently, for God’s sake.
 >
@@ -83,7 +83,7 @@
 
 > Stalin had simply been a criminal and a maniac, personally to blame for all the nation's defeats and misfortunes. As to how, and in what social conditions, a bloodthirsty paranoiac could for twenty-five years exercise unlimited despotic power over a country of two hundred million inhabitants, which throughout that period had been blessed with the most progressive and democratic system of government in human history—to this enigma the speech offered no clue whatever. All that was certain was that the Soviet system and the party itself remained impeccably pure and bore no responsibility for the tyrant's atrocities.
 >
-> -- Leszek Kołakowski, Main Currents of Marxism, p. 1149
+> -- Leszek Kołakowski, *Main Currents of Marxism*, p. 1149
 
 
 > En el XX Congreso del Partido Comunista de la Unión Soviética, celebrado en febrero de 1956, Jruschov pronunció su famosa conferencia sobre el «culto de la personalidad». Esta se celebró en sesión cerrada, pero en presencia de delegados extranjeros; la conferencia no fue editada nunca en la Unión Soviética, pero su texto fue divul- gado por algunos activistas del Partido y se publicó poco después por el Departamento de Estado de los BE. UU. (Entre los países co- munistas, Polonia parece haber sido el único en el que se distríbuy6 el texto impreso «para uso interno» de los miembros del Partido que gozaban de confianza; los partidos comunistas occidentales se nega- ron durante un tiempo JI. reconocer su autenticidad.) En él, Jruschov daba una descripci ón detallada de los crímenes y delirios paranoicos de Stalin, torturas, persecuciones y asesinatos de responsables del Par- tido, pero no rehabilitaba a los miembros de los movimientos de opo- sición: las víctimas cuyos nombres citaba eran estalinistas irrepro- chables como Postyshev, Gamarnik y Rudzutnk, y no los anteriores oponentes del dictador tales como Bujarin y Kamenev. Tampoco intentó Jruschov un análisis histórico y sociológico del sistema estalinista. Stalin había sido simplemente un criminal y un maníaco, responsable personalmente de todas las derrotas y desgracias del país. En cuanto a cómo, y en qué condiciones sociales, un paranoico sangriento pudo ejercer un poder despótico ilimitado sobre un país de doscientos millones de habitantes, que durante esta época había sido bendecido como el sistema más progresivo de gobierno que había conocido la his- toria humana, a este enigma la conferencia de jruschov no ofrecía respuesta alguna. Pero lo cierto era que el sistema soviético y el propio Partido habían permanecido impecablemente puros y no tenían responsabilidad alguna por las atrocidades del tirano.
