@@ -3,13 +3,13 @@ Introduction to Liberal Law
 
 ---Text---
 
-Liberal Law, what it is, and why it is important
+Liberal/Libertarian/Natural Law, what it is, and why it is important
 
 ---
 
 Jan Krepelka
 
-Summer University, Juan de Mariana Institute, Lanzarote, July 2019
+Liberty Camp Spain 2024, Malaga, Spain, July 2024
 
 ---
 
@@ -294,3 +294,142 @@ Swiss feminists could also have made their own parallel state, their own institu
 
 ---
 
+## 3. The Solution: The Law
+
+---Text---
+
+And that brings us to the liberal position. Liberalism, in this sense, is nothing more than the most advanced theory of the science of law. Liberalism is a set of solutions to various legal problems, but the most important is the framework: Universal Law, the right to private property, which can be justified purely logically, and therefore is indisputable for anyone who wants to reject nihilism.
+
+---
+
+### 3.1 Universality of the Law
+
+---Text---
+
+Identity of the rights of every human being.
+
+---
+
+> We hold these truths to be self-evident: that all men are created equal; that they are endowed by their Creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.
+>
+> -- [Declaration of Independence of the United States](https://es.wikisource.org/wiki/Declaración_de_Independencia_de_los_Estados_Unidos_de_América), 1776
+
+---
+
+> Men are born and remain free and equal in rights.
+>
+> -- [Declaration of the Rights of Man and of the Citizen](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank_mm/espagnol/es_ddhc.pdf), 1789
+
+---
+
+> Individuals have rights, and these rights are independent of social authority, which cannot touch them without becoming guilty of usurpation.
+>
+> -- Benjamin Constant, *[On Individual Rights](http://fr.liberpedia.org/Des_droits_individuels)*, 1818
+
+---
+
+### 3.2 ... regardless of gender
+
+> Women are human beings, and therefore have the same natural rights that any human being can have.
+>
+> -- [Lysander Spooner, 1877](http://www.enemigosdelestado.com/contra-sufragio-femenino-spooner-lysander/)
+
+---Text---
+
+And we could add that gender is not relevant to the Law. It is like the color of your hair or the fact of having hair or not: it does not change anything regarding the rights of each person. So all the questions about sex change, gay marriage, etc., are not relevant to the Law.
+
+---
+
+### 3.3 ... in any place
+
+> In a more culturally confident age, the British in India were confronted with the practice of "sati" -- the tradition of burning widows on their husbands' funeral pyres. General Sir Charles Napier was impeccably multicultural:
+
+---
+
+> "You say that burning widows is your custom. Very well. We also have a custom: when men burn a woman alive, we tie a rope around their necks and hang them. Build your funeral pyre. Behind it, my carpenters will build a gallows. You may follow your custom. And then we will follow ours."
+>
+> -- [Mark Steyn](https://books.google.es/books?id=thP_UKhPbP0C&pg=PA193&lpg=PA193&dq=%22General+Sir+Charles+Napier%22+%22my+carpenters+will+build+a+gallows.%22&source=bl&ots=k-xwQ6v5z8&sig=38ge9XwtlbctCiVMJeuYpJgi_tQ&hl=en&sa=X&ved=0ahUKEwjO1ePlxqLVAhUBLMAKHYcYCg8Q6AEIMjAD#v=onepage&q&f=false) [ [translation](http://blogs.periodistadigital.com/tizas.php/2006/04/15/una-cultura-y-un-rebano-de-dementes) ]
+
+---
+
+### 3.4 ... yes, seriously.
+
+[Convention for the Protection of Human Rights and Fundamental Freedoms](http://www.echr.coe.int/Documents/Convention_SPA.pdf)
+
+> ARTICLE 4
+> Prohibition of slavery and forced labor
+> 1. No one shall be held in slavery or servitude.
+> 2. No one shall be required to perform forced or compulsory labor.
+> 3. For the purpose of this article the term “forced or compulsory labor” shall not include:
+
+---
+
+> ...
+>
+> b) any service of a military character
+>
+> ...
+>
+> d) any work or service which forms part of normal civic obligations.
+
+---Text---
+
+It's like saying, we will ban the Gulag, but with the exception of camp number thirty-eight, which we will not call a Gulag but Disneyland.
+
+---
+
+### 3.5 Against the magic hat
+
+---Text---
+
+And that gradually brings us to the fundamental distinction between liberals in the true sense, and liberals in the more common sense, that of Western states, of so-called liberal democracies.
+
+---
+
+![](../../media/sombrero-magico.png)
+
+---
+
+![](../../media/corona.png)
+
+---
+
+![](../../media/uniformas.jpg)
+
+---
+
+![](../../media/sombrero-magico2.jpg)
+
+---
+
+![](../../media/to-you.png)
+
+---Text---
+
+We liberals are the atheists of the magic hat: there is no magic hat that can grant a person rights they did not have before.
+
+---
+
+## 4. Conclusion
+
+---Text---
+
+In the end, the enemies of the law, whether they declare themselves as such, seek pretexts, or declare themselves nihilists, want the same thing: their own rights protected, and the power to do whatever they want with the lives of others.
+
+Of course, this can never work. Whether it leads to a totalitarian society or an anomistic society, the problem is the same: the absence of legal security. The chaos is the same. Both primitivists and technocrats oppose the Law.
+
+The alternative is Law, yes or no. That is, on the one hand, a universal Law, for all people, everywhere, offering security, prosperity, etc.; and on the other hand, chaos, murders (whether organized by states or not stopped by states), poverty (whether deliberately caused by state decision, or by its destruction of property rights).
+
+In the end, they are all nihilists who want power, that is, who criticize the Law because they want the power to do whatever they want.
+
+They are dishonest nihilists, nothing more.
+
+Without liberalism, there is disorder, anomie, it is the law of the strongest, it is the war of all against all.
+
+Liberal Law is the only framework that offers a civilized, peaceful society, where the protection of each person's rights includes the responsibility not to infringe on the rights of others.
+
+Historically, all the progress we have made has been possible thanks to the partial respect of property rights. With even more respect, we would already be capable of much more.
+
+---
+
+Thank you very much!
