@@ -34,7 +34,7 @@ Derecho con D mayúscula cuando es único, universal
 
 ### 1.1. Calvin y Hobbes
 
-![¿ porque el mundo no es injusto en mi favor?](media/calvin-hobbes-fair-unfair.png)
+![¿ porque el mundo no es injusto en mi favor?](../../media/calvin-hobbes-fair-unfair.png)
 
 ---Texto---
 
@@ -49,7 +49,7 @@ historieta de Calvin y Hobbes
 
 ---
 
-![para todos, yo excepto ](media/calvin-hobbes-ethics.png)
+![para todos, yo excepto ](../../media/calvin-hobbes-ethics.png)
 
 ---Texto---
 
@@ -69,7 +69,7 @@ Y eso es el problema: querer libertad absoluta, derecho asimétrico absoluto de 
 
 ### 1.2. Robespierre
 
-![ Robespierre ](media/robespierre.jpg)
+![ Robespierre ](../../media/robespierre.jpg)
 
 Maximilien de Robespierre (1758-1794)
 
@@ -87,7 +87,7 @@ De hecho, ¿como acabo el señor Robespierre? Pues, guillotinado a su vez (en la
 
 ---
 
-![ estatua de Robespierre ](media/robespierre-estatua.jpg)
+![ estatua de Robespierre ](../../media/robespierre-estatua.jpg)
 
 ---Texto---
 
@@ -107,7 +107,7 @@ La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), 
 
 |Генрих Ягода|Николай Ежoв|Лаврентий Берия|
 |---|---|---|
-|![Yagoda](media/yagoda.jpg)|![Yezhov](media/yezhov.jpg)|![Beria](media/beria.jpg)|
+|![Yagoda](../../media/yagoda.jpg)|![Yezhov](../../media/yezhov.jpg)|![Beria](../../media/beria.jpg)|
 |[Guénrij Yagoda](https://es.wikipedia.org/wiki/Gu%C3%A9nrij_Yagoda)|Nikolái Yezhov|[Lavrenti Beria](https://es.wikipedia.org/wiki/Lavrenti_Beria)|
 |(1934-1936)|(1936-1938)|(1938-1953)|
 
@@ -139,7 +139,7 @@ Pero los fusilamientos, por supuesto, no acabaron ahí, y siguieron en cada paí
 
 ---
 
-<video data-autoplay src="media/che-guevera.mp4"></video>
+<video data-autoplay src="../../media/che-guevera.mp4"></video>
 
 ---
 
@@ -155,7 +155,7 @@ Vamos a ver un extracto de la película *Big Lebowski* que ilustra el problema:
 
 ---
 
-<video data-autoplay src="media/nihilists-not-fair.mp4"></video>
+<video data-autoplay src="../../media/nihilists-not-fair.mp4"></video>
 
 ---
 
@@ -240,7 +240,7 @@ Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
 
 ---
 
-<video data-autoplay src="media/englishmen.mp4"></video>
+<video data-autoplay src="../../media/englishmen.mp4"></video>
 
 ---Texto---
 
@@ -257,7 +257,7 @@ Y esa película, ¿cómo acaba? El personaje de Sean Connery acaba herido por un
 
 ---
 
-![Trump - chosen by God](media/Trump-Chosen-by-God.jpg)
+![Trump - chosen by God](../../media/Trump-Chosen-by-God.jpg)
 
 ---Texto---
 
@@ -277,7 +277,7 @@ Incluso la democracia directa: en Suiza, por ejemplo, ¿vosotros sabéis quien h
 
 |||
 |---|---|
-|![](media/stimmrecht-nein.jpg)|![](media/stimmrecht-ja.jpg)|
+|![](../../media/stimmrecht-nein.jpg)|![](../../media/stimmrecht-ja.jpg)|
 
 ---Texto---
 
@@ -385,23 +385,23 @@ Y eso nos lleva poco a poco a la distinción fundamental tras los liberales en e
 
 ---
 
-![](media/sombrero-magico.png)
+![](../../media/sombrero-magico.png)
 
 ---
 
-![](media/corona.png)
+![](../../media/corona.png)
 
 ---
 
-![](media/uniformas.jpg)
+![](../../media/uniformas.jpg)
 
 ---
 
-![](media/sombrero-magico2.jpg)
+![](../../media/sombrero-magico2.jpg)
 
 ---
 
-![](media/to-you.png)
+![](../../media/to-you.png)
 
 ---Texto---
 
