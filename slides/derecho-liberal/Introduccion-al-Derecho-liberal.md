@@ -97,7 +97,7 @@ Los comunistas soviéticos también tenían comités arbitrarios, las troikas (t
 
 Y también llamaban "enemigos del pueblo" a los que querían eliminar, y también lo pusieron en la ley
 
-Y también han tenido un periodo de Terror particularmente terrible, durante el reino de Stalin.
+Y también han tenido un periodo de Terror particularmente terrible, durante el reino de Stalin, que también se llamaba El Gran Terror, o La Gran Purga, o Ежовщина yezhóvshchina.
 
 La policía política de Stalin, la [NKVD](https://es.wikipedia.org/wiki/NKVD), ha tenido tres jefes :
 
@@ -117,7 +117,7 @@ Tienen dos cosas en común:
 
 * La primera, todos fueron criminales ordenando detenciones y ejecuciones arbitrarias, con falsas acusaciones, y confesiones obtenidas con torturas;
 
-* La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos y ejecutados arbitrariamente, y torturados hasta la obtención de confesiones extravagantes.
+* La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos arbitrariamente, torturados hasta la obtención de confesiones extravagantes, y ejecutados.
 
 Y también, como los revolucionarios franceses, no fueron los únicos: casi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las órdenes de Stalin. Nadie estaba protegido. Tomamos el ejemplo de Yezhov:
 
@@ -173,6 +173,8 @@ La arbitrariedad de las decisiones de los comités y de las troikas es de hecho 
 
 ---
 
+> > в его последней стадии коммунизм представлятся не как победа социалистического права, а как победа социализма над правом вообще.
+>
 > En su ultimo estadio, el comunismo no constituye una victoria del derecho socialista, sino una victoria del socialismo sobre el proprio Derecho.
 >
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
