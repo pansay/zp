@@ -140,7 +140,7 @@ But the executions, of course, did not end there, and continued in every country
 
 ---
 
-<video data-autoplay src=“../../media/che-guevera.mp4”></video>
+<video data-autoplay src="../../media/che-guevera.mp4"></video>
 
 ---
 
@@ -156,7 +156,7 @@ Let’s look at an excerpt from the movie *The Big Lebowski* that illustrates th
 
 ---
 
-<video data-autoplay src=“../../media/nihilists-not-fair.mp4”></video>
+<video data-autoplay src="../../media/nihilists-not-fair.mp4"></video>
 
 ---
 
@@ -244,7 +244,7 @@ Let’s look at another movie excerpt, from *The Man Who Would Be King*:
 
 ---
 
-<video data-autoplay src=“../../media/englishmen.mp4”></video>
+<video data-autoplay src="../../media/englishmen.mp4"></video>
 
 ---Text---
 
