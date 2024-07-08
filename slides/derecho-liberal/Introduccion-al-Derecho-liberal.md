@@ -431,6 +431,38 @@ El Derecho liberal es el único marco que ofrece una sociedad civilizada, pacíf
 
 Históricamente, todo el progreso que hemos tenido ha sido posible gracias al grado de respeto parcial de los derechos de propriedad. Con mas respecto aún, ya seriamos capaces de hacer muchísimo mas.
 
+
+
 ---
+
+
+
+> Οὐκ ἦν τι καθ’ ἑαυτὸ δικαιοσύνη, ἀλλ’ ἐν ταῖς μετ’ ἀλλήλων συστροφαῖς καθ’ ὁπηλίκους δή ποτε ἀεὶ τόπους συνθήκη τις ὑπὲρ τοῦ μὴ βλάπτειν ἢ βλάπτεσθαι.
+> 
+> La justicia es un acuerdo de no dañar ni ser dañado.
+>
+> – Epicuro (341—271 a. C), 
+
+
+
+---
+
+
+> Dale a todos los demás seres humanos todos los derechos que reclamas para ti mismo.
+> 
+> – Robert Green Ingersoll, “The Limitations of Toleration”, May 8, 1888
+
+
+---
+
+
+> Quiero ser libre. Es más fácil para mí ser libre si tú eres libre.
+>
+> – Russell Means
+
+---
+
+
+
 
 ¡Muchas gracias!

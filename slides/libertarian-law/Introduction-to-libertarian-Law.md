@@ -368,7 +368,7 @@ And we could add that gender is not relevant to the Law. It is like the color of
 
 ### 3.4 ... yes, seriously.
 
-[Convention for the Protection of Human Rights and Fundamental Freedoms](https://www.echr.coe.int/documents/d/echr/Archives_1950_Convention_ENG)
+[European Convention for the Protection of Human Rights and Fundamental Freedoms](https://www.echr.coe.int/documents/d/echr/Archives_1950_Convention_ENG)
 
 > ARTICLE 4
 > Prohibition of slavery and forced labor
@@ -444,6 +444,35 @@ Liberal Law is the only framework that offers a civilized, peaceful society, whe
 
 Historically, all the progress we have made has been possible thanks to the partial respect of property rights. With even more respect, we would already be capable of much more.
 
+
 ---
+
+
+> Οὐκ ἦν τι καθ’ ἑαυτὸ δικαιοσύνη, ἀλλ’ ἐν ταῖς μετ’ ἀλλήλων συστροφαῖς καθ’ ὁπηλίκους δή ποτε ἀεὶ τόπους συνθήκη τις ὑπὲρ τοῦ μὴ βλάπτειν ἢ βλάπτεσθαι.
+> 
+> Justice is an agreement to neither harm nor be harmed
+>
+> – Epicurus (341—271 B.C.E.), 
+
+
+---
+
+
+> Give to every other human being every right that you claim for yourself.
+> 
+> – Robert Green Ingersoll, “The Limitations of Toleration”, May 8, 1888
+
+
+---
+
+
+I want to be free. It’s easier for me to be free if you’re free.
+
+– Russell Means
+
+
+---
+
+
 
 Thank you very much!
