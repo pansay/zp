@@ -150,7 +150,7 @@ But the executions, of course, did not end there, and continued in every country
 
 What were these people thinking in the moments before they died? Did they believe it was a Party error until the very end? Did their condemnation seem just to them?
 
-But with what principles could they have rejected it?
+But with which principles could they have opposed it?
 
 Let’s look at an excerpt from the movie *The Big Lebowski* that illustrates the problem:
 
@@ -164,7 +164,7 @@ Let’s look at an excerpt from the movie *The Big Lebowski* that illustrates th
 
 ---Text---
 
-This is an illustration of the stolen concept fallacy: the nihilists reject the concept of justice until the moment they need it for themselves. But by then it is too late. The French revolutionaries believed that the illusion of the “will of the people” and its “enemies” would only be used against their personal enemies, and never against themselves.
+This is an illustration of the stolen concept fallacy: the nihilists reject the concepts of justice, of fairness, up until the moment they need it for themselves. But by then it is too late. The French revolutionaries believed that the illusion of the “will of the people” and its “enemies” would only be used against their personal enemies, and never against themselves.
 
 The same happened with the communists and the decisions they made in the name of the party, the people, or the proletariat, that is, their own decisions and the illusory will of asymmetric rights.
 
@@ -186,9 +186,9 @@ And already in Karl Marx:
 
 ---
 
-> In a higher phase of communist society, after the enslaving subordination of the individual to the division of labor, and therewith also the antithesis between mental and physical labor, has vanished [...] only then can the narrow horizon of bourgeois right be crossed in its entirety and society inscribe on its banners: 
+> In a higher phase of communist society, after the enslaving subordination of the individual to the division of labor, and therewith also the antithesis between mental and physical labor, has vanished [...] only then can the narrow horizon of bourgeois [law] be crossed in its entirety and society inscribe on its banners: 
 > 
-> From each according to his ability, to each according to his needs!
+> From each according to his [abilities], to each according to his needs!
 >
 > — [Karl Marx, 1875](https://www.marxists.org/archive/marx/works/1875/gotha/)
 
@@ -298,11 +298,11 @@ Well, Swiss men. In 1959 they asked us for the first time, we Swiss men... guys,
 
 And then, in 1971, 50 years ago, the same question... Look guys, now these girls are a bit smarter, you sure you don’t want to give them the right to vote? Well, okay, fine...
 
-But... If men gave Swiss women the right to vote, that half of the population, who gave Swiss men the right to vote, the other half of the population? Why wasn’t it the other way around? Why would men have the right to grant or not grant the right to vote to women?
+But... If men gave Swiss women the right to vote, that half of the population, who gave Swiss men the right to vote, the other half of the population? Why wasn’t it the other way around? Why would men have the right to grant or not grant the right to vote to women, and not the other way round?
 
 Nothing absolute, universal. Nothing justified in Law. Again, a historical accident, groups of people, depending on power relations, that take power or do not take it, and build some institutions. In this case, some institutions made by men.
 
-Swiss feminists could also have made their own parallel state, their own institutions, with the same authority, or absence of authority, as the institutions built by men.
+Swiss feminists could also have made their own parallel state, their own institutions, with the same authority, or absence of authority, as the institutions built by men, or they could have completely rejected the whole system, as anarchists like Spooner would suggest.
 
 ---
 
@@ -310,7 +310,7 @@ Swiss feminists could also have made their own parallel state, their own institu
 
 ---Text---
 
-And that brings us to the liberal position. Liberalism, in this sense, is nothing more than the most advanced theory of the science of law. Liberalism is a set of solutions to various legal problems, but the most important is the framework: Universal Law, the right to private property, which can be justified purely logically, and therefore is indisputable for anyone who wants to reject nihilism.
+And that brings us to the liberal position. Liberalism, in this sense, is nothing more than the most advanced theory of the science of Law. Liberalism is a set of solutions to various legal problems, but the most important is the framework: Universal Law, the right to private property, which can be justified purely logically, and therefore is indisputable for anyone who wants to reject nihilism.
 
 ---
 
@@ -324,13 +324,13 @@ Identity of the rights of every human being.
 
 > We hold these truths to be self-evident: that all men are created equal; that they are endowed by their Creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.
 >
-> — [Declaration of Independence of the United States](https://es.wikisource.org/wiki/Declaración_de_Independencia_de_los_Estados_Unidos_de_América), 1776
+> — [Declaration of Independence of the United States](https://en.wikisource.org/wiki/Statutes_of_California,_1850/Declaration_of_Independence), 1776
 
 ---
 
 > Men are born and remain free and equal in rights.
 >
-> — [Declaration of the Rights of Man and of the Citizen](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank_mm/espagnol/es_ddhc.pdf), 1789
+> — [Declaration of the Rights of Man and of the Citizen](https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/anglais/cst2.pdf), 1789
 
 ---
 
@@ -342,9 +342,9 @@ Identity of the rights of every human being.
 
 ### 3.2 ... regardless of gender
 
-> Women are human beings, and therefore have the same natural rights that any human being can have.
+> Women are human beings, and consequently have all the natural rights that any human beings can have. 
 >
-> — [Lysander Spooner, 1877](http://www.enemigosdelestado.com/contra-sufragio-femenino-spooner-lysander/)
+> — [Lysander Spooner, 1877](https://en.liberpedia.org/Against_Woman_Suffrage)
 
 ---Text---
 
@@ -354,19 +354,21 @@ And we could add that gender is not relevant to the Law. It is like the color of
 
 ### 3.3 ... in any place
 
-> In a more culturally confident age, the British in India were confronted with the practice of “sati” -- the tradition of burning widows on their husbands’ funeral pyres. General Sir Charles Napier was impeccably multicultural:
+> In a culturally confident age, the British in India were faced with the practice of "suttee" – the tradition of burning widows on the funeral pyres of their husbands. General Sir Charles Napier was impeccably multicultural:
+
+
 
 ---
 
-> “You say that burning widows is your custom. Very well. We also have a custom: when men burn a woman alive, we tie a rope around their necks and hang them. Build your funeral pyre. Behind it, my carpenters will build a gallows. You may follow your custom. And then we will follow ours.”
+> “You say that it is your custom to burn widows. Very well. We also have a custom: when men burn a woman alive, we tie a rope around their necks and we hang them. Build your funeral pyre; beside it, my carpenters will build a gallows. You may follow your custom. And then we will follow ours.”
 >
-> — [Mark Steyn](https://books.google.es/books?id=thP_UKhPbP0C&pg=PA193&lpg=PA193&dq=%22General+Sir+Charles+Napier%22+%22my+carpenters+will+build+a+gallows.%22&source=bl&ots=k-xwQ6v5z8&sig=38ge9XwtlbctCiVMJeuYpJgi_tQ&hl=en&sa=X&ved=0ahUKEwjO1ePlxqLVAhUBLMAKHYcYCg8Q6AEIMjAD#v=onepage&q&f=false) [ [translation](http://blogs.periodistadigital.com/tizas.php/2006/04/15/una-cultura-y-un-rebano-de-dementes) ]
+> — [Mark Steyn](https://www.steynonline.com/7559/we-shall-fight-on-the-beaches) 
 
 ---
 
 ### 3.4 ... yes, seriously.
 
-[Convention for the Protection of Human Rights and Fundamental Freedoms](http://www.echr.coe.int/Documents/Convention_SPA.pdf)
+[Convention for the Protection of Human Rights and Fundamental Freedoms](https://www.echr.coe.int/documents/d/echr/Archives_1950_Convention_ENG)
 
 > ARTICLE 4
 > Prohibition of slavery and forced labor
