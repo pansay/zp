@@ -466,9 +466,9 @@ Historically, all the progress we have made has been possible thanks to the part
 ---
 
 
-I want to be free. It’s easier for me to be free if you’re free.
-
-– Russell Means
+> I want to be free. It’s easier for me to be free if you’re free.
+>
+> – Russell Means
 
 
 ---
