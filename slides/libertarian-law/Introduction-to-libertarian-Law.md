@@ -144,7 +144,13 @@ But the executions, of course, did not end there, and continued in every country
 
 ---
 
+
 ## 2. Asymmetric Rights Are Nihilism
+
+
+---
+
+![](../../media/leopards-faces-my-face-proud-member.png)
 
 ---Text---
 
