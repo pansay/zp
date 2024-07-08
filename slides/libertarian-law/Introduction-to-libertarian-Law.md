@@ -132,16 +132,17 @@ And how did Mr. Yezhov end up?
 &nbsp;
 &nbsp;
 
-
----
-
-![](../../media/leopards-faces-my-face-proud-member.png)
-
 ---Text---
 
 ... and of course, he was shot, just like those he had condemned himself.
 
 But the executions, of course, did not end there, and continued in every country where power triumphed over the law.
+
+
+---
+
+![](../../media/leopards-faces-my-face-proud-member.png)
+
 
 ---
 
@@ -151,8 +152,6 @@ But the executions, of course, did not end there, and continued in every country
 
 
 ## 2. Asymmetric Rights Are Nihilism
-
-
 
 
 ---Text---

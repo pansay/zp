@@ -139,16 +139,17 @@ Pero los fusilamientos, por supuesto, no acabaron ahí, y siguieron en cada paí
 
 ---
 
+![](../../media/leopards-faces-my-face-proud-member.png)
+
+
+---
+
 <video data-autoplay src="../../media/che-guevera.mp4"></video>
 
 ---
 
 ## 2. Los derechos asimétricos son nihilismo
 
-
----
-
-![](../../media/leopards-faces-my-face-proud-member.png)
 
 
 ---Texto---
