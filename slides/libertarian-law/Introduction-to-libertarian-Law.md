@@ -238,7 +238,7 @@ And in the end, if there is a conflict and the king is replaced by another king,
 
 Historically: dynasties change, there are conquests by war, and in the end, they are recognized by the Vatican.
 
-In the end, it is the same as any argument of a superior people or race, or any superior caste with the right to rule: if another manages to surpass it, it obviously was not so superior. In the end, it is a slightly more sophisticated declaration of the basic right of the strongest, which is nothing more than a form of nihilism, or rather, *the result* of nihilism.
+In the end, it is the same as any argument of a superior people or race, or any superior caste with the right to rule: if another group manages to win over it, then obviously the previous group was not all that superior. In the end, it is a slightly more sophisticated declaration of the basic right of the strongest, which is nothing more than a form of nihilism, or rather, *the result* of nihilism.
 
 Let’s look at another movie excerpt, from *The Man Who Would Be King*:
 
@@ -273,9 +273,19 @@ And of course, the theory of divine right is not exclusive to other theories, ev
 
 ---Text---
 
-And democracy? Well, it’s exactly the same. Only the “will of the people” has taken the place of the “divine right”: the democratic system also depends on historical accidents, not on an official, unique, divine, or universal decision: borders, the electoral system, the questions submitted to voters, the candidates, etc., all these depend on historical decisions that have no particular legitimacy compared to other possible systems.
+And democracy itself? Well, it’s exactly the same. Only the “will of the people” has taken the place of the “divine right”: the democratic system also depends on historical accidents, not on an official, unique, divine, or universal decision: borders, the electoral system, the questions submitted to voters, the candidates, etc., all these depend on historical decisions that have no particular legitimacy compared to other possible systems.
 
 Even direct democracy: in Switzerland, for example, do you know who gave Swiss women the right to vote?
+
+---
+
+
+<video data-autoplay src="../../media/applejack-nah.mp4"></video>
+
+---Text---
+
+Well, Swiss men. In 1959 they asked us for the first time, we Swiss men... guys, do you want to give these girls the right to vote? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). We rejected it.
+
 
 ---
 
@@ -285,9 +295,8 @@ Even direct democracy: in Switzerland, for example, do you know who gave Swiss w
 
 ---Text---
 
-Well, Swiss men. In 1959 they asked us for the first time, we Swiss men... guys, do you want to give these girls the right to vote? [hhmmm naaah](https://www.youtube.com/watch?v=ClXAaGoT5eE). We rejected it.
 
-And then, in 1971, 50 years ago, the same question... Look guys, now these girls are a bit smarter, surely you don’t want to give them the right to vote? Well, okay, fine...
+And then, in 1971, 50 years ago, the same question... Look guys, now these girls are a bit smarter, you sure you don’t want to give them the right to vote? Well, okay, fine...
 
 But... If men gave Swiss women the right to vote, that half of the population, who gave Swiss men the right to vote, the other half of the population? Why wasn’t it the other way around? Why would men have the right to grant or not grant the right to vote to women?
 
