@@ -145,6 +145,12 @@ Pero los fusilamientos, por supuesto, no acabaron ahí, y siguieron en cada paí
 
 ## 2. Los derechos asimétricos son nihilismo
 
+
+---
+
+![](../../media/leopards-faces-my-face-proud-member.png)
+
+
 ---Texto---
 
 ¿Que fueron pensando estas personas los momentos antes de morir? ¿Creían que fue un error del Partido hasta el último momento? ¿Les había parecido justa su condenación?
