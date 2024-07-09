@@ -32,6 +32,14 @@ Derecho con D mayúscula cuando es único, universal
 
 ---
 
+
+> Poder es tener la discreción y los medios para imponer asimétricamente su voluntad sobre los demás.
+>
+> --[Interpersonal Power: A Review, Critique, and Research Agenda](https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF)
+
+
+---
+
 ### 1.1. Calvin y Hobbes
 
 ![¿ porque el mundo no es injusto en mi favor?](../../media/calvin-hobbes-fair-unfair.png)

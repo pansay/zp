@@ -26,9 +26,20 @@ Asymmetric rights, which we will see, can be defined as power.
 
 Law with a capital L when it is unique, universal
 
+
 ---
 
 ## 1. The problem: asymmetric rights
+
+
+---
+
+
+> Power is having the discretion and the means to asymmetrically enforce one’s will over others.
+>
+> --[Interpersonal Power: A Review, Critique, and Research Agenda](https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF)
+
+
 
 ---
 
