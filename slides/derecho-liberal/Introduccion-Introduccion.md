@@ -128,21 +128,8 @@ Tienen dos cosas en común:
 
 * La segunda, todos han acabado de la misma manera que han tratado a los demás: acusados falsamente, detenidos arbitrariamente, torturados hasta la obtención de confesiones extravagantes, y ejecutados.
 
-Y también, como los revolucionarios franceses, no fueron los únicos: casi todos los bolcheviques iniciales fueron exterminados por ellos, siguiendo las órdenes de Stalin. Nadie estaba protegido. Tomamos el ejemplo de Yezhov:
-
-Yezhov introduzco en 1937 el Orden 447 del NKVD, que establecía cuotas de personas a matar o encerrar en el Gulag, basado en listas a decidir por troikas -- es decir, tres personas del partido que decidieran quien iba a vivir y quien a morir. Cientos de miles de personas fueron ejecutadas y millones detenidas.
-
-¿Y como acabo ese señor, Yezhov ?
-
----
-
-> Fue encerrado en la lóbrega prisión especial del NKVD de Sujánovka (Сухановка), reservada a «enemigos del pueblo especialmente peligrosos», situada a las afueras de Moscú. Allí fue acusado de espionaje en favor de Alemania, Gran Bretaña, Polonia y Japón; de dirigir una confabulación en el seno del NKVD, de preparar un golpe de Estado, organizar algunos asesinatos y de sodomía. Incapaz de soportar la tortura a la que se le sometió, aceptó todas las acusaciones. ([wikipedia](https://es.wikipedia.org/wiki/Nikol%C3%A1i_Yezhov#Declive_y_muerte))
-&nbsp;
-&nbsp;
 
 ---Texto---
-
-... y por supuesto, fue fusilado, como los que el mismo habia condenado.
 
 Pero los fusilamientos, por supuesto, no acabaron ahí, y siguieron en cada país donde el poder ganó sobre el Derecho.
 
@@ -187,79 +174,7 @@ La arbitrariedad de las decisiones de los comités y de las troikas es de hecho 
 >
 > -- [Пётр Иванович Стучка](https://fr.wikipedia.org/wiki/P%C4%93teris_Stu%C4%8Dka), presidente del Tribunal Suprema de la Rusia soviética, [Энциклопедия государства и права, Vol. 3, 1927, p. 1593](http://136.243.13.116:88/Viewer.html?file=/Book/pdf/119204.pdf&embedded=true#page=797&zoom=90,-144,677).
 
----Texto---
-
-Y ya en Karl Marx:
-
 ---
-
-> En una fase superior de la sociedad comunista, cuando haya desaparecido la subordinación esclavizadora de los individuos a la división del trabajo [...] sólo entonces podrá rebasarse totalmente el estrecho horizonte del derecho burgués y la sociedad podrá escribir en sus banderas:
-> ¡De cada cual, según sus capacidades; a cada cual según sus necesidades!
->
-> -- [Karl Marx, 1875](https://www.marxists.org/espanol/m-e/1870s/gotha/gotha.htm)
-
----Texto---
-
-Para los comunistas, el enemigo era el Derecho. El Derecho, como protección contra la arbitrariedad, contra el poder. Ese poder, lo vemos en ese eslogan comunista típico: ¿quién determina las "capacidades" de cada uno, y quién determina las "necesidades"?
-
----
-
-### 2.2. Autoridad divina
-
----Texto---
-
-Si los comunistas pretendían tener sus derechos asimétricos gracias al pueblo, a la dictadura del proletariado, también hay otras fuentes, otros pretextos...
-
----
-
-> Despreciar el poder legítimo, sea el que sea el titular del poder, es tan ilícito como resistir a la voluntad de Dios. Quienes resisten a la voluntad divina se despeñan voluntariamente en el abismo de su propia perdición.
->
-> -- [Carta Encíclica Immortale Dei Del Sumo Pontífice León XIII Sobre La Constitución Cristiana Del Estado](http://w2.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html), 1885
-
----Texto---
-
-"Sea el que sea el titular del poder"...
-
-Y no es sólo el catolicismo, el protestantismo también ha sido utilizado por algunas personas para defender el poder:
-
----
-
-> Así también uno debe aceptar la autoridad del gobernante. Uno debe obedecerle únicamente por el amor de Dios, porque él está en el lugar de Dios. Que impongan impuestos tan intolerables como pueden: uno debe obedecerles y sufrir todo pacientemente, por el amor de Dios.
->
-> Martín Lutero
-
----Texto---
-
-El problema con esta tesis, por supuesto, es *quién* tiene "su autoridad recibida de Dios"? "Sea el que sea el titular del poder"... Pero ¿como se ha llegado a esa situacíon? ¿Cual es el poder "legítimo" ?
-
-Vamos a ver otro extracto de película, la de *El hombre que quiso ser rey*:
-
----
-
-<video data-autoplay src="../../media/englishmen.mp4"></video>
-
----Texto---
-
-Como si hubiera esa hierarquía:
-
-- Dios
-- Reyes
-- Ingleses
-- Otras personas
-
-Y esa película, ¿cómo acaba? El personaje de Sean Connery acaba herido por una mujer que él quería tomar como esposa contra su voluntad, y la gente, su "pueblo", ve que tiene sangre: la misma sangre roja que ellos, entonces, ¿por qué tendría él derechos distintos de ellos?
-
----
-
-![Trump - chosen by God](../../media/Trump-Chosen-by-God.jpg)
-
----Texto---
-
-Y por supuesto, la teoría del derecho divino no es exclusiva con otras teorías, incluso la democracia.
-
-
----
-
 
 ## 3. La solución: el Derecho
 
