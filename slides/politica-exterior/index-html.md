@@ -20,8 +20,6 @@ Hans-Hermann Hoppe
 
 crítica liberal del Estado
 
-aislacionismo
-
 
 ---Texto---
 
@@ -31,6 +29,8 @@ A Murray Rothbard lo siguió Hans-Hermann Hoppe, que, aunque es europeo —o qui
 
 
 ---
+
+aislacionismo
 
 «Si los dejamos en paz, nos dejarán en paz»
 
@@ -103,14 +103,12 @@ libertad individual
 
 comparación entre regímenes
 
-soluciones reales
-
-no solo culpa histórica
+soluciones prácticas
 
 
 ---Texto---
 
-Lo importante en el análisis debería ser el principio de no agresión, una comparación de los regímenes desde el punto de vista de la libertad y la búsqueda de soluciones prácticas ahora mismo, no solo de culpas históricas.
+Lo importante en el análisis debería ser el principio de no agresión, una comparación de los regímenes desde el punto de vista de la libertad y la búsqueda de soluciones prácticas
 
 
 
@@ -183,13 +181,22 @@ El cuarto, complementario del tercero, es otra forma de negación de la capacida
 
 ---
 
-teoría primero
+agresión rusa contra Ucrania y contra Europa
 
-hechos después
+liberalismo ≠ pacifismo
 
-la historia debe encajar con el aislacionismo
+las agresiones deben tener consecuencias
 
-aunque contradiga la realidad
+castigar la agresión
+
+evitar nuevas agresiones
+
+sino:
+
+más riesgo para Taiwán
+más agresiones similares
+más inestabilidad
+mayor riesgo de guerra mundial
 
 ---Texto---
 
@@ -201,87 +208,10 @@ El liberalismo no es pacifismo. Desde un punto de vista liberal, los demás Esta
 Muchas gracias.
 
 
----
-
-Ucrania
-
-agresión rusa
-
-caso claro de agresión
-
-Europa
-
-contra europeos
-
-derecho a defenderse
 
 ---
 
-liberalismo ≠ pacifismo
-
-principio de no agresión
-
-derecho de defensa
-
-ayuda a la víctima
-
-impedir que la agresión tenga éxito
-
----
-
-moral obligation
-
-self-interest
-
-ayudar a Ucrania
-
-castigar la agresión
-
-evitar nuevas agresiones
-
----
-
-international order
-
-las agresiones deben tener consecuencias
-
-Rusia
-
-China
-
-Taiwán
-
-efecto de demostración
-
----
-
-si Rusia gana:
-
-más riesgo para Taiwán
-
-más agresiones similares
-
-más inestabilidad
-
-mayor riesgo de guerra mundial
-
----
-
-conclusión
-
-liberalismo ≠ pacifismo
-
-el aislacionismo no elimina la agresión
-
-la pasividad también tiene consecuencias
-
-libertad
-
-defensa
-
-responsabilidad
-
----
+¡la pasividad también tiene consecuencias!
 
 
 [laissez-faire.ch](https://laissez-faire.ch/)
