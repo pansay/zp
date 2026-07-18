@@ -18,8 +18,6 @@ Murray Rothbard
 
 Hans-Hermann Hoppe
 
-crítica liberal del Estado
-
 
 ---Texto---
 
@@ -30,9 +28,21 @@ A Murray Rothbard lo siguió Hans-Hermann Hoppe, que, aunque es europeo —o qui
 
 ---
 
+crítica liberal del Estado
+
 aislacionismo
 
 «Si los dejamos en paz, nos dejarán en paz»
+
+
+---Texto---
+
+Partiendo del liberalismo y de la crítica liberal del Estado, estos autores extienden esa crítica a toda política exterior. Y de ahí llegan al aislacionismo, un aislacionismo que resulta bastante ingenuo: la idea de que si dejamos tranquilos a los demás países, ellos nos dejarán tranquilos a nosotros.
+
+
+
+---
+
 
 problema fundamental:
 
@@ -40,16 +50,14 @@ negación de la capacidad de acción propia (agency denial)
 
 otros Estados también tienen:
 
-objetivos
-intereses
-ideologías
-política interior
-oposición
+objetivos, 
+intereses, 
+ideologías, 
+política interior, 
+oposición, 
 disidentes
 
 ---Texto---
-
-Partiendo del liberalismo y de la crítica liberal del Estado, estos autores extienden esa crítica a toda política exterior. Y de ahí llegan al aislacionismo, un aislacionismo que resulta bastante ingenuo: la idea de que si dejamos tranquilos a los demás países, ellos nos dejarán tranquilos a nosotros.
 
 Esta idea tiene un problema fundamental: olvida la capacidad de acción propia —agency en inglés— de cada actor, no solo la de nuestro propio Estado.
 
@@ -102,6 +110,8 @@ principio de no agresión
 libertad individual
 
 comparación entre regímenes
+
+comprensión de la historia
 
 soluciones prácticas
 
