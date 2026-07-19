@@ -242,6 +242,7 @@ Otros Estados antiliberales, como China, ya están observando muy de cerca lo qu
 * https://en.liberpedia.org/Murray_N._Rothbard
 * https://en.liberpedia.org/Russian_invasion_of_Ukraine/Reasons
 * https://freemarketsandfirepower.substack.com/
+* https://mises.org/online-book/liberalism-classical-tradition/3-liberal-foreign-policy/11-russia
 
 
 ---
