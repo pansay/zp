@@ -10,13 +10,12 @@ Política exterior liberal
 
 Hola a todos.
 
-Quería aprovechar esta ocasión para hablar de un tema que quizá no va a gustar a todos, pero que es importante y que creo que constituye un punto bastante débil de algunas corrientes liberales.
+Quería aprovechar esta ocasión para hablar de un tema que quizá no va a gustar a todos, algo que constituye un punto bastante débil de varias corrientes liberales, la política exterior.
 
 ---
 
-Murray Rothbard
-
-Hans-Hermann Hoppe
+* Murray Rothbard
+* Hans-Hermann Hoppe
 
 
 ---Texto---
@@ -28,16 +27,14 @@ A Murray Rothbard lo siguió Hans-Hermann Hoppe, que, aunque es europeo —o qui
 
 ---
 
-crítica liberal del Estado
-
-aislacionismo
-
-«Si los dejamos en paz, nos dejarán en paz»
+* crítica liberal del Estado
+* aislacionismo
+* «Si los dejamos en paz, nos dejarán en paz»
 
 
 ---Texto---
 
-Partiendo del liberalismo y de la crítica liberal del Estado, estos autores extienden esa crítica a toda política exterior. Y de ahí llegan al aislacionismo, un aislacionismo que resulta bastante ingenuo: la idea de que si dejamos tranquilos a los demás países, ellos nos dejarán tranquilos a nosotros.
+Partiendo de la crítica liberal del Estado, estos autores extienden esa crítica a toda política exterior. Y de ahí llegan al aislacionismo, un aislacionismo que resulta bastante ingenuo: la idea de que si dejamos tranquilos a los demás países, ellos nos dejarán tranquilos a nosotros.
 
 
 
@@ -50,12 +47,12 @@ negación de la capacidad de acción propia (agency denial)
 
 otros Estados también tienen:
 
-objetivos, 
-intereses, 
-ideologías, 
-política interior, 
-oposición, 
-disidentes
+* objetivos, 
+* intereses, 
+* ideologías, 
+* política interior, 
+* oposición, 
+* disidentes
 
 ---Texto---
 
@@ -64,9 +61,8 @@ Esta idea tiene un problema fundamental: olvida la capacidad de acción propia �
 
 ---
 
-provocación
-
-blowback
+* provocación
+* blowback
 
 pero:
 
@@ -83,13 +79,10 @@ Obviamente, las acciones tienen reacciones, y así sucesivamente desde siempre, 
 
 política exterior:
 
-compleja
-
-contextual
-
-no se resuelve a priori
-
-el aislacionismo puede funcionar para algunos países pero no para todos
+* compleja
+* contextual
+* no se resuelve a priori
+* el aislacionismo puede funcionar para algunos países pero no para todos
 
 
 ---Texto---
@@ -105,15 +98,11 @@ El aislacionismo puede tener sentido para algunos países, pero no para otros.
 
 criterios liberales:
 
-principio de no agresión
-
-libertad individual
-
-comparación entre regímenes
-
-comprensión de la historia
-
-soluciones prácticas
+* principio de no agresión
+* libertad individual
+* comparación entre regímenes
+* comprensión de la historia
+* soluciones prácticas
 
 
 ---Texto---
@@ -124,14 +113,14 @@ Lo importante en el análisis debería ser el principio de no agresión, una com
 
 ---
 
-no todos los Estados son iguales
+* no todos los Estados son iguales
 
-peligro de agresiones exteriores
+* peligro de agresiones exteriores
 
 
 ---Texto---
 
-Lo que estos autores olvidan es que, por mucho que no nos guste nuestro propio Estado y por muchas críticas que podamos hacerle, siempre hay Estados peores. Y eso es un punto tan débil de autores como Hoppe que prácticamente invalida toda su obra. Habla mucho de optimizar el Estado: bajar impuestos, tener Estados más pequeños, etcétera. Muy bien. Pero luego, en el mundo real, existe un peligro muy real de agresiones exteriores que no podemos impedir con buenos sentimientos. ¿Y luego qué hacemos si ocurre? ¿Nos rendimos?
+Lo que estos autores olvidan es que, por mucho que no nos guste nuestro propio Estado, siempre hay Estados peores. Y eso es un punto tan débil de autores como Hoppe que prácticamente invalida toda su obra. Habla mucho de optimizar el Estado: bajar impuestos, tener Estados más pequeños, etcétera. Muy bien. Pero luego, si alguien nos ataqua, ¿qué hacemos? ¿Nos rendimos?
 
 Como si, de repente, no hubiera una enorme diferencia entre vivir bajo la ocupación o la conquista de un Estado comunista o autoritario y vivir en una democracia liberal. Como si no importara la diferencia abismal en calidad de vida y libertades entre uno y otro.
 
@@ -140,15 +129,15 @@ Como si, de repente, no hubiera una enorme diferencia entre vivir bajo la ocupac
 
 ---
 
-cuatro errores
+Cuatro errores:
 
 1. «Si los dejamos en paz, nos dejarán en paz»
 
-2. «Si nos atacan, tampoco pasa nada»
+2. «Si nos conquistan, tampoco pasa nada»
 
-3. reescribir la historia para salvar la teoría
+3. Reescribir la historia para que encaje en la teoría.
 
-4. deshumanización de las víctimas
+4. Deshumanización de las víctimas
 
 
 ---Texto---
@@ -160,68 +149,78 @@ Esto implica, en mi opinión, cuatro grandes errores.
 
 El primero es creer que si dejamos en paz a los demás, ellos nos dejarán en paz a nosotros.
 
-El segundo es pensar que, incluso si nos atacan, tampoco pasa nada.
+El segundo es pensar que, incluso si nos atacan y conquistan, tampoco pasa nada.
 
 
 
 ---
 
-revisionismo histórico
-
-negacionismo
-
-relativización
-
-blanqueamiento
-
-Hitler como «víctima»
-
-Stalin como «pacifista»
-
-Putin como «provocado»
+* revisionismo histórico
+* negacionismo
+* relativización
+* blanqueamiento:
+  * Hitler como «víctima»
+  * Stalin como «pacifista»
+  * Putin como «provocado»
 
 
 ---Texto---
 
 
-El tercero es reescribir la historia para hacerla encajar con esa teoría, minimizando o relativizando las agresiones y los crímenes de los regímenes antiliberales, incluidos, en los casos más extremos, los crímenes de Hitler, Stalin o Putin. Todo para hacer encajar las guerras en una teoría ingenua según la cual no existe ningún peligro exterior: todos estos dictadores, si nos han atacado, seguro que tenían buenas razones; es nuestra culpa. Eso llevó a Rothbard a presentar a Hitler como una víctima de la Segunda Guerra Mundial o a Stalin como un pacifista, o incluso a negar el Holocausto porque no cabía bien en su teoría aislacionista.
+El tercero es reescribir la historia para hacerla encajar con esa teoría, minimizando los crímenes de los regímenes antiliberales, incluidos, los de Hitler, Stalin o Putin. Todo para hacer encajar las guerras en una teoría ingenua según la cual no existe ningún peligro exterior: todos estos dictadores, si nos han atacado, seguro que tenían buenas razones; es nuestra culpa. Eso llevó a Rothbard a presentar a Hitler como una víctima de la Segunda Guerra Mundial o a Stalin como un pacifista, o incluso a negar el Holocausto porque no cabía bien en su teoría aislacionista.
 
 El cuarto, complementario del tercero, es otra forma de negación de la capacidad de acción propia —agency—: la deshumanización completa de las víctimas de otros países, sacrificadas a nuestros enemigos comunes para apaciguarlos con la falsa esperanza de alcanzar la paz.
+
+Y esto también es algo que vemos ahora, con las teorías según las cuales «la expansión de la OTAN provocó a Putin», negando por completo los derechos —e incluso la humanidad— de los pueblos de Europa del Este.
 
 
 ---
 
-agresión rusa contra Ucrania y contra Europa
+* agresión rusa contra Ucrania y contra Europa
+* liberalismo ≠ pacifismo
+* las agresiones deben tener consecuencias
+* castigar la agresión
+* orden internacional en el que las agresiones sean castigadas.
 
-liberalismo ≠ pacifismo
 
-las agresiones deben tener consecuencias
+---Texto---
 
-castigar la agresión
+
+Y eso lleva también a los rothbardianos a equivocarse completamente al analizar los conflictos actuales, como la agresión rusa contra Ucrania.
+
+Desde el punto de vista liberal, debería ser un caso muy claro de agresión. Está ocurriendo aquí, en Europa, contra nosotros, los europeos.
+
+Un caso muy sencillo, pero la Rusia gasta mucho dinero para hacer que parezca complicado.
+
+El liberalismo no es pacifismo. Desde un punto de vista liberal, los demás Estados y ciudadanos tienen el derecho —e incluso la obligación moral y el interés propio— de ayudar a Ucrania a defenderse y de preservar un orden internacional en el que las agresiones sean castigadas.
+
+
+---
+
 
 evitar nuevas agresiones
 
 sino:
 
-más riesgo para Taiwán
-más agresiones similares
-más inestabilidad
-mayor riesgo de guerra mundial
+* más riesgo para Taiwán
+* más agresiones similares
+* más inestabilidad
+* mayor riesgo de guerra mundial
+
 
 ---Texto---
 
 
-Y eso lleva también a los rothbardianos a equivocarse completamente al analizar los conflictos actuales, como la agresión rusa contra Ucrania. Desde el punto de vista liberal, debería ser un caso muy claro de agresión. Está ocurriendo aquí, en Europa, contra nosotros, los europeos.
 
-El liberalismo no es pacifismo. Desde un punto de vista liberal, los demás Estados y ciudadanos tienen el derecho —e incluso la obligación moral y el interés propio— de ayudar a Ucrania a defenderse y de preservar un orden internacional en el que las agresiones sean castigadas. Otros Estados antiliberales, como China, ya están observando muy de cerca lo que ocurre. Si permitimos la guerra de Rusia contra Ucrania, aumentamos también el riesgo de una agresión china contra Taiwán y de otras guerras aún más amplias.
 
-Muchas gracias.
+
+Otros Estados antiliberales, como China, ya están observando muy de cerca lo que ocurre. Si permitimos la guerra de Rusia contra Ucrania, aumentamos también el riesgo de una agresión china contra Taiwán y de otras guerras aún más amplias.
 
 
 
 ---
 
-¡la pasividad también tiene consecuencias!
+¡La pasividad también tiene consecuencias!
 
 
 [laissez-faire.ch](https://laissez-faire.ch/)
@@ -232,3 +231,9 @@ Muchas gracias.
 
 [freemarketsandfirepower.substack.com](https://freemarketsandfirepower.substack.com/)
 
+
+---Texto---
+
+
+
+Muchas gracias.
