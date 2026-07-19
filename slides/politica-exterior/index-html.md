@@ -232,8 +232,17 @@ Otros Estados antiliberales, como China, ya están observando muy de cerca lo qu
 [freemarketsandfirepower.substack.com](https://freemarketsandfirepower.substack.com/)
 
 
+---
+
+
+¿Preguntas?
+
+![](../../media/swords-meme.jpg)
+
+
 ---Texto---
 
 
+Muchas gracias. ¿Preguntas?
 
-Muchas gracias.
+
