@@ -117,6 +117,8 @@ Lo importante en el análisis debería ser el principio de no agresión, una com
 
 * peligro de agresiones exteriores
 
+* menos impuestos, pero... si alguien nos ataqua, ¿qué hacemos? ¿Nos rendimos?
+
 
 ---Texto---
 
@@ -135,9 +137,6 @@ Cuatro errores:
 
 2. «Si nos conquistan, tampoco pasa nada»
 
-3. Reescribir la historia para que encaje en la teoría.
-
-4. Deshumanización de las víctimas
 
 
 ---Texto---
@@ -155,6 +154,9 @@ El segundo es pensar que, incluso si nos atacan y conquistan, tampoco pasa nada.
 
 ---
 
+3.Reescribir la historia para que encaje en la teoría.
+
+
 * revisionismo histórico
 * negacionismo
 * relativización
@@ -169,6 +171,17 @@ El segundo es pensar que, incluso si nos atacan y conquistan, tampoco pasa nada.
 
 El tercero es reescribir la historia para hacerla encajar con esa teoría, minimizando los crímenes de los regímenes antiliberales, incluidos, los de Hitler, Stalin o Putin. Todo para hacer encajar las guerras en una teoría ingenua según la cual no existe ningún peligro exterior: todos estos dictadores, si nos han atacado, seguro que tenían buenas razones; es nuestra culpa. Eso llevó a Rothbard a presentar a Hitler como una víctima de la Segunda Guerra Mundial o a Stalin como un pacifista, o incluso a negar el Holocausto porque no cabía bien en su teoría aislacionista.
 
+---
+
+
+4.Deshumanización de las víctimas
+
+
+* apaciguarlos a enemigos
+* «la expansión de la OTAN provocó a Putin»
+
+---Texto---
+
 El cuarto, complementario del tercero, es otra forma de negación de la capacidad de acción propia —agency—: la deshumanización completa de las víctimas de otros países, sacrificadas a nuestros enemigos comunes para apaciguarlos con la falsa esperanza de alcanzar la paz.
 
 Y esto también es algo que vemos ahora, con las teorías según las cuales «la expansión de la OTAN provocó a Putin», negando por completo los derechos —e incluso la humanidad— de los pueblos de Europa del Este.
@@ -177,6 +190,7 @@ Y esto también es algo que vemos ahora, con las teorías según las cuales «la
 ---
 
 * agresión rusa contra Ucrania y contra Europa
+* sencillo, pero Rusia gasta mucho dinero para hacer que parezca complicado.
 * liberalismo ≠ pacifismo
 * las agresiones deben tener consecuencias
 * castigar la agresión
