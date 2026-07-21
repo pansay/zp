@@ -249,15 +249,15 @@ Otros Estados antiliberales, como China, ya están observando muy de cerca lo qu
 ---
 
 * https://en.liberpedia.org/Kremlintarianism
-* https://vatniksoup.com/en/topics/kremlintarians/
+* https://en.liberpedia.org/Murray_N._Rothbard
+* https://en.liberpedia.org/Russian_invasion_of_Ukraine/Reasons
 * https://laissez-faire.ch/en/articles/agency-denial-is-not-libertarian/
 * https://laissez-faire.ch/en/articles/hoppe-putin-versteher/
 * https://laissez-faire.ch/en/articles/libertarianism-is-against-aggression/
-* https://en.liberpedia.org/Murray_N._Rothbard
-* https://en.liberpedia.org/Russian_invasion_of_Ukraine/Reasons
+* https://vatniksoup.com/en/topics/kremlintarians/
 * https://freemarketsandfirepower.substack.com/
 * https://mises.org/online-book/liberalism-classical-tradition/3-liberal-foreign-policy/11-russia
-
+* https://www.theunpopulist.net/p/the-leading-realist-theorist-ignores
 
 ---
 
