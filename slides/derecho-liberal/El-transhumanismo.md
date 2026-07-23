@@ -7,11 +7,11 @@ Hemos hablado del Derecho, de sus enemigos, y ahora tenemos que hablar del futur
 
 ¿Como el Derecho va a cambiar, o no cambiar, dado las nuevas tecnologías y los cambios científicos?
 
----
+<!-- ---
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019 -->
 
 ---
 
@@ -38,7 +38,7 @@ la libertad, ¿para quien? ¿quien tiene Derechos?
 
 ---
 
-![](media/do-unto-others.png)
+![](../../media/do-unto-others.png)
 
 > [SMBC](http://www.smbc-comics.com/?id=3443)
 
@@ -58,19 +58,19 @@ la libertad, ¿para quien? ¿quien tiene Derechos?
 
 ---
 
-![](media/do-you-fear-death-1.png)
+![](../../media/do-you-fear-death-1.png)
 
 ---
 
-![](media/do-you-fear-death-2.png)
+![](../../media/do-you-fear-death-2.png)
 
 ---
 
-![](media/do-you-fear-death-3.png)
+![](../../media/do-you-fear-death-3.png)
 
 ---
 
-![](media/do-you-fear-death-4.png)
+![](../../media/do-you-fear-death-4.png)
 
 > [SMBC](https://thenib.com/do-you-fear-death-76fb193deec5)
 
@@ -169,6 +169,6 @@ Yuval Noah Harari, [Homo Deus: Breve historia del mañana](https://www.amazon.es
 
 ---
 
-<video data-autoplay src="media/wanderers.mp4"></video>
+<video data-autoplay src="../../media/wanderers.mp4"></video>
 
 ---

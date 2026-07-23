@@ -3,11 +3,11 @@ Derecho liberal
 
 Serie de ponencias sobre el Derecho liberal
 
----
+<!-- ---
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019 -->
 
 ---
 

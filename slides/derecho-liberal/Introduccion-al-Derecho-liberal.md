@@ -5,11 +5,11 @@ Introducción al Derecho liberal
 
 El Derecho liberal, qué es, y por qué es importante
 
----
+<!-- ---
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2024
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2024 -->
 
 ---
 

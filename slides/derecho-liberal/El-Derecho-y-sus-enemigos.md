@@ -3,11 +3,11 @@ El Derecho y sus enemigos
 
 ---Texto---
 
----
+<!-- ---
 
 Jan Krepelka
 
-Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
+Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019 -->
 
 ---
 
@@ -24,7 +24,7 @@ Universidad de Verano, Instituto Juan de Mariana, Lanzarote, Julio 2019
 
 1.5 Anarquismo
 
-![did you mean...](media/did-you-mean.png)
+![did you mean...](../../media/did-you-mean.png)
 
 ---
 
@@ -166,13 +166,13 @@ legalizar es prohibir
 
 |||
 |---|---|
-|![legalize everything](media/disapprove.png)|![legalize everything](media/legalize-everything.png)|
+|![legalize everything](../../media/disapprove.png)|![legalize everything](../../media/legalize-everything.png)|
 
 ---
 
 |||
 |---|---|
-|![legalize everything](media/approve.png)|![legalize everything](media/i-just-want.png)|
+|![legalize everything](../../media/approve.png)|![legalize everything](../../media/i-just-want.png)|
 
 
 ---
@@ -235,7 +235,7 @@ Miramos las cuotas oficiales del orden de Yezhov:
 
 ||||
 |---|---|---|
-|![](media/nkvd1.png)|![](media/nkvd2.png)|![](media/nkvd3.png)|
+|![](../../media/nkvd1.png)|![](../../media/nkvd2.png)|![](../../media/nkvd3.png)|
 
 ---Texto---
 
@@ -247,7 +247,7 @@ Cada linea es una región. La primera columna es la primera categoría de enemig
 
 |||
 |---|---|
-|![](media/nkvd4.png)|![](media/nkvd5.png)|
+|![](../../media/nkvd4.png)|![](../../media/nkvd5.png)|
 
 ---Texto---
 
@@ -277,11 +277,11 @@ porque no han sido estos los trabajos de Hitler y Stalin ?
 
 ---
 
-<video data-autoplay src="media/family-guy-hitler.mp4"></video>
+<video data-autoplay src="../../media/family-guy-hitler.mp4"></video>
 
 ---
 
-![communist party](media/communist-party.png)
+![communist party](../../media/communist-party.png)
 
 ---
 
@@ -354,7 +354,7 @@ https://serval.unil.ch/resource/serval:BIB_1F6C29A616C0.P001/REF
 
 ---
 
-<video data-autoplay src="media/unlimited-power.mp4"></video>
+<video data-autoplay src="../../media/unlimited-power.mp4"></video>
 
 ---
 
